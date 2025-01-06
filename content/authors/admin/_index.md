@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 郭思友
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Siyou Guo
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Siyou
+last_name: Guo
 
 # Status emoji
 status:
@@ -24,8 +24,8 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Shandong University of Technology
+    url: https://www.sdut.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
