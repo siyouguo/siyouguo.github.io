@@ -40,6 +40,12 @@ I am a second-year Master's student at the School of Electrical and Electronic E
 </div>
 </div> -->
 
+<div class='paper-box'><div class='paper-box-image'><div>
+<div class="badge">IMAVIS</div>
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
 - `IMAVIS` [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702)
   
   <!-- <u><font size=4>Siyou Guo</font></u>, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida -->
@@ -69,9 +75,9 @@ I am a second-year Master's student at the School of Electrical and Electronic E
 - *2023.06 - 2025.06 (now)*, School of Electrical and Electronic Engineering, Shandong University of Technology, Control Engineering Major. 
 - *2019.09 - 2023.06*, School of Electrical and Electronic Engineering, Shandong University of Technology, Automation Major. 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
