@@ -16,7 +16,7 @@ redirect_from: 1
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a second-year Master's student at the School of Electrical and Electronic Engineering, Shandong University of Technology. Advised by Prof. Mingliang Gao, my research interest includes misinformation, deepfake detection and fake news detection, in the era of large language models.
+I am a second-year Master's student at the School of Electrical and Electronic Engineering, Shandong University of Technology. Advised by [Prof. Mingliang Gao](https://scholar.google.com/citations?user=IFEIrUgAAAAJ&hl=en), my research interest includes misinformation, deepfake detection and fake news detection, in the era of large language models.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge  -->
 
