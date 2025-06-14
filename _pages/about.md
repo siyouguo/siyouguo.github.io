@@ -96,7 +96,7 @@ I am a second-year Master's student at the School of Electrical and Electronic E
 
   **Siyou Guo**, Qilei Li, Mingliang Gao, Guisheng Zhang, Jinfeng Pan, Gwanggil Jeon
 
-- `IMAVIS` [Smart City Security: Fake News Detection in Consumer Electronics](https://ieeexplore.ieee.org/document/10746610)
+- `IEEE CEM` [Smart City Security: Fake News Detection in Consumer Electronics](https://ieeexplore.ieee.org/document/10746610)
   
   **Siyou Guo**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
 
