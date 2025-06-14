@@ -54,6 +54,8 @@ I am a second-year Master's student at the School of Electrical and Electronic E
 - <div class="badge">IMAVIS</div>
 - [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702)
 
+- <div class="badge">IMAVIS</div><a href="https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702">Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network</a>
+
 - `IMAVIS` [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702)
   
   <!-- <u><font size=4>Siyou Guo</font></u>, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida -->
