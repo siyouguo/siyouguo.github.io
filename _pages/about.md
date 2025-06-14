@@ -86,29 +86,41 @@ Previously, I received the B.Eng degree form Shandong University of Technology i
 <!-- </div> -->
  
 
-- `IMAVIS` [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702)
+- [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702) `CCF C`
+
+  *Image and Vision Computing*
   
   <!-- <u><font size=4>Siyou Guo</font></u>, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida -->
   **Siyou Guo**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida
 
 - `IEEE CEM` [Deep learning-based face forgery detection for facial payment systems](https://ieeexplore.ieee.org/document/10613498)
+  
+  *IEEE Consumer Electronics Magazine*
 
   **Siyou Guo**, Qilei Li, Mingliang Gao, Guisheng Zhang, Jinfeng Pan, Gwanggil Jeon
 
-- `IEEE CEM` [Smart City Security: Fake News Detection in Consumer Electronics](https://ieeexplore.ieee.org/document/10746610)
+- [Smart City Security: Fake News Detection in Consumer Electronics](https://ieeexplore.ieee.org/document/10746610)
+
+  *IEEE Consumer Electronics Magazine*
   
   **Siyou Guo**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
 
-- `IJCNN` [Deepfake Detection via a Progressive Attention Network](https://ieeexplore.ieee.org/document/10650463)
+- [Deepfake Detection via a Progressive Attention Network](https://ieeexplore.ieee.org/document/10650463) `CCF C`
+
+  *International Joint Conference on Neural Networks (IJCNN)*
   
   **Siyou Guo**, Mingliang Gao, Qilei Li, Gwanggil Jeon, David Camacho
 
 
-- `IEEE TCE` [Detecting Sequential Deepfake Manipulation via Spectral Transformer With Pyramid Attention in Consumer IoT](https://ieeexplore.ieee.org/document/10556749)
+- [Detecting Sequential Deepfake Manipulation via Spectral Transformer With Pyramid Attention in Consumer IoT](https://ieeexplore.ieee.org/document/10556749)
+
+  *IEEE Transactions on Consumer Electronics*
   
   Guisheng Zhang, Mingliang Gao, Qilei Li, **Siyou Guo**, Gwanggil Jeon
   
-- `IEEE TCSS` [Space-Frequency and Global-Local Attentive Networks for Sequential Deepfake Detection](https://ieeexplore.ieee.org/document/10904029)
+- [Space-Frequency and Global-Local Attentive Networks for Sequential Deepfake Detection](https://ieeexplore.ieee.org/document/10904029) `CCF C`
+
+  *IEEE Transactions on Computational Social Systems*
   
   Guisheng Zhang, Mingliang Gao, Qilei Li, **Siyou Guo**, Gwanggil Jeon, Ahmed M. Abdelmoniem
 
