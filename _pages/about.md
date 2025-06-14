@@ -25,9 +25,7 @@ Previously, I received the B.Eng degree form Shandong University of Technology i
 <!-- <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 
-# 📖 Educations
-- *2023.06 - Now*, School of Electrical and Electronic Engineering, Shandong University of Technology, Control Engineering Major. 
-- *2019.09 - 2023.06*, School of Electrical and Electronic Engineering, Shandong University of Technology, Automation Major. 
+
 
 
 
@@ -129,6 +127,10 @@ Previously, I received the B.Eng degree form Shandong University of Technology i
 - Third Prize, The 4th Higher Education Big Data Challenge, 2024.
 
 
+
+# 📖 Educations
+- *2023.06 - Now*, School of Electrical and Electronic Engineering, Shandong University of Technology, Control Engineering Major. 
+- *2019.09 - 2023.06*, School of Electrical and Electronic Engineering, Shandong University of Technology, Automation Major. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
