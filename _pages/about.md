@@ -41,8 +41,8 @@ I am a second-year Master's student at the School of Electrical and Electronic E
 </div>
 
 - `IMAVIS` [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702)
-
-<u><font size=4>Siyou Guo</font></u>, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida
+  
+  <u><font size=4>Siyou Guo</font></u>, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
