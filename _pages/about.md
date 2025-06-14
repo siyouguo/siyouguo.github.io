@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from: 1
   - /about/
   - /about.html
 ---
@@ -32,8 +32,10 @@ I am a second-year Master's student at the School of Electrical and Electronic E
 # 📝 Publications 
 
 <div class='paper-box'>
-<div class='paper-box-image'><div>
-<div class="badge">TCE</div>
+<div class='paper-box-image'>
+<div>
+<div class="badge">TCE
+</div>
 <!-- <img src='images/Siyou-TCE.png' alt="sym" width="100%"> -->
 </div>
 </div>
@@ -74,7 +76,7 @@ I am a second-year Master's student at the School of Electrical and Electronic E
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
-
+ 
 
 - `IMAVIS` [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702)
   
