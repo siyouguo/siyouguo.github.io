@@ -20,8 +20,15 @@ I am a second-year Master's student at the School of Electrical and Electronic E
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge  -->
 
+ <!-- 谷歌 -->
+<!-- <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-<a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
+# 📖 Educations
+- *2023.06 - 2025.06 (now)*, School of Electrical and Electronic Engineering, Shandong University of Technology, Control Engineering Major. 
+- *2019.09 - 2023.06*, School of Electrical and Electronic Engineering, Shandong University of Technology, Automation Major. 
+
+
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 Our work was accepted to CVPR 2026! It's just an oral presentation, a bit of a pity though. 🐶
@@ -120,9 +127,7 @@ I am a second-year Master's student at the School of Electrical and Electronic E
 - Second Prize, The 5th MathorCup Mathematical Application Challenge – Big Data Competition, 2024.
 - Third Prize, The 4th Higher Education Big Data Challenge, 2024.
 
-# 📖 Educations
-- *2023.06 - 2025.06 (now)*, School of Electrical and Electronic Engineering, Shandong University of Technology, Control Engineering Major. 
-- *2019.09 - 2023.06*, School of Electrical and Electronic Engineering, Shandong University of Technology, Automation Major. 
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
