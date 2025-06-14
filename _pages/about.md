@@ -25,7 +25,7 @@ I am a second-year Master's student at the School of Electrical and Electronic E
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 Our work was accepted to CVPR 2026! It's just an oral presentation, a bit of a pity though. 🐶
-- *2025.09*: &nbsp;🎉🎉 Another paper accepted to NeurIPS 2025. Honestly didn't feel it was that novel, not sure what the reviewers were thinking. 🐶
+- *2025.09*: &nbsp;🎉🎉 Our paper was accepted to NeurIPS 2025. 🐶
 - *2025.07*: &nbsp;🎉🎉 Our project on GitHub accidentally hit 10k stars! The support has been overwhelming. 🐶
 - *2025.05*: &nbsp;🎉🎉 Honored to receive the Google PhD Fellowship this year. Time to buy more GPUs! 🐶
 
@@ -36,7 +36,7 @@ I am a second-year Master's student at the School of Electrical and Electronic E
 <div>
 <div class="badge">TCE
 </div>
-<!-- <img src='images/Siyou-TCE.png' alt="sym" width="100%"> -->
+<img src='images/Siyou-TCE.png' alt="sym" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
