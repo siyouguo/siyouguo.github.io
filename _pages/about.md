@@ -48,9 +48,9 @@ I am a second-year Master's student at the School of Electrical and Electronic E
 </div>
 <div class='paper-box-text' markdown="1"> -->
 
-- <div class="badge">IMAVIS</div>
+<!-- - <div class="badge">IMAVIS</div> -->
 
-- `<div class="badge">IMAVIS</div>` [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702)
+- `IMAVIS` [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702)
   
   <!-- <u><font size=4>Siyou Guo</font></u>, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida -->
   **Siyou Guo**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida
@@ -63,10 +63,14 @@ I am a second-year Master's student at the School of Electrical and Electronic E
   **Siyou Guo**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
 
 - `IJCNN` [Deepfake Detection via a Progressive Attention Network](https://ieeexplore.ieee.org/document/10650463)
+  **Siyou Guo**, Mingliang Gao, Qilei Li, Gwanggil Jeon, David Camacho
 
-- `IMAVIS` [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702)
+
+- `IEEE TCE` [Detecting Sequential Deepfake Manipulation via Spectral Transformer With Pyramid Attention in Consumer IoT](https://ieeexplore.ieee.org/document/10556749)
+  Guisheng Zhang, Mingliang Gao, Qilei Li, **Siyou Guo**, Gwanggil Jeon
   
-- `IMAVIS` [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702)
+- `IEEE TCSS` [Space-Frequency and Global-Local Attentive Networks for Sequential Deepfake Detection](https://ieeexplore.ieee.org/document/10904029)
+  Guisheng Zhang, Mingliang Gao, Qilei Li, **Siyou Guo**, Gwanggil Jeon, Ahmed M. Abdelmoniem
 
 
 
