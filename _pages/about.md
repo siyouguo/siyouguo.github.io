@@ -40,15 +40,17 @@ I am a second-year Master's student at the School of Electrical and Electronic E
 </div>
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div>
+
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">IMAVIS</div>
 </div>
 </div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> -->
 
-<div class="badge">IMAVIS</div>
+- <div class="badge">IMAVIS</div>
 
-- `IMAVIS` [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702)
+- `<div class="badge">IMAVIS</div>` [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702)
   
   <!-- <u><font size=4>Siyou Guo</font></u>, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida -->
   **Siyou Guo**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida
