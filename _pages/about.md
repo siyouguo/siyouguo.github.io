@@ -31,17 +31,21 @@ I am a second-year Master's student at the School of Electrical and Electronic E
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'><div>
+<div class="badge">TCSS</div>
+<img src='images/Siyou-TCE.png' alt="sym" width="100%"></div>
+</div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Deepfake Detection via Spatial-Frequency Attention Network](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Siyou Guo**, Mingliang Gao, Qilei Li, Changcun Liu, Qilei Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
-</div> -->
+</div>
 
 
 
@@ -51,10 +55,11 @@ I am a second-year Master's student at the School of Electrical and Electronic E
 </div>
 <div class='paper-box-text' markdown="1"> -->
 
+<div class="badge">IMAVIS</div>
 
-- <div class="badge" style="display: inline-block; margin-right: 10px;">IMAVIS</div><a href="https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702">Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network</a>
+[Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702)
 
-  **Siyou Guo**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida
+  **Siyou Guo**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida -->
 
 - `IMAVIS` [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702)
   
