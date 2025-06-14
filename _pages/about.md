@@ -46,6 +46,8 @@ I am a second-year Master's student at the School of Electrical and Electronic E
 </div>
 <div class='paper-box-text' markdown="1">
 
+<div class="badge">IMAVIS</div>
+
 - `IMAVIS` [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702)
   
   <!-- <u><font size=4>Siyou Guo</font></u>, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida -->
@@ -53,11 +55,12 @@ I am a second-year Master's student at the School of Electrical and Electronic E
 
 - `IEEE CEM` [Deep learning-based face forgery detection for facial payment systems](https://ieeexplore.ieee.org/document/10613498)
 
-**Siyou Guo**, Qilei Li, Mingliang Gao, Guisheng Zhang, Jinfeng Pan, Gwanggil Jeon
+  **Siyou Guo**, Qilei Li, Mingliang Gao, Guisheng Zhang, Jinfeng Pan, Gwanggil Jeon
 
-- `IMAVIS` [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702)
+- `IMAVIS` [Smart City Security: Fake News Detection in Consumer Electronics](https://ieeexplore.ieee.org/document/10746610)
+  **Siyou Guo**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
 
-- `IMAVIS` [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702)
+- `IJCNN` [Deepfake Detection via a Progressive Attention Network](https://ieeexplore.ieee.org/document/10650463)
 
 - `IMAVIS` [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702)
   
