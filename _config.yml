@@ -23,11 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Siyou Guo"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Shandong University of Technology"
   location         : "Shandong, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : " https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en"
   email            : "siyou.guo@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
