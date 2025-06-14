@@ -19,6 +19,8 @@ redirect_from:
 I am a second-year Master's student at the School of Electrical and Electronic Engineering, Shandong University of Technology. Advised by Prof. Mingliang Gao, my research interest includes misinformation, deepfake detection and fake news detection, in the era of large language models.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge  -->
+
+
 <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
@@ -49,7 +51,7 @@ I am a second-year Master's student at the School of Electrical and Electronic E
 </div>
 <div class='paper-box-text' markdown="1"> -->
 
-<!-- - <div class="badge">IMAVIS</div> -->
+- <div class="badge">IMAVIS</div>
 
 - `IMAVIS` [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702)
   
