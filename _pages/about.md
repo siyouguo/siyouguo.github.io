@@ -21,10 +21,11 @@ I am a second-year Master's student at the School of Electrical and Electronic E
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge  -->
 <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 siyou guo. 
-- *2022.02*: &nbsp;🎉🎉 siyou guo. 
+- *2026.02*: &nbsp;🎉🎉 Our work was accepted to CVPR 2026! It's just an oral presentation, a bit of a pity though. 🐶
+- *2025.09*: &nbsp;🎉🎉 Another paper accepted to NeurIPS 2025. Honestly didn't feel it was that novel, not sure what the reviewers were thinking. 🐶
+- *2025.07*: &nbsp;🎉🎉 Our project on GitHub accidentally hit 10k stars! The support has been overwhelming. 🐶
+- *2025.05*: &nbsp;🎉🎉 Honored to receive the Google PhD Fellowship this year. Time to buy more GPUs! 🐶
 
 # 📝 Publications 
 
@@ -60,16 +61,20 @@ I am a second-year Master's student at the School of Electrical and Electronic E
   **Siyou Guo**, Qilei Li, Mingliang Gao, Guisheng Zhang, Jinfeng Pan, Gwanggil Jeon
 
 - `IMAVIS` [Smart City Security: Fake News Detection in Consumer Electronics](https://ieeexplore.ieee.org/document/10746610)
+  
   **Siyou Guo**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
 
 - `IJCNN` [Deepfake Detection via a Progressive Attention Network](https://ieeexplore.ieee.org/document/10650463)
+  
   **Siyou Guo**, Mingliang Gao, Qilei Li, Gwanggil Jeon, David Camacho
 
 
 - `IEEE TCE` [Detecting Sequential Deepfake Manipulation via Spectral Transformer With Pyramid Attention in Consumer IoT](https://ieeexplore.ieee.org/document/10556749)
+  
   Guisheng Zhang, Mingliang Gao, Qilei Li, **Siyou Guo**, Gwanggil Jeon
   
 - `IEEE TCSS` [Space-Frequency and Global-Local Attentive Networks for Sequential Deepfake Detection](https://ieeexplore.ieee.org/document/10904029)
+  
   Guisheng Zhang, Mingliang Gao, Qilei Li, **Siyou Guo**, Gwanggil Jeon, Ahmed M. Abdelmoniem
 
 
