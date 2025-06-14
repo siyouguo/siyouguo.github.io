@@ -25,7 +25,7 @@ I am a second-year Master's student at the School of Electrical and Electronic E
 
 
 # 📖 Educations
-- *2023.06 - 2025.06 (now)*, School of Electrical and Electronic Engineering, Shandong University of Technology, Control Engineering Major. 
+- *2023.06 - Now*, School of Electrical and Electronic Engineering, Shandong University of Technology, Control Engineering Major. 
 - *2019.09 - 2023.06*, School of Electrical and Electronic Engineering, Shandong University of Technology, Automation Major. 
 
 
