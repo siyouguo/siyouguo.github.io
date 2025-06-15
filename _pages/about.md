@@ -50,7 +50,7 @@ My resume in Chinese is [here](https://drive.google.com/file/d/1J0ZBaOqzJ2xnaAD3
 
 *IEEE Transactions on Consumer Electronics*
 
-**<font size=4>Siyou Guo</font>**, Mingliang Gao, Guisheng Zhang, Changcun Liu, Qilei Li
+**<font size=3>Siyou Guo</font>**, Mingliang Gao, Guisheng Zhang, Changcun Liu, Qilei Li
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -62,38 +62,46 @@ My resume in Chinese is [here](https://drive.google.com/file/d/1J0ZBaOqzJ2xnaAD3
   *Image and Vision Computing*
   
   <!-- <u><font size=4>Siyou Guo</font></u>, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida -->
-  **<font size=4>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida
+  **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida
 
 - [Deep learning-based face forgery detection for facial payment systems](https://ieeexplore.ieee.org/document/10613498)
   
   *IEEE Consumer Electronics Magazine*
 
-  **<font size=4>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Jinfeng Pan, Gwanggil Jeon
+  **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Jinfeng Pan, Gwanggil Jeon
 
 - [Smart City Security: Fake News Detection in Consumer Electronics](https://ieeexplore.ieee.org/document/10746610)
 
   *IEEE Consumer Electronics Magazine*
   
-  **<font size=4>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
+  **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
 
 - [Deepfake Detection via a Progressive Attention Network](https://ieeexplore.ieee.org/document/10650463) <font color=red>(CCF C)</font>
 
   *Proceedings of International Joint Conference on Neural Networks (IJCNN)*
   
-  **<font size=4>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Gwanggil Jeon, David Camacho
+  **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Gwanggil Jeon, David Camacho
 
+
+- [Demosaicking Algorithm Using Deep Residual Convolutional Network](https://ieeexplore.ieee.org/document/10556749)
+
+  *International Journal of Interactive Multimedia and Artificial Intelligence*
+
+  Jin Wang, **<font size=3>Siyou Guo</font>**, Qilei Li, David Camacho, Gwanggil Jeon
+
+  <!-- 上面这个论文链接不对 -->
 
 - [Detecting Sequential Deepfake Manipulation via Spectral Transformer With Pyramid Attention in Consumer IoT](https://ieeexplore.ieee.org/document/10556749)
 
   *IEEE Transactions on Consumer Electronics*
   
-  Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=4>Siyou Guo</font>**, Gwanggil Jeon
+  Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=3>Siyou Guo</font>**, Gwanggil Jeon
   
 - [Space-Frequency and Global-Local Attentive Networks for Sequential Deepfake Detection](https://ieeexplore.ieee.org/document/10904029) <font color=red>(CCF C)</font>
 
   *IEEE Transactions on Computational Social Systems*
   
-  Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=4>Siyou Guo</font>**, Gwanggil Jeon, Ahmed M. Abdelmoniem
+  Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=3>Siyou Guo</font>**, Gwanggil Jeon, Ahmed M. Abdelmoniem
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
