@@ -50,7 +50,7 @@ My resume in Chinese is [here](https://drive.google.com/file/d/1J0ZBaOqzJ2xnaAD3
 
 *IEEE Transactions on Consumer Electronics*
 
-**Siyou Guo**, Mingliang Gao, Qilei Li, Changcun Liu, Qilei Li
+**<font size=4>Siyou Guo</font>**, Mingliang Gao, Guisheng Zhang, Changcun Liu, Qilei Li
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
