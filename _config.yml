@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Siyou Guo"
+  name             : "Siyou Guo (郭思友)"
   avatar           : "images/weiyi.jpg"
-  bio              : "School of Electrical and Electronic Engineering, Shandong University of Technology"
+  bio              : "Shandong University of Technology"
   location         : "Shandong, China"
   employer         :
   pubmed           : 
@@ -45,7 +45,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/385/5382.html"
   orcid            : "https://orcid.org/0009-0003-8373-9969"
   pinterest        :
   soundcloud       :

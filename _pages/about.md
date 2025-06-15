@@ -56,35 +56,7 @@ Previously, I received the B.Eng degree form Shandong University of Technology i
 </div>
 </div>
 
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div>
-<div class="badge">IMAVIS</div>
-</div>
-</div>
-<div class='paper-box-text' markdown="1"> -->
-
-
-
-<!-- <div class='paper-box'>
-<div class='paper-box-image'><div>
-<div class="badge">IMAVIS</div>
-<!-- <img src='images/Siyou-TCE.png' alt="sym" width="100%"> -->
-<!-- </div>
-</div> -->
-<!-- <div class='paper-box-text' markdown="1"> -->
-
-<!-- [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702)
-
-  **Siyou Guo**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida -->
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-<!-- </div> -->
-<!-- </div> --> 
- 
-
-- [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702) **CCF C**
+- [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702) <font color=red>(CCF C)</font>
 
   *Image and Vision Computing*
   
@@ -103,7 +75,7 @@ Previously, I received the B.Eng degree form Shandong University of Technology i
   
   **Siyou Guo**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
 
-- [Deepfake Detection via a Progressive Attention Network](https://ieeexplore.ieee.org/document/10650463) **CCF C**
+- [Deepfake Detection via a Progressive Attention Network](https://ieeexplore.ieee.org/document/10650463) <font color=red>(CCF C)</font>
 
   *Proceedings of International Joint Conference on Neural Networks (IJCNN)*
   
@@ -116,7 +88,7 @@ Previously, I received the B.Eng degree form Shandong University of Technology i
   
   Guisheng Zhang, Mingliang Gao, Qilei Li, **Siyou Guo**, Gwanggil Jeon
   
-- [Space-Frequency and Global-Local Attentive Networks for Sequential Deepfake Detection](https://ieeexplore.ieee.org/document/10904029) **CCF C**
+- [Space-Frequency and Global-Local Attentive Networks for Sequential Deepfake Detection](https://ieeexplore.ieee.org/document/10904029) <font color=red>(CCF C)</font>
 
   *IEEE Transactions on Computational Social Systems*
   
