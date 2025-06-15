@@ -16,7 +16,7 @@ redirect_from: 1
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a second-year M.S. student at the School of Electrical and Electronic Engineering, Shandong University of Technology. Advised by [Prof. Mingliang Gao](https://scholar.google.com/citations?user=IFEIrUgAAAAJ&hl=en), my research interest includes misinformation, deepfake detection and fake news detection, in the era of large language models. 
+I am a second-year M.S. student at the [School of Electrical and Electronic Engineering](https://dz.sdut.edu.cn/), [Shandong University of Technology](https://www.sdut.edu.cn/). Advised by [Prof. Mingliang Gao](https://scholar.google.com/citations?user=IFEIrUgAAAAJ&hl=en), my research interest includes misinformation, deepfake detection and fake news detection, in the era of large language models. 
 Previously, I received the B.Eng degree form Shandong University of Technology in 2023.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge  -->
@@ -93,7 +93,7 @@ Previously, I received the B.Eng degree form Shandong University of Technology i
   <!-- <u><font size=4>Siyou Guo</font></u>, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida -->
   **Siyou Guo**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida
 
-- `IEEE CEM` [Deep learning-based face forgery detection for facial payment systems](https://ieeexplore.ieee.org/document/10613498)
+- [Deep learning-based face forgery detection for facial payment systems](https://ieeexplore.ieee.org/document/10613498)
   
   *IEEE Consumer Electronics Magazine*
 
@@ -107,7 +107,7 @@ Previously, I received the B.Eng degree form Shandong University of Technology i
 
 - [Deepfake Detection via a Progressive Attention Network](https://ieeexplore.ieee.org/document/10650463) `CCF C`
 
-  *International Joint Conference on Neural Networks (IJCNN)*
+  *Proceedings of International Joint Conference on Neural Networks (IJCNN)*
   
   **Siyou Guo**, Mingliang Gao, Qilei Li, Gwanggil Jeon, David Camacho
 
@@ -130,7 +130,7 @@ Previously, I received the B.Eng degree form Shandong University of Technology i
 
 # 🎖 Honors and Awards
 - *2023, 2024* Graduate Student Academic Scholarship.
-- Graduate Student Zhiyang Scholarship, 2025.
+- Graduate Student [Zhiyang](https://www.zhiyang.com.cn/) Scholarship, 2025.
 - College English Test Band 6 (CET-6) Certificate
 - Third Prize, The 15th "CSEE Cup" National Undergraduate Electrotechnical Mathematical Modeling Competition, 2024.
 - Second Prize, May 1st Mathematical Contest in Modeling, 2024.
