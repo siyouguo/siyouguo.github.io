@@ -101,11 +101,11 @@ My resume in Chinese is [here](https://drive.google.com/file/d/1J0ZBaOqzJ2xnaAD3
 - *2023.10, 2024.10* Graduate Student Academic Scholarship.
 - 2025.3, Graduate Student [Zhiyang](https://www.zhiyang.com.cn/) Scholarship.
 - 2022, College English Test Band 6 (CET-6) Certificate
-- Third Prize, The 15th "CSEE Cup" National Undergraduate Electrotechnical Mathematical Modeling Competition, 2024.
-- Second Prize, May 1st Mathematical Contest in Modeling, 2024.
-- Second Prize, The 5th "Huashu Cup" National College Student Mathematical Modeling Competition, 2024.
-- Second Prize, The 5th MathorCup Mathematical Application Challenge – Big Data Competition, 2024.
-- Third Prize, The 4th Higher Education Big Data Challenge, 2024.
+- 2024, The 15th "CSEE Cup" National Undergraduate Electrotechnical Mathematical Modeling Competition, Third Prize.
+- 2024, May 1st Mathematical Contest in Modeling, Second Prize.
+- 2024, The 5th "Huashu Cup" National College Student Mathematical Modeling Competition, Second Prize.
+- 2024, The 5th MathorCup Mathematical Application Challenge – Big Data Competition, Second Prize.
+- 2024, The 4th Higher Education Big Data Challenge, Third Prize.
 
 
 
