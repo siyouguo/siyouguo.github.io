@@ -16,7 +16,7 @@ redirect_from: 1
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a second-year M.S. student at the [School of Electrical and Electronic Engineering](https://dz.sdut.edu.cn/), [Shandong University of Technology](https://www.sdut.edu.cn/). Advised by [Prof. Mingliang Gao](https://scholar.google.com/citations?user=IFEIrUgAAAAJ&hl=en), my research interest includes misinformation, deepfake detection and fake news detection, in the era of large language models. 
+I am a second-year M.S. student at the [School of Electrical and Electronic Engineering](https://dz.sdut.edu.cn/), [Shandong University of Technology (山东理工大学)](https://www.sdut.edu.cn/). Advised by [Prof. Mingliang Gao (高明亮)](https://scholar.google.com/citations?user=IFEIrUgAAAAJ&hl=en), my research interest includes misinformation, deepfake detection and fake news detection, in the era of large language models. 
 Previously, I received the B.Eng degree form Shandong University of Technology in 2023.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge  -->
@@ -24,7 +24,7 @@ Previously, I received the B.Eng degree form Shandong University of Technology i
  <!-- 谷歌 -->
 <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>   
  
-My resume in Chinese is [here](/images/siyou-CV.pdf).
+My resume in Chinese is [here](https://drive.google.com/file/d/1J0ZBaOqzJ2xnaAD3hU2tl_OAO-2xqwYa/view?usp=drive_link).
 
 # 🔥 News
 <!-- - *2026.02*: &nbsp;🎉🎉 Our work was accepted to CVPR 2026! It's just an oral presentation, a bit of a pity though. 🐶
@@ -62,47 +62,45 @@ My resume in Chinese is [here](/images/siyou-CV.pdf).
   *Image and Vision Computing*
   
   <!-- <u><font size=4>Siyou Guo</font></u>, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida -->
-  **Siyou Guo**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida
+  **<font size=4>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida
 
 - [Deep learning-based face forgery detection for facial payment systems](https://ieeexplore.ieee.org/document/10613498)
   
   *IEEE Consumer Electronics Magazine*
 
-  **Siyou Guo**, Qilei Li, Mingliang Gao, Guisheng Zhang, Jinfeng Pan, Gwanggil Jeon
+  **<font size=4>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Jinfeng Pan, Gwanggil Jeon
 
 - [Smart City Security: Fake News Detection in Consumer Electronics](https://ieeexplore.ieee.org/document/10746610)
 
   *IEEE Consumer Electronics Magazine*
   
-  **Siyou Guo**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
+  **<font size=4>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
 
 - [Deepfake Detection via a Progressive Attention Network](https://ieeexplore.ieee.org/document/10650463) <font color=red>(CCF C)</font>
 
   *Proceedings of International Joint Conference on Neural Networks (IJCNN)*
   
-  **Siyou Guo**, Mingliang Gao, Qilei Li, Gwanggil Jeon, David Camacho
+  **<font size=4>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Gwanggil Jeon, David Camacho
 
 
 - [Detecting Sequential Deepfake Manipulation via Spectral Transformer With Pyramid Attention in Consumer IoT](https://ieeexplore.ieee.org/document/10556749)
 
   *IEEE Transactions on Consumer Electronics*
   
-  Guisheng Zhang, Mingliang Gao, Qilei Li, **Siyou Guo**, Gwanggil Jeon
+  Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=4>Siyou Guo</font>**, Gwanggil Jeon
   
 - [Space-Frequency and Global-Local Attentive Networks for Sequential Deepfake Detection](https://ieeexplore.ieee.org/document/10904029) <font color=red>(CCF C)</font>
 
   *IEEE Transactions on Computational Social Systems*
   
-  Guisheng Zhang, Mingliang Gao, Qilei Li, **Siyou Guo**, Gwanggil Jeon, Ahmed M. Abdelmoniem
-
-
+  Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=4>Siyou Guo</font>**, Gwanggil Jeon, Ahmed M. Abdelmoniem
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2023, 2024* Graduate Student Academic Scholarship.
-- Graduate Student [Zhiyang](https://www.zhiyang.com.cn/) Scholarship, 2025.
-- College English Test Band 6 (CET-6) Certificate
+- *2023.10, 2024.10* Graduate Student Academic Scholarship.
+- 2025.3, Graduate Student [Zhiyang](https://www.zhiyang.com.cn/) Scholarship.
+- 2022, College English Test Band 6 (CET-6) Certificate
 - Third Prize, The 15th "CSEE Cup" National Undergraduate Electrotechnical Mathematical Modeling Competition, 2024.
 - Second Prize, May 1st Mathematical Contest in Modeling, 2024.
 - Second Prize, The 5th "Huashu Cup" National College Student Mathematical Modeling Competition, 2024.
@@ -112,8 +110,10 @@ My resume in Chinese is [here](/images/siyou-CV.pdf).
 
 
 # 📖 Educations
-- *2023.06 - Now*, School of Electrical and Electronic Engineering, Shandong University of Technology, Control Engineering Major. 
-- *2019.09 - 2023.06*, School of Electrical and Electronic Engineering, Shandong University of Technology, Automation Major. 
+- *2023.06 - Now*, Master, School of Electrical and Electronic Engineering, Shandong University of Technology, Zibo, China. 
+- *2019.09 - 2023.06*, Undergraduate, School of Electrical and Electronic Engineering, Shandong University of Technology, Zibo, China. 
+- *2016.09 - 2019.06*, Fanxian No.1 High School, Puyang, China. 
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -122,6 +122,6 @@ My resume in Chinese is [here](/images/siyou-CV.pdf).
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
 
 
