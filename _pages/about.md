@@ -17,7 +17,6 @@ redirect_from: 1
 
 <span class='anchor' id='about-me'></span>
 I am a second-year M.S. student at the [School of Electrical and Electronic Engineering](https://dz.sdut.edu.cn/), [Shandong University of Technology](https://www.sdut.edu.cn/). Advised by [Prof. Mingliang Gao](https://scholar.google.com/citations?user=IFEIrUgAAAAJ&hl=en), my research interest includes misinformation, deepfake detection and fake news detection, in the era of large language models. 
-I have published 50+ papers <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fsiyouguo%2siyouguo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 Previously, I received the B.Eng degree form Shandong University of Technology in 2023.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge  -->
@@ -26,26 +25,13 @@ Previously, I received the B.Eng degree form Shandong University of Technology i
 <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
  
 
-
-<p>
-I am a second-year M.S. student at the [School of Electrical and Electronic Engineering](https://dz.sdut.edu.cn/), [Shandong University of Technology](https://www.sdut.edu.cn/). Advised by [Prof. Mingliang Gao](https://scholar.google.com/citations?user=IFEIrUgAAAAJ&hl=en), my research interest includes misinformation, deepfake detection and fake news detection, in the era of large language models. 
-I have published 50+ papers 
-<a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'>
-    <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar Citations">
-</a>. 
-Previously, I received the B.Eng degree form Shandong University of Technology in 2023.
-</p>
-
-
- 
-
-
-
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 Our work was accepted to CVPR 2026! It's just an oral presentation, a bit of a pity though. 🐶
+<!-- - *2026.02*: &nbsp;🎉🎉 Our work was accepted to CVPR 2026! It's just an oral presentation, a bit of a pity though. 🐶
 - *2025.09*: &nbsp;🎉🎉 Our paper was accepted to NeurIPS 2025. 🐶
-- *2025.07*: &nbsp;🎉🎉 Our project on GitHub accidentally hit 10k stars! The support has been overwhelming. 🐶
-- *2025.05*: &nbsp;🎉🎉 Honored to receive the Google PhD Fellowship this year. Time to buy more GPUs! 🐶
+- *2025.07*: &nbsp;🎉🎉 Our project on GitHub accidentally hit 10k stars! The support has been overwhelming. 🐶 -->
+- *2025.05*: &nbsp;🎉🎉 Our paper was accepted to Image and Vision Computing.
+- *2024.03*: &nbsp;🎉🎉 Great news to kick things off! My first paper of graduate school has been accepted to IJCNN 2024!
+
 
 # 📝 Publications 
 
