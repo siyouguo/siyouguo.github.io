@@ -90,7 +90,7 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 - [Federated Learning-Driven Face Forgery Detection via Rich Feature Complementary Fusion](https://ieeexplore.ieee.org/document/10904029) <font color=red>(CCF C)</font>
 
   *IEEE Transactions on Computational Social Systems*
-  
+
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
   <!-- 上面这个论文链接不对 -->
 
@@ -125,13 +125,13 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 
 # 🎖 Honors and Awards
 - *2023.10, 2024.10* Graduate Student Academic Scholarship.
-- 2025.3, Graduate Student [Zhiyang](https://www.zhiyang.com.cn/) Scholarship.
+- 2025.03, Graduate Student [Zhiyang](https://www.zhiyang.com.cn/) Scholarship.
 - 2022, College English Test Band 6 (CET-6) Certificate
-- 2024, The 15th "[CSEE Cup](https://www.csee.org.cn/)" National Undergraduate Electrotechnical Mathematical Modeling Competition, Third Prize.
-- 2024, [May 1st Mathematical Contest in Modeling](https://51mcm.cumt.edu.cn/), Second Prize.
-- 2024, The 5th "Huashu Cup" National College Student Mathematical Modeling Competition, Second Prize.
-- 2024, The 5th MathorCup Mathematical Application Challenge – Big Data Competition, Second Prize.
-- 2024, The 4th Higher Education Big Data Challenge, Third Prize.
+- 2024.08, The 16th "[CSEE Cup](https://www.csee.org.cn/)" National Undergraduate Electrotechnical Mathematical Modeling Competition, Third Prize.
+- 2024.06, [May 1st Mathematical Contest in Modeling](https://51mcm.cumt.edu.cn/), Second Prize.
+- 2024.08, The 5th "Huashu Cup" National College Student Mathematical Modeling Competition, Second Prize.
+- 2024.12, The 5th MathorCup Mathematical Application Challenge – Big Data Competition, Second Prize.
+- 2025.03, The 4th Higher Education Big Data Challenge, Third Prize.
 
 
 
