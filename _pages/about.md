@@ -86,14 +86,27 @@ Previously, I received the B.Eng degree form SDUT in 2023.
   
   **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Gwanggil Jeon, David Camacho
 
+   
+- [Federated Learning-Driven Face Forgery Detection via Rich Feature Complementary Fusion](https://ieeexplore.ieee.org/document/10904029) <font color=red>(CCF C)</font>
+
+  *IEEE Transactions on Computational Social Systems*
+  **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
+  <!-- 上面这个论文链接不对 -->
+
 
 - [Demosaicking Algorithm Using Deep Residual Convolutional Network](https://ieeexplore.ieee.org/document/10556749)
 
   *International Journal of Interactive Multimedia and Artificial Intelligence*
 
   Jin Wang, **<font size=3>Siyou Guo</font>**, Qilei Li, David Camacho, Gwanggil Jeon
-
   <!-- 上面这个论文链接不对 -->
+
+- [Context-Aware Deepfake Detection for Securing AI-Driven Financial Transactions](https://ieeexplore.ieee.org/document/10904029) <font color=red>(CCF C)</font>
+
+  *IEEE Transactions on Computational Social Systems*
+
+  Changcun Liu, Guisheng Zhang, **<font size=3>Siyou Guo</font>**, Qilei Li, Gwanggil Jeon, Mingliang Gao. 
+    <!-- 上面这个论文链接不对 -->
 
 - [Detecting Sequential Deepfake Manipulation via Spectral Transformer With Pyramid Attention in Consumer IoT](https://ieeexplore.ieee.org/document/10556749)
 
