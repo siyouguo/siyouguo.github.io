@@ -16,15 +16,19 @@ redirect_from: 1
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a second-year M.S. student at the [School of Electrical and Electronic Engineering](https://dz.sdut.edu.cn/), [Shandong University of Technology (山东理工大学)](https://www.sdut.edu.cn/). Advised by [Prof. Mingliang Gao (高明亮)](https://scholar.google.com/citations?user=IFEIrUgAAAAJ&hl=en), my research interest includes misinformation, deepfake detection and fake news detection, in the era of large language models. 
-Previously, I received the B.Eng degree form Shandong University of Technology in 2023.
+I am a second-year M.S. student at the [School of Electrical and Electronic Engineering](https://dz.sdut.edu.cn/), [Shandong University of Technology (SDUT)](https://www.sdut.edu.cn/). Advised by [Prof. Mingliang Gao (高明亮)](https://scholar.google.com/citations?user=IFEIrUgAAAAJ&hl=en), my research is centered on the critical challenges of misinformation and malicious content detection.
+
+Specifically, I am passionate about developing robust techniques for **deepfake and fake news detection**, with a particular focus on the new complexities and threats emerging in the era of Large Language Models (LLMs). My goal is to contribute to a more secure and trustworthy information ecosystem.
+
+Previously, I received the B.Eng degree form SDUT in 2023.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge  -->
 
  <!-- 谷歌 -->
 <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>   
  
-My resume in Chinese is [here](https://drive.google.com/file/d/1J0ZBaOqzJ2xnaAD3hU2tl_OAO-2xqwYa/view?usp=drive_link).
+<!-- 中文简历 -->
+<!-- My resume in Chinese is [here](https://drive.google.com/file/d/1J0ZBaOqzJ2xnaAD3hU2tl_OAO-2xqwYa/view?usp=drive_link). -->
 
 # 🔥 News
 <!-- - *2026.02*: &nbsp;🎉🎉 Our work was accepted to CVPR 2026! It's just an oral presentation, a bit of a pity though. 🐶
