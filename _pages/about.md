@@ -90,6 +90,7 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 - [Federated Learning-Driven Face Forgery Detection via Rich Feature Complementary Fusion](https://ieeexplore.ieee.org/document/10904029) <font color=red>(CCF C)</font>
 
   *IEEE Transactions on Computational Social Systems*
+  
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
   <!-- 上面这个论文链接不对 -->
 
