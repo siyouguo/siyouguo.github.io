@@ -109,8 +109,8 @@ My resume in Chinese is [here](https://drive.google.com/file/d/1J0ZBaOqzJ2xnaAD3
 - *2023.10, 2024.10* Graduate Student Academic Scholarship.
 - 2025.3, Graduate Student [Zhiyang](https://www.zhiyang.com.cn/) Scholarship.
 - 2022, College English Test Band 6 (CET-6) Certificate
-- 2024, The 15th "CSEE Cup" National Undergraduate Electrotechnical Mathematical Modeling Competition, Third Prize.
-- 2024, May 1st Mathematical Contest in Modeling, Second Prize.
+- 2024, The 15th "[CSEE Cup] (https://www.csee.org.cn/)" National Undergraduate Electrotechnical Mathematical Modeling Competition, Third Prize.
+- 2024, [May 1st Mathematical Contest in Modeling] (https://51mcm.cumt.edu.cn/), Second Prize.
 - 2024, The 5th "Huashu Cup" National College Student Mathematical Modeling Competition, Second Prize.
 - 2024, The 5th MathorCup Mathematical Application Challenge – Big Data Competition, Second Prize.
 - 2024, The 4th Higher Education Big Data Challenge, Third Prize.
@@ -118,8 +118,8 @@ My resume in Chinese is [here](https://drive.google.com/file/d/1J0ZBaOqzJ2xnaAD3
 
 
 # 📖 Educations
-- *2023.06 - Now*, Master, School of Electrical and Electronic Engineering, Shandong University of Technology, Zibo, China. 
-- *2019.09 - 2023.06*, Undergraduate, School of Electrical and Electronic Engineering, Shandong University of Technology, Zibo, China. 
+- *2023.06 - Now*, Master, Shandong University of Technology, Zibo, China. 
+- *2019.09 - 2023.06*, Undergraduate, Shandong University of Technology, Zibo, China. 
 - *2016.09 - 2019.06*, Fanxian No.1 High School, Puyang, China. 
 
 

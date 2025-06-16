@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Siyou Guo"
+title                    : "Siyou Guo (郭思友)"
 description              : "Master degree candidate"
 repository               : "siyouguo/siyouguo.github.io"
 google_scholar_stats_use_cdn : true
