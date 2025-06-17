@@ -151,3 +151,14 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
 
 
+# 🛠 Professional Skills
+
+- Grant Proposal Writing: Experienced in writing proposals for the National Natural Science Foundation of China (NSFC), provincial-level science foundations, and the Excellent Young Scientists Fund (Overseas).
+- Graduate Student Supervision: Proven experience in mentoring and guiding graduate students in thesis writing and research.
+System Administration: Proficient in using the Linux operating system, with hands-on experience in server setup, configuration, and maintenance.
+- Web Development & Maintenance: Skilled in building and performing routine maintenance and updates for research group websites.
+- Programming & Deep Learning: Strong command of the Python programming language and the PyTorch deep learning framework.
+- Containerization Technology: Familiar with using Docker and Apptainer for creating and managing containerized environments.
+- Software Proficiency: Adept at using VS Code as an integrated development environment and proficient in the Microsoft Office suite.
+- Version Control & Collaboration: Skilled in using Git and GitHub for version control, code management, and collaborative development.
+
