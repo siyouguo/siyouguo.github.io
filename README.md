@@ -19,9 +19,3 @@
 - Google Scholar引用统计自动更新
 - 学术简历展示
 - 出版物列表
-
-## 本地开发
-
-1. 安装依赖:
-```bash
-bundle install
