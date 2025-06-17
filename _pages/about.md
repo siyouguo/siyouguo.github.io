@@ -152,8 +152,16 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 
 
 # 🛠 Professional Skills
+- **Grant Writing**: Experienced with [NSFC](https://www.nsfc.gov.cn/), [provincial](https://cloud.kjt.shandong.gov.cn/), and overseas grant proposals.
+- **Mentorship**: Skilled in guiding graduate students' research and thesis writing.
+- **System Admin**: Proficient wsith [Linux](https://www.runoob.com/linux/linux-tutorial.html), server setup, and maintenance.
+- **Web Admin**: Capable of building and maintaining [group websites](https://brighten.group/).
+- **Programming**: Strong skills in Python and the PyTorch framework.
+- **Containerization**: Familiar with Docker and Apptainer.
+- **Development Tools**: Proficient with VS Code, Git, and [GitHub](https://brighten.group/).
+- **Office Software**: Skilled in Microsoft Office Suite.
 
-- Grant Proposal Writing: Experienced in writing proposals for the National Natural Science Foundation of China (NSFC), provincial-level science foundations, and the Excellent Young Scientists Fund (Overseas).
+<!-- - Grant Proposal Writing: Experienced in writing proposals for the National Natural Science Foundation of China (NSFC), provincial-level science foundations, and the Excellent Young Scientists Fund (Overseas).
 - Graduate Student Supervision: Proven experience in mentoring and guiding graduate students in thesis writing and research.
 System Administration: Proficient in using the Linux operating system, with hands-on experience in server setup, configuration, and maintenance.
 - Web Development & Maintenance: Skilled in building and performing routine maintenance and updates for research group websites.
@@ -161,4 +169,5 @@ System Administration: Proficient in using the Linux operating system, with hand
 - Containerization Technology: Familiar with using Docker and Apptainer for creating and managing containerized environments.
 - Software Proficiency: Adept at using VS Code as an integrated development environment and proficient in the Microsoft Office suite.
 - Version Control & Collaboration: Skilled in using Git and GitHub for version control, code management, and collaborative development.
+ -->
 
