@@ -56,7 +56,7 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.5; padding: 0.1em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; color: white; border-radius: 6px; background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 2px 5px rgba(118, 75, 162, 0.3);">IMAVIS</span> [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702) **<font color=red>(CCF C)</font>**
 
-  *Image and Vision Computing* <span style="display: inline-block; vertical-align: middle; line-height: 1.5; padding: 0em 0.5em; margin: 0 0.2em; font-family: sans-serif; font-weight: 500; color: #3b82f6; border-radius: 5px; border: 1.5px solid #3b82f6; background-color: rgba(59, 130, 246, 0.1);">CCF C</span>
+  *Image and Vision Computing*
   
   <!-- <u><font size=4>Siyou Guo</font></u>, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida -->
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida
