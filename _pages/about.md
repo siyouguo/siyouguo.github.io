@@ -56,62 +56,60 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 
 - <span style="display: inline-block; vertical-align: middle; line-height: 1.6; padding: 0.1em 0.7em; margin: 0 0.2em; font-family: sans-serif; font-weight: 500; text-transform: uppercase; letter-spacing: 0.5px; color: #065f46; border-radius: 999px; background-color: #d1fae5;">IMAVIS</span> [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702) <font color=red>(CCF C)</font>
 
-  *Image and Vision Computing*
+  *Image and Vision Computing* <span style="display: inline-block; vertical-align: middle; line-height: 1.5; padding: 0em 0.5em; margin: 0 0.2em; font-family: sans-serif; font-weight: 500; color: #3b82f6; border-radius: 5px; border: 1.5px solid #3b82f6; background-color: rgba(59, 130, 246, 0.1);">CCF C</span>
   
   <!-- <u><font size=4>Siyou Guo</font></u>, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida -->
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida
 
-- [Deep learning-based face forgery detection for facial payment systems](https://ieeexplore.ieee.org/document/10613498)
+- <span style="display: inline-block; vertical-align: middle; line-height: 1.5; padding: 0.1em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; color: white; border-radius: 6px; background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 2px 5px rgba(118, 75, 162, 0.3);">CEM</span> [Deep learning-based face forgery detection for facial payment systems](https://ieeexplore.ieee.org/document/10613498)
   
   *IEEE Consumer Electronics Magazine*
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Jinfeng Pan, Gwanggil Jeon
 
-- [Smart City Security: Fake News Detection in Consumer Electronics](https://ieeexplore.ieee.org/document/10746610)
+- <span style="display: inline-block; vertical-align: middle; line-height: 1.5; padding: 0.1em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; color: white; border-radius: 6px; background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 2px 5px rgba(118, 75, 162, 0.3);">CEM</span> [Smart City Security: Fake News Detection in Consumer Electronics](https://ieeexplore.ieee.org/document/10746610)
 
   *IEEE Consumer Electronics Magazine*
   
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
 
-
-
 - <span style="display: inline-block; vertical-align: middle; line-height: 1.5; padding: 0.1em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; color: white; border-radius: 6px; background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 2px 5px rgba(118, 75, 162, 0.3);">IJCNN</span> [Deepfake Detection via a Progressive Attention Network](https://ieeexplore.ieee.org/document/10650463) <font color=red>(CCF C)</font>
 
-  *Proceedings of International Joint Conference on Neural Networks (IJCNN)*
+  *Proceedings of International Joint Conference on Neural Networks (IJCNN)* <span style="display: inline-block; vertical-align: middle; line-height: 1.5; padding: 0em 0.5em; margin: 0 0.2em; font-family: sans-serif; font-weight: 500; color: #3b82f6; border-radius: 5px; border: 1.5px solid #3b82f6; background-color: rgba(59, 130, 246, 0.1);">CCF C</span>
   
   **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Gwanggil Jeon, David Camacho
 
    
-- [Federated Learning-Driven Face Forgery Detection via Rich Feature Complementary Fusion](https://ieeexplore.ieee.org/document/10904029) <font color=red>(CCF C)</font>
+- <span style="display: inline-block; vertical-align: middle; line-height: 1.5; padding: 0.1em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; color: white; border-radius: 6px; background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 2px 5px rgba(118, 75, 162, 0.3);">TCSS</span> [Federated Learning-Driven Face Forgery Detection via Rich Feature Complementary Fusion](https://ieeexplore.ieee.org/document/10904029) <font color=red>(CCF C)</font>
 
-  *IEEE Transactions on Computational Social Systems*
+  *IEEE Transactions on Computational Social Systems* <span style="display: inline-block; vertical-align: middle; line-height: 1.5; padding: 0em 0.5em; margin: 0 0.2em; font-family: sans-serif; font-weight: 500; color: #3b82f6; border-radius: 5px; border: 1.5px solid #3b82f6; background-color: rgba(59, 130, 246, 0.1);">CCF C</span>
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
   <!-- 上面这个论文链接不对 -->
 
-- [Demosaicking Algorithm Using Deep Residual Convolutional Network](https://ieeexplore.ieee.org/document/10556749)
+- <span style="display: inline-block; vertical-align: middle; line-height: 1.5; padding: 0.1em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; color: white; border-radius: 6px; background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 2px 5px rgba(118, 75, 162, 0.3);">IJIMAI</span> [Demosaicking Algorithm Using Deep Residual Convolutional Network](https://ieeexplore.ieee.org/document/10556749)
 
   *International Journal of Interactive Multimedia and Artificial Intelligence*
 
   Jin Wang, **<font size=3>Siyou Guo</font>**, Qilei Li, David Camacho, Gwanggil Jeon
   <!-- 上面这个论文链接不对 -->
 
-- [Context-Aware Deepfake Detection for Securing AI-Driven Financial Transactions](https://ieeexplore.ieee.org/document/10904029) <font color=red>(CCF C)</font>
+- <span style="display: inline-block; vertical-align: middle; line-height: 1.5; padding: 0.1em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; color: white; border-radius: 6px; background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 2px 5px rgba(118, 75, 162, 0.3);">TCSS</span> [Context-Aware Deepfake Detection for Securing AI-Driven Financial Transactions](https://ieeexplore.ieee.org/document/10904029) <font color=red>(CCF C)</font>
 
-  *IEEE Transactions on Computational Social Systems*
+  *IEEE Transactions on Computational Social Systems* <span style="display: inline-block; vertical-align: middle; line-height: 1.5; padding: 0em 0.5em; margin: 0 0.2em; font-family: sans-serif; font-weight: 500; color: #3b82f6; border-radius: 5px; border: 1.5px solid #3b82f6; background-color: rgba(59, 130, 246, 0.1);">CCF C</span>
 
   Changcun Liu, Guisheng Zhang, **<font size=3>Siyou Guo</font>**, Qilei Li, Gwanggil Jeon, Mingliang Gao. 
     <!-- 上面这个论文链接不对 -->
 
-- [Detecting Sequential Deepfake Manipulation via Spectral Transformer With Pyramid Attention in Consumer IoT](https://ieeexplore.ieee.org/document/10556749)
+- <span style="display: inline-block; vertical-align: middle; line-height: 1.5; padding: 0.1em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; color: white; border-radius: 6px; background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 2px 5px rgba(118, 75, 162, 0.3);">TCE</span> [Detecting Sequential Deepfake Manipulation via Spectral Transformer With Pyramid Attention in Consumer IoT](https://ieeexplore.ieee.org/document/10556749)
 
   *IEEE Transactions on Consumer Electronics*
   
   Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=3>Siyou Guo</font>**, Gwanggil Jeon
   
-- [Space-Frequency and Global-Local Attentive Networks for Sequential Deepfake Detection](https://ieeexplore.ieee.org/document/10904029) <span style="display: inline-block; vertical-align: middle; line-height: 1.5; padding: 0em 0.5em; margin: 0 0.2em; font-family: sans-serif; font-weight: 500; color: #3b82f6; border-radius: 5px; border: 1.5px solid #3b82f6; background-color: rgba(59, 130, 246, 0.1);">CCF C</span> 
+- <span style="display: inline-block; vertical-align: middle; line-height: 1.5; padding: 0.1em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; color: white; border-radius: 6px; background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 2px 5px rgba(118, 75, 162, 0.3);">TCSS</span> [Space-Frequency and Global-Local Attentive Networks for Sequential Deepfake Detection](https://ieeexplore.ieee.org/document/10904029)  
 
-  *IEEE Transactions on Computational Social Systems*
+  *IEEE Transactions on Computational Social Systems* <span style="display: inline-block; vertical-align: middle; line-height: 1.5; padding: 0em 0.5em; margin: 0 0.2em; font-family: sans-serif; font-weight: 500; color: #3b82f6; border-radius: 5px; border: 1.5px solid #3b82f6; background-color: rgba(59, 130, 246, 0.1);">CCF C</span>
   
   Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=3>Siyou Guo</font>**, Gwanggil Jeon, Ahmed M. Abdelmoniem
 
