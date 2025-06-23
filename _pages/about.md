@@ -22,18 +22,11 @@ Specifically, I am passionate about developing robust techniques for **deepfake 
 
 Previously, I received the B.Eng degree form SDUT in 2023.
 
-<!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge  -->
-
- <!-- 谷歌 -->
 <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>   
  
-<!-- 中文简历 -->
 <!-- My resume in Chinese is [here](https://drive.google.com/file/d/1J0ZBaOqzJ2xnaAD3hU2tl_OAO-2xqwYa/view?usp=drive_link). -->
 
 # 🔥 News
-<!-- - *2026.02*: &nbsp;🎉🎉 Our work was accepted to CVPR 2026! It's just an oral presentation, a bit of a pity though. 🐶
-- *2025.09*: &nbsp;🎉🎉 Our paper was accepted to NeurIPS 2025. 🐶
-- *2025.07*: &nbsp;🎉🎉 Our project on GitHub accidentally hit 10k stars! The support has been overwhelming. 🐶 -->
 - *2025.05*: &nbsp;🎉🎉 Our paper was accepted to Image and Vision Computing.
 - *2024.03*: &nbsp;🎉🎉 Great news to kick things off! My first paper has been accepted to IJCNN 2024!
 
@@ -94,7 +87,6 @@ Previously, I received the B.Eng degree form SDUT in 2023.
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
   <!-- 上面这个论文链接不对 -->
 
-
 - [Demosaicking Algorithm Using Deep Residual Convolutional Network](https://ieeexplore.ieee.org/document/10556749)
 
   *International Journal of Interactive Multimedia and Artificial Intelligence*
@@ -133,13 +125,10 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 - 2024.12, The 5th MathorCup Mathematical Application Challenge – Big Data Competition, Second Prize.
 - 2025.03, The 4th Higher Education Big Data Challenge, Third Prize.
 
-
-
 # 📖 Educations
 - *2023.06 - Now*, Master, Shandong University of Technology, Zibo, China. 
 - *2019.09 - 2023.06*, Undergraduate, Shandong University of Technology, Zibo, China. 
 - *2016.09 - 2019.06*, Fanxian No.1 High School, Puyang, China. 
-
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -149,7 +138,6 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
-
 
 # 🛠 Professional Skills
 - **Grant Writing**: Experienced with [NSFC](https://www.nsfc.gov.cn/), [provincial](https://cloud.kjt.shandong.gov.cn/), and overseas grant proposals.
