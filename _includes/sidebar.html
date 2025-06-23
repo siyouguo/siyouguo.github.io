@@ -1,4 +1,4 @@
-<!-- {% if page.author_profile or layout.author_profile or page.sidebar %}
+{% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
@@ -11,7 +11,7 @@
     {% endfor %}
   {% endif %}
   </div>
-{% endif %} -->
+{% endif %}
 
 
 <!-- {% if page.author_profile or layout.author_profile or page.sidebar %}
@@ -36,18 +36,9 @@
 
 
 
-{% if page.author_profile or layout.author_profile or page.sidebar %}
+<!-- {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  
-  <!-- 添加访客地图 -->
-  <div class="sidebar__item" style="margin: 20px 0; text-align: center;">
-    <h3 class="sidebar__title">Visitors</h3>
-    <a href="https://mapmyvisitors.com/web/1byij" title="Visit tracker">
-      <img src="https://mapmyvisitors.com/map.png?d=3jXnIbzPiVi2cKTkkTzb8VgedbRgYKa5dV7t_hn0dew&cl=ffffff" style="max-width: 100%; height: auto;"/>
-    </a>
-  </div>
-  
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
@@ -58,4 +49,4 @@
     {% endfor %}
   {% endif %}
   </div>
-{% endif %}
+{% endif %} -->
