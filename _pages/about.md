@@ -61,7 +61,7 @@ Previously, I received the B.Eng degree form SDUT in 2023.
   <!-- <u><font size=4>Siyou Guo</font></u>, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida -->
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida
 
-- <span style="display: inline-block; vertical-align: middle; line-height: 1.5; padding: 0.1em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; color: white; border-radius: 6px; background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 2px 5px rgba(118, 75, 162, 0.3);">CEM</span> [Deep learning-based face forgery detection for facial payment systems](https://ieeexplore.ieee.org/document/10613498)
+- <span style="display: inline-block; vertical-align: middle; font-size: 0.9em; line-height: 1.5; padding: 0.1em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; color: white; border-radius: 6px; background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 2px 5px rgba(118, 75, 162, 0.3);">CEM</span> [Deep learning-based face forgery detection for facial payment systems](https://ieeexplore.ieee.org/document/10613498)
   
   *IEEE Consumer Electronics Magazine*
 
