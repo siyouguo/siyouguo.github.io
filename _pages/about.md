@@ -109,7 +109,7 @@ Previously, I received the B.Eng degree form SDUT in 2023.
   
   Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=3>Siyou Guo</font>**, Gwanggil Jeon
   
-- [Space-Frequency and Global-Local Attentive Networks for Sequential Deepfake Detection](https://ieeexplore.ieee.org/document/10904029) <font color=red>(CCF C)</font>
+- [Space-Frequency and Global-Local Attentive Networks for Sequential Deepfake Detection](https://ieeexplore.ieee.org/document/10904029) <span style="display: inline-block; vertical-align: middle; line-height: 1.5; padding: 0em 0.5em; margin: 0 0.2em; font-family: sans-serif; font-weight: 500; color: #3b82f6; border-radius: 5px; border: 1.5px solid #3b82f6; background-color: rgba(59, 130, 246, 0.1);">CCF C</span> 
 
   *IEEE Transactions on Computational Social Systems*
   
