@@ -67,7 +67,7 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Jinfeng Pan, Gwanggil Jeon
 
-- <span style="display: inline-block; vertical-align: middle; line-height: 1.5; padding: 0.1em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; color: white; border-radius: 6px; background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 2px 5px rgba(118, 75, 162, 0.3);">CEM</span> [Smart City Security: Fake News Detection in Consumer Electronics](https://ieeexplore.ieee.org/document/10746610)
+- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.5; padding: 0.1em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; color: white; border-radius: 6px; background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 2px 5px rgba(118, 75, 162, 0.3);">CEM</span> [Smart City Security: Fake News Detection in Consumer Electronics](https://ieeexplore.ieee.org/document/10746610)
 
   *IEEE Consumer Electronics Magazine*
   
