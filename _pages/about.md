@@ -54,7 +54,7 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 </div>
 </div>
 
-- [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702) <font color=red>(CCF C)</font>
+- <span style="display: inline-block; vertical-align: middle; line-height: 1.6; padding: 0.1em 0.7em; margin: 0 0.2em; font-family: sans-serif; font-weight: 500; text-transform: uppercase; letter-spacing: 0.5px; color: #065f46; border-radius: 999px; background-color: #d1fae5;">IMAVIS</span> [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702) <font color=red>(CCF C)</font>
 
   *Image and Vision Computing*
   
