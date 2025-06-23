@@ -35,7 +35,7 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 - *2025.09*: &nbsp;🎉🎉 Our paper was accepted to NeurIPS 2025. 🐶
 - *2025.07*: &nbsp;🎉🎉 Our project on GitHub accidentally hit 10k stars! The support has been overwhelming. 🐶 -->
 - *2025.05*: &nbsp;🎉🎉 Our paper was accepted to Image and Vision Computing.
-- *2024.03*: &nbsp;🎉🎉 Great news to kick things off! My first paper of graduate school has been accepted to IJCNN 2024!
+- *2024.03*: &nbsp;🎉🎉 Great news to kick things off! My first paper has been accepted to IJCNN 2024!
 
 
 # 📝 Publications 
@@ -172,7 +172,7 @@ System Administration: Proficient in using the Linux operating system, with hand
  -->
 
  <!-- javascript -->
- <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=3jXnIbzPiVi2cKTkkTzb8VgedbRgYKa5dV7t_hn0dew&cl=ffffff&w=a"></script>
+ <!-- <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=3jXnIbzPiVi2cKTkkTzb8VgedbRgYKa5dV7t_hn0dew&cl=ffffff&w=a"></script> -->
 
 <!-- plain image embed code -->
  <a href="https://mapmyvisitors.com/web/1byij"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=3jXnIbzPiVi2cKTkkTzb8VgedbRgYKa5dV7t_hn0dew&cl=ffffff" /></a>
