@@ -161,20 +161,6 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 - **Development Tools**: Proficient with VS Code, Git, and [GitHub](https://brighten.group/).
 - **Office Software**: Skilled in Microsoft Office Suite.
 
-<!-- - Grant Proposal Writing: Experienced in writing proposals for the National Natural Science Foundation of China (NSFC), provincial-level science foundations, and the Excellent Young Scientists Fund (Overseas).
-- Graduate Student Supervision: Proven experience in mentoring and guiding graduate students in thesis writing and research.
-System Administration: Proficient in using the Linux operating system, with hands-on experience in server setup, configuration, and maintenance.
-- Web Development & Maintenance: Skilled in building and performing routine maintenance and updates for research group websites.
-- Programming & Deep Learning: Strong command of the Python programming language and the PyTorch deep learning framework.
-- Containerization Technology: Familiar with using Docker and Apptainer for creating and managing containerized environments.
-- Software Proficiency: Adept at using VS Code as an integrated development environment and proficient in the Microsoft Office suite.
-- Version Control & Collaboration: Skilled in using Git and GitHub for version control, code management, and collaborative development.
- -->
-
- <!-- javascript -->
- <!-- <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=3jXnIbzPiVi2cKTkkTzb8VgedbRgYKa5dV7t_hn0dew&cl=ffffff&w=a"></script> -->
-
-<!-- plain image embed code -->
  <!-- <a href="https://mapmyvisitors.com/web/1byij"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=3jXnIbzPiVi2cKTkkTzb8VgedbRgYKa5dV7t_hn0dew&cl=ffffff" /></a>  -->
 
  <p align="center">
