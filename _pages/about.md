@@ -56,26 +56,26 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.5; padding: 0.1em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; color: white; border-radius: 6px; background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">IMAVIS</span> [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702) **<font color=red>(CCF C)</font>**
 
-  *Image and Vision Computing*
+  *Image and Vision Computing* 160: 105582 (2025)
   
   <!-- <u><font size=4>Siyou Guo</font></u>, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida -->
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.5; padding: 0.1em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; color: white; border-radius: 6px; background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">CEM</span> [Deep learning-based face forgery detection for facial payment systems](https://ieeexplore.ieee.org/document/10613498)
   
-  *IEEE Consumer Electronics Magazine*s
+  *IEEE Consumer Electronics Magazine* 14(3): 80-86 (2025)
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Jinfeng Pan, Gwanggil Jeon
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.5; padding: 0.1em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; color: white; border-radius: 6px; background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">CEM</span> [Smart City Security: Fake News Detection in Consumer Electronics](https://ieeexplore.ieee.org/document/10746610)
 
-  *IEEE Consumer Electronics Magazine*
+  *IEEE Consumer Electronics Magazine* 
   
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
 
-- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.5; padding: 0.1em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; color: white; border-radius: 5px; background: linear-gradient(to right, #ef4444 50%, #3b82f6 50%); box-shadow: 0 1px 3px rgba(0,0,0,0.1);">IJCNN</span> [Deepfake Detection via a Progressive Attention Network](https://ieeexplore.ieee.org/document/10650463) **<font color=red>(CCF C)</font>**
+- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.5; padding: 0.1em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; color: white; border-radius: 5px; background: linear-gradient(to right, #ef4444 50%, #3b82f6 50%); box-shadow: 0 1px 3px rgba(0,0,0,0.1);">IJCNN</span> <span style="display: inline-block; vertical-align: middle; line-height: 1.6; padding: 0.1em 0.7em; margin: 0 0.2em; font-family: sans-serif; font-weight: 500; text-transform: uppercase; letter-spacing: 0.5px; color: #065f46; border-radius: 999px; background-color: #d1fae5;">Conference Paper</span> [Deepfake Detection via a Progressive Attention Network](https://ieeexplore.ieee.org/document/10650463) **<font color=red>(CCF C)</font>**
 
-  *Proceedings of International Joint Conference on Neural Networks (IJCNN)*
+  *Proceedings of International Joint Conference on Neural Networks (IJCNN)* 2024: 1-6
   
   **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Gwanggil Jeon, David Camacho
 
