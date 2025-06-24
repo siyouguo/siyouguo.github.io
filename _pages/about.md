@@ -53,6 +53,20 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 </div>
 </div>
 
+<div class='paper-box' style="padding-left: 15px;">
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">TCE</div>
+            <img src='images/Siyou-TCE.png' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+        [Deepfake Detection via Spatial-Frequency Attention Network](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+        *IEEE Transactions on Consumer Electronics*
+        **<font size=3>Siyou Guo</font>**, Mingliang Gao, Guisheng Zhang, Changcun Liu, Qilei Li
+    </div>
+</div>
+
 <!-- <span class="badge">IMAVIS</span> -->
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IMAVIS</span> [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702) **<font color=red>(CCF C)</font>**
