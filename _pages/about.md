@@ -53,7 +53,9 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 </div>
 </div>
 
-- <span class="badge">IMAVIS</span> <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #1e40af; background-color: #dbeafe; border-radius: 4px;">TCE</span> <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.5; padding: 0.1em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; color: white; border-radius: 6px; background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">IMAVIS</span> [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702) **<font color=red>(CCF C)</font>**
+<!-- <span class="badge">IMAVIS</span> -->
+
+- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #1e40af; background-color: #dbeafe; border-radius: 4px;">TCE</span> <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.5; padding: 0.1em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; color: white; border-radius: 6px; background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">IMAVIS</span> [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702) **<font color=red>(CCF C)</font>**
 
   *Image and Vision Computing* 160: 105582 (2025)
   
