@@ -115,7 +115,7 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 
 [Smart City Security: Fake News Detection in Consumer Electronics](https://ieeexplore.ieee.org/document/10746610)
 
-  *IEEE Consumer Electronics Magazine*
+  *IEEE Consumer Electronics Magazine*, DOI: 10.1109/MCE.2024.3493776
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
 </div>
@@ -138,7 +138,7 @@ Previously, I received the B.Eng degree form SDUT in 2023.
    
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> [Federated Learning-Driven Face Forgery Detection via Rich Feature Complementary Fusion](https://ieeexplore.ieee.org/document/10904029) **<font color=red>(CCF C)</font>**
 
-  *IEEE Transactions on Computational Social Systems* 
+  *IEEE Transactions on Computational Social Systems*, In Review
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
   <!-- 上面这个论文链接不对 -->
@@ -151,7 +151,7 @@ Previously, I received the B.Eng degree form SDUT in 2023.
   
   Weicheng Song, **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Xianxun Zhu, Imad Rida
 
-- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IJAMAI</span> [Demosaicking Algorithm Using Deep Residual Convolutional Network](https://ieeexplore.ieee.org/document/10556749)
+- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IJIMAI</span> [Demosaicking Algorithm Using Deep Residual Convolutional Network](https://ieeexplore.ieee.org/document/10556749)
 
   *International Journal of Interactive Multimedia and Artificial Intelligence*
 
