@@ -57,7 +57,7 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 <div>
 <div class="badge">IMAVIS
 </div>
-<img src='images/Siyou-IVC.png' alt="sym" width="100%">
+<img src='images/Siyou-IVC.pdf' alt="sym" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -108,7 +108,7 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 <div>
 <div class="badge">IEEE CEM
 </div>
-<img src='images/Siyou-CEM2.png' alt="sym" width="100%">
+<img src='images/Siyou-CEM2.pdf' alt="sym" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -142,6 +142,14 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
   <!-- 上面这个论文链接不对 -->
+
+
+- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IMAVIS</span> [Deepfake Detection via Feature Refinement and Enhancement Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702) **<font color=red>(CCF C)</font>**
+  <!-- 上面这个论文链接不对 -->
+
+  *Image and Vision Computing*
+  
+  Weicheng Song **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Xianxun Zhu, Imad Rida
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IJAMAI</span> [Demosaicking Algorithm Using Deep Residual Convolutional Network](https://ieeexplore.ieee.org/document/10556749)
 
