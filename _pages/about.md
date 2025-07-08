@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 1
   - /about/
   - /about.html
----
+--- 
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -62,10 +62,10 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 </div>
 <div class='paper-box-text' markdown="1">
 
-[Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702)
+[Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702) **<font color=red>(CCF C)</font>**
 
-  *Image and Vision Computing* 160: 105582 (2025)
-
+  *Image and Vision Computing* 160: 105582 (2025). IF=4.2, JCR Q1
+v
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida
 </div>
 </div>
@@ -89,7 +89,7 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 
 [Deep learning-based face forgery detection for facial payment systems](https://ieeexplore.ieee.org/document/10613498)
 
-  *IEEE Consumer Electronics Magazine* 14(3): 80-86 (2025)
+  *IEEE Consumer Electronics Magazine* 14(3): 80-86 (2025). IF=4.1, JCR Q1
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Jinfeng Pan, Gwanggil Jeon
 </div>
@@ -115,13 +115,11 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 
 [Smart City Security: Fake News Detection in Consumer Electronics](https://ieeexplore.ieee.org/document/10746610)
 
-  *IEEE Consumer Electronics Magazine*, DOI: 10.1109/MCE.2024.3493776
+  *IEEE Consumer Electronics Magazine*, DOI: 10.1109/MCE.2024.3493776. IF=4.1, JCR Q1
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
 </div>
 </div>
-
-
 
 <!-- - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">CEM</span> [Smart City Security: Fake News Detection in Consumer Electronics](https://ieeexplore.ieee.org/document/10746610)
 
@@ -138,7 +136,7 @@ Previously, I received the B.Eng degree form SDUT in 2023.
    
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> [Federated Learning-Driven Face Forgery Detection via Rich Feature Complementary Fusion](https://ieeexplore.ieee.org/document/10904029) **<font color=red>(CCF C)</font>**
 
-  *IEEE Transactions on Computational Social Systems*, In Review
+  *IEEE Transactions on Computational Social Systems*, In Revision
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
   <!-- 上面这个论文链接不对 -->
@@ -147,33 +145,33 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IMAVIS</span> [Deepfake Detection via Feature Refinement and Enhancement Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702) **<font color=red>(CCF C)</font>**
   <!-- 上面这个论文链接不对 -->
 
-  *Image and Vision Computing*
+  *Image and Vision Computing*, In Press
   
   Weicheng Song, **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Xianxun Zhu, Imad Rida
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IJIMAI</span> [Demosaicking Algorithm Using Deep Residual Convolutional Network](https://ieeexplore.ieee.org/document/10556749)
 
-  *International Journal of Interactive Multimedia and Artificial Intelligence*
+  *International Journal of Interactive Multimedia and Artificial Intelligence*, In Press
 
   Jin Wang, **<font size=3>Siyou Guo</font>**, Qilei Li, David Camacho, Gwanggil Jeon
   <!-- 上面这个论文链接不对 -->
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> [Context-Aware Deepfake Detection for Securing AI-Driven Financial Transactions](https://ieeexplore.ieee.org/document/10904029) **<font color=red>(CCF C)</font>**
 
-  *IEEE Transactions on Computational Social Systems*
+  *IEEE Transactions on Computational Social Systems*, In Press. IF=4.9, JCR Q1
 
   Changcun Liu, Guisheng Zhang, **<font size=3>Siyou Guo</font>**, Qilei Li, Gwanggil Jeon, Mingliang Gao. 
     <!-- 上面这个论文链接不对 -->
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCE</span> [Detecting Sequential Deepfake Manipulation via Spectral Transformer With Pyramid Attention in Consumer IoT](https://ieeexplore.ieee.org/document/10556749)
 
-  *IEEE Transactions on Consumer Electronics*
+  *IEEE Transactions on Consumer Electronics*, DOI: 10.1109/TCE.2024.3414319. IF=10.9, JCR Q1
   
   Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=3>Siyou Guo</font>**, Gwanggil Jeon
   
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> [Space-Frequency and Global-Local Attentive Networks for Sequential Deepfake Detection](https://ieeexplore.ieee.org/document/10904029) **<font color=red>(CCF C)</font>** 
 
-  *IEEE Transactions on Computational Social Systems* 
+  *IEEE Transactions on Computational Social Systems*, DOI: 10.1109/TCSS.2025.3541346. IF=4.9, JCR Q1
   
   Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=3>Siyou Guo</font>**, Gwanggil Jeon, Ahmed M. Abdelmoniem
 
