@@ -65,7 +65,7 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702) **<font color=red>(CCF C)</font>**
 
   *Image and Vision Computing* 160: 105582 (2025). IF=4.2, JCR Q1
-v
+
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida
 </div>
 </div>
@@ -115,7 +115,9 @@ v
 
 [Smart City Security: Fake News Detection in Consumer Electronics](https://ieeexplore.ieee.org/document/10746610)
 
-  *IEEE Consumer Electronics Magazine*, DOI: 10.1109/MCE.2024.3493776. IF=4.1, JCR Q1
+  *IEEE Consumer Electronics Magazine*. IF=4.1, JCR Q1
+
+  DOI: 10.1109/MCE.2024.3493776
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
 </div>
@@ -130,6 +132,8 @@ v
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IJCNN</span> <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.6; padding: 0.1em 0.7em; margin: 0 0.2em; font-family: sans-serif; font-weight: 500; letter-spacing: 0.5px; color: #065f46; border-radius: 999px; background-color: #d1fae5;">Conference</span> [Deepfake Detection via a Progressive Attention Network](https://ieeexplore.ieee.org/document/10650463) **<font color=red>(CCF C)</font>**
 
   *Proceedings of International Joint Conference on Neural Networks (IJCNN)* 2024: 1-6
+
+  DOI: 10.1109/IJCNN60899.2024.10650463
   
   **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Gwanggil Jeon, David Camacho
 
@@ -165,13 +169,17 @@ v
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCE</span> [Detecting Sequential Deepfake Manipulation via Spectral Transformer With Pyramid Attention in Consumer IoT](https://ieeexplore.ieee.org/document/10556749)
 
-  *IEEE Transactions on Consumer Electronics*, DOI: 10.1109/TCE.2024.3414319. IF=10.9, JCR Q1
+  *IEEE Transactions on Consumer Electronics*. IF=10.9, JCR Q1
+
+  DOI: 10.1109/TCE.2024.3414319
   
   Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=3>Siyou Guo</font>**, Gwanggil Jeon
   
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> [Space-Frequency and Global-Local Attentive Networks for Sequential Deepfake Detection](https://ieeexplore.ieee.org/document/10904029) **<font color=red>(CCF C)</font>** 
 
-  *IEEE Transactions on Computational Social Systems*, DOI: 10.1109/TCSS.2025.3541346. IF=4.9, JCR Q1
+  *IEEE Transactions on Computational Social Systems*. IF=4.9, JCR Q1
+
+  DOI: 10.1109/TCSS.2025.3541346
   
   Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=3>Siyou Guo</font>**, Gwanggil Jeon, Ahmed M. Abdelmoniem
 
