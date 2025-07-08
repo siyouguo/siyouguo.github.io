@@ -57,7 +57,7 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 <div>
 <div class="badge">IMAVIS
 </div>
-<img src='images/Siyou-IVC.pdf' alt="sym" width="100%">
+<img src='images/Siyou-IVC.png' alt="sym" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -108,7 +108,7 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 <div>
 <div class="badge">IEEE CEM
 </div>
-<img src='images/Siyou-CEM2.pdf' alt="sym" width="100%">
+<img src='images/Siyou-CEM2.png' alt="sym" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
