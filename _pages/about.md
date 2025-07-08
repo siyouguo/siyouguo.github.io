@@ -134,7 +134,7 @@ v
   **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Gwanggil Jeon, David Camacho
 
    
-- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> [Federated Learning-Driven Face Forgery Detection via Rich Feature Complementary Fusion](https://ieeexplore.ieee.org/document/10904029) **<font color=red>(CCF C)</font>**
+- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> Federated Learning-Driven Face Forgery Detection via Rich Feature Complementary Fusion **<font color=red>(CCF C)</font>**
 
   *IEEE Transactions on Computational Social Systems*, In Revision
 
@@ -142,21 +142,21 @@ v
   <!-- 上面这个论文链接不对 -->
 
 
-- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IMAVIS</span> [Deepfake Detection via Feature Refinement and Enhancement Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702) **<font color=red>(CCF C)</font>**
+- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IMAVIS</span> Deepfake Detection via Feature Refinement and Enhancement Network **<font color=red>(CCF C)</font>**
   <!-- 上面这个论文链接不对 -->
 
   *Image and Vision Computing*, In Press
   
   Weicheng Song, **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Xianxun Zhu, Imad Rida
 
-- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IJIMAI</span> [Demosaicking Algorithm Using Deep Residual Convolutional Network](https://ieeexplore.ieee.org/document/10556749)
+- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IJIMAI</span> Demosaicking Algorithm Using Deep Residual Convolutional Network
 
   *International Journal of Interactive Multimedia and Artificial Intelligence*, In Press
 
   Jin Wang, **<font size=3>Siyou Guo</font>**, Qilei Li, David Camacho, Gwanggil Jeon
   <!-- 上面这个论文链接不对 -->
 
-- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> [Context-Aware Deepfake Detection for Securing AI-Driven Financial Transactions](https://ieeexplore.ieee.org/document/10904029) **<font color=red>(CCF C)</font>**
+- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> Context-Aware Deepfake Detection for Securing AI-Driven Financial Transactions) **<font color=red>(CCF C)</font>**
 
   *IEEE Transactions on Computational Social Systems*, In Press. IF=4.9, JCR Q1
 
