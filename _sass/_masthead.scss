@@ -61,4 +61,16 @@
   }
 }
 
+body.dark-mode .masthead {
+  background-color: #23272a !important; /* 比正文深，保留层次感 */
+  border-bottom: 1px solid #444c56;
+}
+body.dark-mode .masthead__inner-wrap a,
+body.dark-mode .greedy-nav a {
+  color: #e5e7eb !important;
+}
+body.dark-mode .greedy-nav {
+  background: #23272a !important;
+}
+
 
