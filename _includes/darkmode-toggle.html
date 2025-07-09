@@ -1,0 +1,75 @@
+<!-- 右上角黑白模式切换开关 -->
+<style>
+#darkmode-toggle-btn {
+  position: fixed;
+  top: 24px;
+  right: 28px;
+  z-index: 10001;
+  width: 44px;
+  height: 44px;
+  background: rgba(255,255,255,0.85);
+  border: 1.5px solid #e5e7eb;
+  border-radius: 50%;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+#darkmode-toggle-btn:hover {
+  background: #f3f4f6;
+}
+#darkmode-toggle-btn svg {
+  width: 24px;
+  height: 24px;
+  transition: transform 0.3s;
+}
+body.dark-mode {
+  background: #18181b !important;
+  color: #e5e7eb !important;
+}
+body.dark-mode a { color: #60a5fa; }
+body.dark-mode .paper-box, body.dark-mode .paper-box-text {
+  background: #23232b !important;
+  color: #e5e7eb !important;
+}
+</style>
+<div id="darkmode-toggle-btn" title="切换黑暗/明亮模式">
+  <span id="darkmode-icon">
+    <!-- 默认太阳图标 -->
+    <svg id="sun-icon" viewBox="0 0 24 24" fill="none" stroke="#f59e42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+    <!-- 月亮图标 -->
+    <svg id="moon-icon" viewBox="0 0 24 24" fill="none" stroke="#64748b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:none;"><path d="M21 12.79A9 9 0 1 1 11.21 3a7 7 0 0 0 9.79 9.79z"/></svg>
+  </span>
+</div>
+<script>
+(function() {
+  const btn = document.getElementById('darkmode-toggle-btn');
+  const sun = document.getElementById('sun-icon');
+  const moon = document.getElementById('moon-icon');
+  // 读取本地存储
+  function setMode(mode) {
+    if (mode === 'dark') {
+      document.body.classList.add('dark-mode');
+      sun.style.display = 'none';
+      moon.style.display = 'block';
+    } else {
+      document.body.classList.remove('dark-mode');
+      sun.style.display = 'block';
+      moon.style.display = 'none';
+    }
+    localStorage.setItem('color-mode', mode);
+  }
+  // 初始化
+  const saved = localStorage.getItem('color-mode');
+  if (saved === 'dark' || (saved === null && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+    setMode('dark');
+  } else {
+    setMode('light');
+  }
+  btn.onclick = function() {
+    setMode(document.body.classList.contains('dark-mode') ? 'light' : 'dark');
+  };
+})();
+</script> 
