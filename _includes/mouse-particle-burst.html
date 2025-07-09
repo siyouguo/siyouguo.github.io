@@ -1,68 +1,62 @@
-<!-- 鼠标点击彩色火星特效 -->
+<!-- 鼠标点击粒子崩发特效 -->
 <style>
-.particle {
-  position: fixed;
-  pointer-events: none;
-  border-radius: 50%;
-  width: 6px;
-  height: 6px;
-  background: radial-gradient(circle, #fff 0%, var(--color, #ff9800) 80%, transparent 100%);
-  opacity: 0.85;
-  z-index: 9999;
-  will-change: transform, opacity;
-  box-shadow: 0 0 8px 2px var(--color, #ff9800), 0 0 2px #fff;
-}
-</style>
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  document.addEventListener('click', function(e) {
-    // 阻止默认行为，防止闪烁
-    e.preventDefault();
-    e.stopPropagation();
-    // 判断是否点击在空白处（不是链接、按钮、输入框等）
-    if (
-      e.target.tagName === 'A' ||
-      e.target.tagName === 'BUTTON' ||
-      e.target.tagName === 'INPUT' ||
-      e.target.tagName === 'TEXTAREA' ||
-      e.target.isContentEditable
-    ) return;
-
-    const numParticles = 22;
-    for (let i = 0; i < numParticles; i++) {
-      const particle = document.createElement('div');
-      particle.className = 'particle';
-      particle.style.left = (e.clientX - 3) + 'px';
-      particle.style.top = (e.clientY - 3) + 'px';
-      // 彩色火星色系
-      const colors = [
-        '#ff9800', '#ffd740', '#ff3d00', '#ff6e40', '#fff176', '#ffe082', '#ffb300', '#ff7043', '#ffd54f', '#fffde7', '#ffcc80', '#ffab91', '#fff9c4', '#ffe0b2', '#ffecb3', '#fff8e1'
-      ];
-      const color = colors[Math.floor(Math.random() * colors.length)];
-      particle.style.setProperty('--color', color);
-      document.body.appendChild(particle);
-
-      // 随机火星运动轨迹
-      const angle = Math.random() * 2 * Math.PI;
-      const distance = 40 + Math.random() * 30;
-      const x = Math.cos(angle) * distance * (0.7 + Math.random()*0.6);
-      const y = Math.sin(angle) * distance * (0.7 + Math.random()*0.6) - Math.random()*10; // 火星有上扬感
-      const scale = 0.7 + Math.random() * 0.7;
-      const rotate = Math.random() * 360;
-
-      // 动画
-      particle.animate([
-        { transform: 'translate(0,0) scale(1) rotate(0deg)', opacity: 0.85 },
-        { transform: `translate(${x}px,${y}px) scale(${scale}) rotate(${rotate}deg)`, opacity: 0 }
-      ], {
-        duration: 320 + Math.random() * 120, // 更快消散
-        easing: 'cubic-bezier(.61,1.41,.88,1.01)'
-      });
-
-      setTimeout(() => {
-        particle.remove();
-      }, 400);
+    .particle {
+      position: fixed;
+      pointer-events: none;
+      border-radius: 50%;
+      width: 8px;
+      height: 8px;
+      background: linear-gradient(45deg, #4f8cff, #ff6ec4);
+      opacity: 0.8;
+      z-index: 9999;
+      will-change: transform, opacity;
     }
-  });
-});
-</script>
+    </style>
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.addEventListener('click', function(e) {
+        // 阻止默认行为，防止闪烁
+        e.preventDefault();
+        e.stopPropagation();
+        // 判断是否点击在空白处（不是链接、按钮、输入框等）
+        if (
+          e.target.tagName === 'A' ||
+          e.target.tagName === 'BUTTON' ||
+          e.target.tagName === 'INPUT' ||
+          e.target.tagName === 'TEXTAREA' ||
+          e.target.isContentEditable
+        ) return;
+    
+        const numParticles = 18;
+        const angleStep = (2 * Math.PI) / numParticles;
+        for (let i = 0; i < numParticles; i++) {
+          const particle = document.createElement('div');
+          particle.className = 'particle';
+          particle.style.left = (e.clientX - 4) + 'px';
+          particle.style.top = (e.clientY - 4) + 'px';
+          // 随机颜色
+          particle.style.background = `linear-gradient(45deg, #${Math.floor(Math.random()*16777215).toString(16)}, #ff6ec4)`;
+          document.body.appendChild(particle);
+    
+          // 计算粒子飞散方向
+          const angle = i * angleStep;
+          const distance = 60 + Math.random() * 30;
+          const x = Math.cos(angle) * distance;
+          const y = Math.sin(angle) * distance;
+    
+          // 动画
+          particle.animate([
+            { transform: 'translate(0,0)', opacity: 0.8 },
+            { transform: `translate(${x}px,${y}px)`, opacity: 0 }
+          ], {
+            duration: 600 + Math.random() * 200,
+            easing: 'cubic-bezier(.61,1.41,.88,1.01)'
+          });
+    
+          setTimeout(() => {
+            particle.remove();
+          }, 700);
+        }
+      });
+    });
+    </script>
