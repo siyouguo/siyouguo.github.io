@@ -160,12 +160,13 @@ Previously, I received the B.Eng degree form SDUT in 2023.
   Jin Wang, **<font size=3>Siyou Guo</font>**, Qilei Li, David Camacho, Gwanggil Jeon
   <!-- 上面这个论文链接不对 -->
 
-- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> Context-Aware Deepfake Detection for Securing AI-Driven Financial Transactions) **<font color=red>(CCF C)</font>**
+- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> [Context-Aware Deepfake Detection for Securing AI-Driven Financial Transactions](https://ieeexplore.ieee.org/document/11073561) **<font color=red>(CCF C)</font>**
 
-  *IEEE Transactions on Computational Social Systems*, In Press. IF=4.9, JCR Q1
+  *IEEE Transactions on Computational Social Systems*. IF=4.9, JCR Q1
+
+  DOI: 10.1109/TCSS.2025.3577753
 
   Changcun Liu, Guisheng Zhang, **<font size=3>Siyou Guo</font>**, Qilei Li, Gwanggil Jeon, Mingliang Gao. 
-    <!-- 上面这个论文链接不对 -->
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCE</span> [Detecting Sequential Deepfake Manipulation via Spectral Transformer With Pyramid Attention in Consumer IoT](https://ieeexplore.ieee.org/document/10556749)
 
