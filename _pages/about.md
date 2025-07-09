@@ -31,26 +31,6 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 - *2024.03*: &nbsp;🎉🎉 Great news to kick things off! My first paper has been accepted to IJCNN 2024!
 
 
-<!-- # 📝 Publications 
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<div class="badge">TCE
-</div>
-<img src='images/Siyou-TCE.png' alt="sym" width="100%">
-</div>
-</div>
-<div class='paper-box-text' markdown="1">
-
-[Deepfake Detection via Spatial-Frequency Attention Network](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-*IEEE Transactions on Consumer Electronics*
-
-**<font size=3>Siyou Guo</font>**, Mingliang Gao, Guisheng Zhang, Changcun Liu, Qilei Li
-</div>
-</div> -->
-
-
 # 📝 Publications 
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -143,22 +123,21 @@ Previously, I received the B.Eng degree form SDUT in 2023.
   *IEEE Transactions on Computational Social Systems*, In Revision
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
-  <!-- 上面这个论文链接不对 -->
 
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IMAVIS</span> Deepfake Detection via Feature Refinement and Enhancement Network **<font color=red>(CCF C)</font>**
-  <!-- 上面这个论文链接不对 -->
 
   *Image and Vision Computing*, In Press
   
   Weicheng Song, **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Xianxun Zhu, Imad Rida
+
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IJIMAI</span> Demosaicking Algorithm Using Deep Residual Convolutional Network
 
   *International Journal of Interactive Multimedia and Artificial Intelligence*, In Press
 
   Jin Wang, **<font size=3>Siyou Guo</font>**, Qilei Li, David Camacho, Gwanggil Jeon
-  <!-- 上面这个论文链接不对 -->
+
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> [Context-Aware Deepfake Detection for Securing AI-Driven Financial Transactions](https://ieeexplore.ieee.org/document/11073561) **<font color=red>(CCF C)</font>**
 
@@ -184,7 +163,6 @@ Previously, I received the B.Eng degree form SDUT in 2023.
   
   Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=3>Siyou Guo</font>**, Gwanggil Jeon, Ahmed M. Abdelmoniem
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2023.10, 2024.10* Graduate Student Academic Scholarship.
@@ -196,19 +174,12 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 - 2024.12, The 5th MathorCup Mathematical Application Challenge – Big Data Competition, Second Prize.
 - 2025.03, The 4th Higher Education Big Data Challenge, Third Prize.
 
+
 # 📖 Educations
 - *2023.06 - Now*, Master, Shandong University of Technology, Zibo, China. 
 - *2019.09 - 2023.06*, Undergraduate, Shandong University of Technology, Zibo, China. 
 - *2016.09 - 2019.06*, Fanxian No.1 High School, Puyang, China. 
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-
-<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
 
 # 🛠 Professional Skills
 - **Grant Writing**: Experienced with [NSFC](https://www.nsfc.gov.cn/), [provincial](https://cloud.kjt.shandong.gov.cn/), and overseas grant proposals.
@@ -217,14 +188,13 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 - **Web Admin**: Capable of building and maintaining [group websites](https://brighten.group/).
 - **Programming**: Strong skills in Python and the PyTorch framework.
 - **Containerization**: Familiar with Docker and Apptainer.
-- **Development Tools**: Proficient with VS Code, Git, and [GitHub](https://brighten.group/).
+- **Development Tools**: Proficient with VS Code, Git, and [GitHub](https://github.com/siyouguo).
 - **Office Software**: Skilled in Microsoft Office Suite.
 
- <!-- <a href="https://mapmyvisitors.com/web/1byij"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=3jXnIbzPiVi2cKTkkTzb8VgedbRgYKa5dV7t_hn0dew&cl=ffffff" /></a>  -->
 
+<!-- Web page click count -->
  <p align="center">
   <a href="https://mapmyvisitors.com/web/1byij"  title="Visit tracker">
     <img src="https://mapmyvisitors.com/map.png?d=3jXnIbzPiVi2cKTkkTzb8VgedbRgYKa5dV7t_hn0dew&cl=ffffff" />
   </a>
 </p>
-
