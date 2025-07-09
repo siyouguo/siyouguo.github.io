@@ -15,6 +15,9 @@
     <script>
     document.addEventListener('DOMContentLoaded', function() {
       document.addEventListener('click', function(e) {
+        // 阻止默认行为，防止闪烁
+        e.preventDefault();
+        e.stopPropagation();
         // 判断是否点击在空白处（不是链接、按钮、输入框等）
         if (
           e.target.tagName === 'A' ||
