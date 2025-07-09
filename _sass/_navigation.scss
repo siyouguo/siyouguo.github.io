@@ -308,6 +308,14 @@
   }
 }
 
+body.dark-mode .greedy-nav {
+  background: #23272a !important; /* 比正文深，和导航栏一致 */
+  border-bottom: 1px solid #444c56;
+}
+body.dark-mode .greedy-nav a {
+  color: #e5e7eb !important;
+}
+
 
 /*
    Navigation list
