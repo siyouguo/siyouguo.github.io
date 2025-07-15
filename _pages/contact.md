@@ -3,7 +3,7 @@ permalink: /contact/
 title: "联系我"
 layout: default
 excerpt: "联系方式"
-author_profile: false
+author_profile: null
 sidebar: false
 ---
 
