@@ -46,7 +46,9 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   *Image and Vision Computing* 160: 105582 (2025). IF=4.2, JCR Q1
 
-  **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida
+  **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida  
+  <br>
+  <a class="btn btn--info" href="https://drive.google.com/file/d/1yVNupTJw0b791QuFKCH0ASOULOIxMvjH/view?usp=drive_link" target="_blank">PDF下载</a>
 </div>
 </div>
 
