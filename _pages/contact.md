@@ -3,8 +3,6 @@ permalink: /contact/
 title: "联系我"
 layout: default
 excerpt: "联系方式"
-author_profile: null
-sidebar: false
 ---
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 60vh;">
