@@ -48,7 +48,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida  
   <br>
-  <a class="btn btn--info" href="https://drive.google.com/file/d/1yVNupTJw0b791QuFKCH0ASOULOIxMvjH/view?usp=drive_link" target="_blank">PDF下载</a>
+  <a href="https://drive.google.com/file/d/1yVNupTJw0b791QuFKCH0ASOULOIxMvjH/view?usp=drive_link" target="_blank">PDF下载</a>
 </div>
 </div>
 
@@ -117,7 +117,8 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   DOI: 10.1109/IJCNN60899.2024.10650463
   
-  **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Gwanggil Jeon, David Camacho
+  **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Gwanggil Jeon, David Camacho  
+  <a href="https://drive.google.com/file/d/1ydqZHW2FmOr6uiEWd5zFEcFFPjiDJOsU/view?usp=drive_link" target="_blank">PDF下载</a>
 
    
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> Federated Learning-Driven Face Forgery Detection via Rich Feature Complementary Fusion **<font color=red>(CCF C)</font>**
