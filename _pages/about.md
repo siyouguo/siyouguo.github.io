@@ -73,7 +73,8 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   *IEEE Consumer Electronics Magazine* 14(3): 80-86 (2025). IF=4.1, JCR Q1
 
-  **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Jinfeng Pan, Gwanggil Jeon
+  **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Jinfeng Pan, Gwanggil Jeon  
+  <a href="https://drive.google.com/file/d/1nnzK0JQd1VKTw8Kk5CSfXrRUGHbE2iH8/view?usp=drive_link" target="_blank">PDF下载</a>
 </div>
 </div> 
 
@@ -101,7 +102,8 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   DOI: 10.1109/MCE.2024.3493776
 
-  **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
+  **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon  
+  <a href="https://drive.google.com/file/d/1BMRC8agRdcng4mgENhH1fbO1dESB5ddI/view?usp=drive_link" target="_blank">PDF下载</a>
 </div>
 </div>
 
@@ -156,8 +158,10 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   DOI: 10.1109/TCE.2024.3414319
   
-  Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=3>Siyou Guo</font>**, Gwanggil Jeon
-  
+  Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=3>Siyou Guo</font>**, Gwanggil Jeon  
+  <a href="https://drive.google.com/file/d/1VYwkEyQtz2XOYyeRbFiEqx4vIE8QLGh8/view?usp=drive_link" target="_blank">PDF下载</a>
+
+
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> [Space-Frequency and Global-Local Attentive Networks for Sequential Deepfake Detection](https://ieeexplore.ieee.org/document/10904029) **<font color=red>(CCF C)</font>** 
 
   *IEEE Transactions on Computational Social Systems*. IF=4.9, JCR Q1
