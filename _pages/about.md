@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Siyou Guo | About Me"
+excerpt: "M.S. student at SDUT, focusing on deepfake and fake news detection."
 author_profile: true
-redirect_from: 1
+redirect_from:
   - /about/
   - /about.html
 --- 
@@ -20,7 +20,7 @@ I am a second-year M.S. student at the [School of Electrical and Electronic Engi
 
 Specifically, I am passionate about developing robust techniques for **deepfake and fake news detection**, with a particular focus on the new complexities and threats emerging in the era of Large Language Models (LLMs). My goal is to contribute to a more secure and trustworthy information ecosystem.
 
-Previously, I received the B.Eng degree form SDUT in 2023.
+Previously, I received my B.Eng degree from SDUT in 2023.
 
 <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>   
  
@@ -176,15 +176,15 @@ Previously, I received the B.Eng degree form SDUT in 2023.
 
 
 # 📖 Educations
-- *2023.06 - Now*, Master, Shandong University of Technology, Zibo, China. 
-- *2019.09 - 2023.06*, Undergraduate, Shandong University of Technology, Zibo, China. 
+- *2023.06 - Now*, M.S., SDUT, Zibo, China. 
+- *2019.09 - 2023.06*, B.Eng., SDUT, Zibo, China. 
 - *2016.09 - 2019.06*, Fanxian No.1 High School, Puyang, China. 
 
 
 # 🛠 Professional Skills
 - **Grant Writing**: Experienced with [NSFC](https://www.nsfc.gov.cn/), [provincial](https://cloud.kjt.shandong.gov.cn/), and overseas grant proposals.
 - **Mentorship**: Skilled in guiding graduate students' research and thesis writing.
-- **System Admin**: Proficient wsith [Linux](https://www.runoob.com/linux/linux-tutorial.html), server setup, and maintenance.
+- **System Admin**: Proficient with [Linux](https://www.runoob.com/linux/linux-tutorial.html), server setup, and maintenance.
 - **Web Admin**: Capable of building and maintaining [group websites](https://brighten.group/).
 - **Programming**: Strong skills in Python and the PyTorch framework.
 - **Containerization**: Familiar with Docker and Apptainer.
