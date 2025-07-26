@@ -193,9 +193,24 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
 
 # 📖 Educations
-- *2023.06 - Now*, M.S., SDUT, Zibo, China. 
-- *2019.09 - 2023.06*, B.Eng., SDUT, Zibo, China. 
+- *2023.06 - Now*, M.S. in Control Engineering, SDUT, Zibo, China. 
+- *2019.09 - 2023.06*, B.Eng. in Automation, SDUT, Zibo, China. 
 - *2016.09 - 2019.06*, Fanxian No.1 High School, Puyang, China. 
+
+<table border="0">
+  <tr>
+    <td style="text-align: left;"><em>2023.06 - Now</em></td>
+    <td style="text-align: left;">M.S. in Control Engineering SDUT Zibo China</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;"><em>2019.09 - 2023.06</em></td>
+    <td style="text-align: left;">B.Eng. in Automation SDUT Zibo China</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;"><em>2016.09 - 2019.06</em></td>
+    <td style="text-align: left;">Fanxian No.1 High School Puyang China</td>
+  </tr>
+</table>
 
 
 # 🛠 Professional Skills
