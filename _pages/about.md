@@ -46,7 +46,6 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida  
 
-
   *Image and Vision Computing* 160: 105582 (2025). IF=4.2, JCR Q1
   <!-- <br> -->
   <a href="https://drive.google.com/file/d/1yVNupTJw0b791QuFKCH0ASOULOIxMvjH/view?usp=drive_link" target="_blank">PDF下载</a>
@@ -136,8 +135,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   *IEEE Transactions on Computational Social Systems*, In Revision
 
 
-
-- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IMAVIS</span> Deepfake Detection via Feature Refinement and Enhancement Network **<font color=red>(CCF C)</font>**
+- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IMAVIS</span> [Deepfake Detection via Feature Refinement and Enhancement Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625002513) **<font color=red>(CCF C)</font>**
 
   Weicheng Song, **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Xianxun Zhu, Imad Rida
 
