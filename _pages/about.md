@@ -213,6 +213,22 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 </table>
 
 
+<table style="border-collapse: collapse; width: 100%; border: none;">
+  <tr style="border: none;">
+    <td style="text-align: left; border: none; padding: 8px 0;"><em>2023.06 - Now</em></td>
+    <td style="text-align: left; border: none; padding: 8px 0;">M.S. in Control Engineering SDUT Zibo China</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="text-align: left; border: none; padding: 8px 0;"><em>2019.09 - 2023.06</em></td>
+    <td style="text-align: left; border: none; padding: 8px 0;">B.Eng. in Automation SDUT Zibo China</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="text-align: left; border: none; padding: 8px 0;"><em>2016.09 - 2019.06</em></td>
+    <td style="text-align: left; border: none; padding: 8px 0;">Fanxian No.1 High School Puyang China</td>
+  </tr>
+</table>
+
+
 # 🛠 Professional Skills
 - **Grant Writing**: Experienced with [NSFC](https://www.nsfc.gov.cn/), [provincial](https://cloud.kjt.shandong.gov.cn/), and overseas grant proposals.
 - **Mentorship**: Skilled in guiding graduate students' research and thesis writing.
