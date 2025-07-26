@@ -208,7 +208,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   </tr>
   <tr style="border: none;">
     <td style="text-align: left; border: none; padding: 8px 0;"><em>2016.09 - 2019.06</em></td>
-    <td style="text-align: left; border: none; padding: 8px 0;">Fanxian No.1 High School, Puyang, China.</td>
+    <td style="text-align: left; border: none; padding: 8px 0;">[Fanxian No.1 High School](http://www.fanxianyizhong.cn/), Puyang, China.</td>
   </tr>
 </table>
 
