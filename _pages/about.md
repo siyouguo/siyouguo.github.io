@@ -105,7 +105,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   *IEEE Consumer Electronics Magazine*. IF=4.1, JCR Q1
 
   DOI: 10.1109/MCE.2024.3493776
-  <br>
+  <!-- <br> -->
   <a href="https://drive.google.com/file/d/1BMRC8agRdcng4mgENhH1fbO1dESB5ddI/view?usp=drive_link" target="_blank">PDF下载</a>
 </div>
 </div>
