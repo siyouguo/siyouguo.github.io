@@ -121,7 +121,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Gwanggil Jeon, David Camacho  
 
 
-  *Proceedings of International Joint Conference on Neural Networks (IJCNN)* 2024: 1-6
+  *Proceedings of International Joint Conference on Neural Networks (IJCNN)*, 2024
 
   DOI: 10.1109/IJCNN60899.2024.10650463
   <a href="https://drive.google.com/file/d/1ydqZHW2FmOr6uiEWd5zFEcFFPjiDJOsU/view?usp=drive_link" target="_blank">PDF下载</a>
@@ -139,7 +139,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   Weicheng Song, **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Xianxun Zhu, Imad Rida
 
-  *Image and Vision Computing*, In Press
+  *Image and Vision Computing*, 2025
 
   DOI: 10.1016/j.imavis.2025.105663
 
