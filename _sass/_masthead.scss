@@ -62,21 +62,6 @@
   }
 }
 
-.masthead__menu-item--lg {
-  padding-right: 2em;
-  font-weight: bold; // 增强视觉层级
-  position: relative;
-  &::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0.8em;
-    width: calc(100% - 1.6em);
-    height: 2px;
-    background-color: $link-color; // 底部指示线
-  }
-}
-
 body.dark-mode .greedy-nav {
   background: #23272a !important;
 }
