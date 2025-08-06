@@ -190,6 +190,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 - 2024.08, The 5th "Huashu Cup" National College Student Mathematical Modeling Competition, Second Prize.
 - 2024.12, The 5th MathorCup Mathematical Application Challenge – Big Data Competition, Second Prize.
 - 2025.03, The 4th Higher Education Big Data Challenge, Third Prize.
+- 2025.07, The 17th "[CSEE Cup](https://www.csee.org.cn/)" National Undergraduate Electrotechnical Mathematical Modeling Competition, Second Prize.
 
 
 # 📖 Educations
