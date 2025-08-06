@@ -139,7 +139,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   Weicheng Song, **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Xianxun Zhu, Imad Rida
 
-  *Image and Vision Computing*, 2025
+  *Image and Vision Computing* 162: 105663 (2025). IF=4.2, JCR Q1
 
   DOI: 10.1016/j.imavis.2025.105663
 
