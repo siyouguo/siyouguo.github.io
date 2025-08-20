@@ -155,17 +155,15 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   Changcun Liu, Guisheng Zhang, **<font size=3>Siyou Guo</font>**, Qilei Li, Gwanggil Jeon, Mingliang Gao. 
 
-
   *IEEE Transactions on Computational Social Systems*. IF=4.9, JCR Q1
 
   DOI: 10.1109/TCSS.2025.3577753
-
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCE</span> [Detecting Sequential Deepfake Manipulation via Spectral Transformer With Pyramid Attention in Consumer IoT](https://ieeexplore.ieee.org/document/10556749)
 
   Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=3>Siyou Guo</font>**, Gwanggil Jeon 
 
-  *IEEE Transactions on Consumer Electronics*. IF=10.9, JCR Q1
+  *IEEE Transactions on Consumer Electronics*, 71(2): 6371-6380 (2025). IF=10.9, JCR Q1
 
   DOI: 10.1109/TCE.2024.3414319
   <a href="https://drive.google.com/file/d/1VYwkEyQtz2XOYyeRbFiEqx4vIE8QLGh8/view?usp=drive_link" target="_blank">PDF下载</a>
@@ -180,7 +178,6 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   DOI: 10.1109/TCSS.2025.3541346
   
 
-
 # 🎖 Honors and Awards
 - *2023.10, 2024.10* Graduate Student Academic Scholarship.
 - 2025.03, Graduate Student [Zhiyang](https://www.zhiyang.com.cn/) Scholarship.
@@ -191,8 +188,6 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 - 2024.12, The 5th MathorCup Mathematical Application Challenge – Big Data Competition, Second Prize.
 - 2025.03, The 4th Higher Education Big Data Challenge, Third Prize.
 - 2025.07, "[CSEE Cup 2025 ](https://www.csee.org.cn/)" National University Students Electrical Math Modeling Competition, Second Prize.
-
-
 
 
 # 📖 Educations
