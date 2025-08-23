@@ -131,7 +131,6 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
 
-
   *IEEE Transactions on Computational Social Systems*, In Revision
 
 
@@ -148,7 +147,6 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   Jin Wang, **<font size=3>Siyou Guo</font>**, Qilei Li, David Camacho, Gwanggil Jeon
 
-
   *International Journal of Interactive Multimedia and Artificial Intelligence*, In Press
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> [Context-Aware Deepfake Detection for Securing AI-Driven Financial Transactions](https://ieeexplore.ieee.org/document/11073561) **<font color=red>(CCF C)</font>**
@@ -157,7 +155,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   *IEEE Transactions on Computational Social Systems*. IF=4.9, JCR Q1
 
-  DOI: 10.1109/TCSS.2025.3577753
+  DOI: 10.1109/TCS
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCE</span> [Detecting Sequential Deepfake Manipulation via Spectral Transformer With Pyramid Attention in Consumer IoT](https://ieeexplore.ieee.org/document/10556749)
 
