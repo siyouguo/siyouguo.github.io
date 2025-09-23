@@ -129,7 +129,7 @@ Network
 
   *IEEE Consumer Electronics Magazine*. IF=4.1, JCR Q1
 
-  DOI: 10.1109/MCE.2024.3493776
+  <!-- DOI: 10.1109/MCE.2024.3493776 -->
   <!-- <br> -->
   <a href="https://drive.google.com/file/d/1BMRC8agRdcng4mgENhH1fbO1dESB5ddI/view?usp=drive_link" target="_blank">PDF下载</a>
 </div>
@@ -148,7 +148,7 @@ Network
 
   *Proceedings of International Joint Conference on Neural Networks (IJCNN)*, 2024
 
-  DOI: 10.1109/IJCNN60899.2024.10650463
+  <!-- DOI: 10.1109/IJCNN60899.2024.10650463 -->
   <a href="https://drive.google.com/file/d/1ydqZHW2FmOr6uiEWd5zFEcFFPjiDJOsU/view?usp=drive_link" target="_blank">PDF下载</a>
 
    
@@ -165,7 +165,7 @@ Network
 
   *Image and Vision Computing* 162: 105663 (2025). IF=4.2, JCR Q1
 
-  DOI: 10.1016/j.imavis.2025.105663
+  <!-- DOI: 10.1016/j.imavis.2025.105663 -->
 
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IJIMAI</span> Demosaicking Algorithm Using Deep Residual Convolutional Network
@@ -180,7 +180,6 @@ Network
 
   *IEEE Transactions on Computational Social Systems*. IF=4.9, JCR Q1
 
-  DOI: 10.1109/TCS
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCE</span> [Detecting Sequential Deepfake Manipulation via Spectral Transformer With Pyramid Attention in Consumer IoT](https://ieeexplore.ieee.org/document/10556749)
 
@@ -188,7 +187,7 @@ Network
 
   *IEEE Transactions on Consumer Electronics*, 71(2): 6371-6380 (2025). IF=10.9, JCR Q1
 
-  DOI: 10.1109/TCE.2024.3414319
+  <!-- DOI: 10.1109/TCE.2024.3414319 -->
   <a href="https://drive.google.com/file/d/1VYwkEyQtz2XOYyeRbFiEqx4vIE8QLGh8/view?usp=drive_link" target="_blank">PDF下载</a>
 
 
@@ -198,7 +197,7 @@ Network
 
   *IEEE Transactions on Computational Social Systems*. IF=4.9, JCR Q1
 
-  DOI: 10.1109/TCSS.2025.3541346
+  <!-- DOI: 10.1109/TCSS.2025.3541346 -->
   
 
 # 🎖 Honors and Awards
