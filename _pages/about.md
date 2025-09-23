@@ -72,6 +72,7 @@ Network
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida  
 
   *Image and Vision Computing* 160: 105582 (2025). IF=4.2, JCR Q1
+  
   <!-- <br> -->
   <a href="https://drive.google.com/file/d/1yVNupTJw0b791QuFKCH0ASOULOIxMvjH/view?usp=drive_link" target="_blank">PDF下载</a>
 </div>
@@ -99,6 +100,7 @@ Network
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Jinfeng Pan, Gwanggil Jeon  
 
   *IEEE Consumer Electronics Magazine* 14(3): 80-86 (2025). IF=4.1, JCR Q1
+
   <!-- <br> -->
   <a href="https://drive.google.com/file/d/1nnzK0JQd1VKTw8Kk5CSfXrRUGHbE2iH8/view?usp=drive_link" target="_blank">PDF下载</a>
 </div>
