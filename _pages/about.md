@@ -32,6 +32,30 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
 
 # 📝 Publications 
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">IEEE TCE
+</div>
+<img src='images/Siyou-TCE.png' alt="sym" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+Deepfake Detection via Spatial-Frequency Attention
+Network 
+
+  **<font size=3>Siyou Guo</font>**, Mingliang Gao, Guisheng Zhang, Changcun Liu, Qilei Li
+
+  *IEEE Transactions on Consumer Electronics*, 2025. IF=10.9, JCR Q1
+  <!-- <br> -->
+  <!-- <a href="https://drive.google.com/file/d/1yVNupTJw0b791QuFKCH0ASOULOIxMvjH/view?usp=drive_link" target="_blank">PDF下载</a> -->
+</div>
+</div>
+
+
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
