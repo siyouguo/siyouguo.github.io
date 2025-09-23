@@ -203,14 +203,14 @@ Network
 
 # 🎖 Honors and Awards
 - *2023.10, 2024.10* Graduate Student Academic Scholarship.
-- 2025.03, Graduate Student [Zhiyang](https://www.zhiyang.com.cn/) Scholarship.
-- 2022.06, College English Test Band 6 (CET-6) Certificate
-- 2024.08, "[CSEE Cup 2024](https://www.csee.org.cn/)" National University Students Electrical Math Modeling Competition, Third Prize.
-- 2024.06, [May 1st Mathematical Contest in Modeling](https://51mcm.cumt.edu.cn/), Second Prize.
-- 2024.08, The 5th "Huashu Cup" National College Student Mathematical Modeling Competition, Second Prize.
-- 2024.12, The 5th MathorCup Mathematical Application Challenge – Big Data Competition, Second Prize.
-- 2025.03, The 4th Higher Education Big Data Challenge, Third Prize.
-- 2025.07, "[CSEE Cup 2025 ](https://www.csee.org.cn/)" National University Students Electrical Math Modeling Competition, Second Prize.
+- *2025.03*, Graduate Student [Zhiyang](https://www.zhiyang.com.cn/) Scholarship.
+- *2022.06*, College English Test Band 6 (CET-6) Certificate
+- *2024.08*, "[CSEE Cup 2024](https://www.csee.org.cn/)" National University Students Electrical Math Modeling Competition, Third Prize.
+- *2024.06*, [May 1st Mathematical Contest in Modeling](https://51mcm.cumt.edu.cn/), Second Prize.
+- *2024.08*, The 5th "Huashu Cup" National College Student Mathematical Modeling Competition, Second Prize.
+- *2024.12*, The 5th MathorCup Mathematical Application Challenge – Big Data Competition, Second Prize.
+- *2025.03*, The 4th Higher Education Big Data Challenge, Third Prize.
+- *2025.07*, "[CSEE Cup 2025 ](https://www.csee.org.cn/)" National University Students Electrical Math Modeling Competition, Second Prize.
 
 
 # 📖 Educations
