@@ -27,7 +27,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 <!-- My resume in Chinese is [here](https://drive.google.com/file/d/1J0ZBaOqzJ2xnaAD3hU2tl_OAO-2xqwYa/view?usp=drive_link). -->
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Thrilled to share that our paper will appear in *IEEE Transactions on Consumer Electronics*.
+- *2025.09*: &nbsp;🎉🎉 Thrilled to share that our paper will appear in IEEE *Transactions on Consumer Electronics*.
 - *2025.05*: &nbsp;🎉🎉 One paper accepted to *Image and Vision Computing*.
 - *2024.03*: &nbsp;🎉🎉 A great start to my research journey! My debut paper has been accepted to IJCNN 2024.
 
