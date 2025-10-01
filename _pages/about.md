@@ -45,8 +45,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 </div>
 <div class='paper-box-text' markdown="1">
 
-Deepfake Detection via Spatial-Frequency Attention
-Network 
+[Deepfake Detection via Spatial-Frequency Attention Network](https://ieeexplore.ieee.org/document/11182301)
 
   **<font size=3>Siyou Guo</font>**, Mingliang Gao, Guisheng Zhang, Changcun Liu, Qilei Li
 
