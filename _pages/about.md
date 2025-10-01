@@ -50,7 +50,7 @@ Network
 
   **<font size=3>Siyou Guo</font>**, Mingliang Gao, Guisheng Zhang, Changcun Liu, Qilei Li
 
-  *IEEE Transactions on Consumer Electronics*, 2025. IF=10.9, JCR Q1
+  IEEE *Transactions on Consumer Electronics*, 2025. IF=10.9, JCR Q1
   <!-- <br> -->
   <!-- <a href="https://drive.google.com/file/d/1yVNupTJw0b791QuFKCH0ASOULOIxMvjH/view?usp=drive_link" target="_blank">PDF下载</a> -->
 </div>
@@ -99,7 +99,7 @@ Network
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Jinfeng Pan, Gwanggil Jeon  
 
-  *IEEE Consumer Electronics Magazine* 14(3): 80-86 (2025). IF=4.1, JCR Q1
+  IEEE *Consumer Electronics Magazine* 14(3): 80-86 (2025). IF=4.1, JCR Q1
 
   <!-- <br> -->
   <a href="https://drive.google.com/file/d/1nnzK0JQd1VKTw8Kk5CSfXrRUGHbE2iH8/view?usp=drive_link" target="_blank">PDF下载</a>
@@ -129,7 +129,7 @@ Network
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon  
 
 
-  *IEEE Consumer Electronics Magazine*. IF=4.1, JCR Q1
+  IEEE *Consumer Electronics Magazine*. IF=4.1, JCR Q1
 
   <!-- DOI: 10.1109/MCE.2024.3493776 -->
   <!-- <br> -->
@@ -158,7 +158,7 @@ Network
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
 
-  *IEEE Transactions on Computational Social Systems*, In Revision
+  IEEE *Transactions on Computational Social Systems*, In Revision
 
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IMAVIS</span> [Deepfake Detection via Feature Refinement and Enhancement Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625002513) **<font color=red>(CCF C)</font>**
@@ -180,14 +180,14 @@ Network
 
   Changcun Liu, Guisheng Zhang, **<font size=3>Siyou Guo</font>**, Qilei Li, Gwanggil Jeon, Mingliang Gao. 
 
-  *IEEE Transactions on Computational Social Systems*. IF=4.9, JCR Q1
+  IEEE *Transactions on Computational Social Systems*. IF=4.9, JCR Q1
 
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCE</span> [Detecting Sequential Deepfake Manipulation via Spectral Transformer With Pyramid Attention in Consumer IoT](https://ieeexplore.ieee.org/document/10556749)
 
   Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=3>Siyou Guo</font>**, Gwanggil Jeon 
 
-  *IEEE Transactions on Consumer Electronics*, 71(2): 6371-6380 (2025). IF=10.9, JCR Q1
+  IEEE *Transactions on Consumer Electronics*, 71(2): 6371-6380 (2025). IF=10.9, JCR Q1
 
   <!-- DOI: 10.1109/TCE.2024.3414319 -->
   <a href="https://drive.google.com/file/d/1VYwkEyQtz2XOYyeRbFiEqx4vIE8QLGh8/view?usp=drive_link" target="_blank">PDF下载</a>
@@ -197,7 +197,7 @@ Network
 
   Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=3>Siyou Guo</font>**, Gwanggil Jeon, Ahmed M. Abdelmoniem
 
-  *IEEE Transactions on Computational Social Systems*. IF=4.9, JCR Q1
+  IEEE *Transactions on Computational Social Systems*. IF=4.9, JCR Q1
 
   <!-- DOI: 10.1109/TCSS.2025.3541346 -->
   
