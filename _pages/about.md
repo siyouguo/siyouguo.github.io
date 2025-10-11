@@ -196,11 +196,11 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=3>Siyou Guo</font>**, Gwanggil Jeon, Ahmed M. Abdelmoniem
 
-  IEEE *Transactions on Computational Social Systems*. IF=4.9, JCR Q1
+  IEEE *Transactions on Computational Social Systems*, 12(5): 2940-2948 (2025). IF=4.9, JCR Q1
 
   <!-- DOI: 10.1109/TCSS.2025.3541346 -->
   
-
+  
 # 🎖 Honors and Awards
 - *2023.10, 2024.10* Graduate Student Academic Scholarship.
 - *2025.03*, Graduate Student [Zhiyang](https://www.zhiyang.com.cn/) Scholarship.
