@@ -157,7 +157,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
 
-  IEEE *Transactions on Computational Social Systems*, In Revision
+  IEEE *Transactions on Computational Social Systems*, Accept with Minor Revision
 
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IMAVIS</span> [Deepfake Detection via Feature Refinement and Enhancement Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625002513) **<font color=red>(CCF C)</font>**
