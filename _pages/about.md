@@ -128,7 +128,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon  
 
 
-  IEEE *Consumer Electronics Magazine*. IF=4.1, JCR Q1
+  IEEE *Consumer Electronics Magazine* 14(6): 57-63 (2025). IF=4.1, JCR Q1
 
   <!-- DOI: 10.1109/MCE.2024.3493776 -->
   <!-- <br> -->
