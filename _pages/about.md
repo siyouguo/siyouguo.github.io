@@ -74,7 +74,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   *Image and Vision Computing* 160: 105582 (2025). IF=4.2, JCR Q1
   
   <!-- <br> -->
-  <a href="https://drive.google.com/file/d/1yVNupTJw0b791QuFKCH0ASOULOIxMvjH/view?usp=drive_link" target="_blank">[PDF]</a>
+  <a href="https://drive.google.com/file/d/1yVNupTJw0b791QuFKCH0ASOULOIxMvjH/view?usp=sharing" target="_blank">[PDF]</a>
 </div>
 </div>
 
@@ -133,7 +133,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   <!-- DOI: 10.1109/MCE.2024.3493776 -->
   <!-- <br> -->
-  <a href="https://drive.google.com/file/d/1BMRC8agRdcng4mgENhH1fbO1dESB5ddI/view?usp=drive_link" target="_blank">[PDF]</a>
+  <a href="https://drive.google.com/file/d/1js52a-nIQVgn34uBZdPPRsgJnSlkBZGL/view?usp=sharing" target="_blank">[PDF]</a>
 </div>
 </div>
 
@@ -151,7 +151,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   *Proceedings of International Joint Conference on Neural Networks (IJCNN)*, 2024
 
   <!-- DOI: 10.1109/IJCNN60899.2024.10650463 -->
-  <a href="https://drive.google.com/file/d/1ydqZHW2FmOr6uiEWd5zFEcFFPjiDJOsU/view?usp=drive_link" target="_blank">[PDF]</a>
+  <a href="https://drive.google.com/file/d/1ydqZHW2FmOr6uiEWd5zFEcFFPjiDJOsU/view?usp=sharing" target="_blank">[PDF]</a>
 
    
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> Federated Learning-Driven Face Forgery Detection via Rich Feature Complementary Fusion 
