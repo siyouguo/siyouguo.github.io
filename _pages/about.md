@@ -51,7 +51,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   IEEE *Transactions on Consumer Electronics*, 71(4): 9832-9841 (2025). IF=10.9, JCR Q1
 
-  <br> -->
+  <!-- <br> -->
   <a href="https://drive.google.com/file/d/1drMRqG3hcB2uCo5HYwD_N0SBQl9HvyG-/view?usp=sharing" target="_blank">[PDF]</a>
 </div>
 </div>
