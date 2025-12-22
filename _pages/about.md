@@ -49,12 +49,12 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   **<font size=3>Siyou Guo</font>**, Mingliang Gao, Guisheng Zhang, Changcun Liu, Qilei Li
 
-  IEEE *Transactions on Consumer Electronics*, 2025. IF=10.9, JCR Q1
-  <!-- <br> -->
-  <!-- <a href="https://drive.google.com/file/d/1yVNupTJw0b791QuFKCH0ASOULOIxMvjH/view?usp=drive_link" target="_blank">PDF下载</a> -->
-</div>
-</div>
+  IEEE *Transactions on Consumer Electronics*, 71(4): 9832-9841 (2025). IF=10.9, JCR Q1
 
+  <br> -->
+  <a href="https://drive.google.com/file/d/1drMRqG3hcB2uCo5HYwD_N0SBQl9HvyG-/view?usp=sharing" target="_blank">[PDF]</a>
+</div>
+</div>
 
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -99,7 +99,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Jinfeng Pan, Gwanggil Jeon  
 
-  IEEE *Consumer Electronics Magazine* 14(3): 80-86 (2025). IF=4.1, JCR Q1
+  IEEE *Consumer Electronics Magazine*, 14(3): 80-86 (2025). IF=4.1, JCR Q1
 
   <!-- <br> -->
   <a href="https://drive.google.com/file/d/1nnzK0JQd1VKTw8Kk5CSfXrRUGHbE2iH8/view?usp=drive_link" target="_blank">[PDF]</a>
@@ -129,7 +129,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon  
 
 
-  IEEE *Consumer Electronics Magazine* 14(6): 57-63 (2025). IF=4.1, JCR Q1
+  IEEE *Consumer Electronics Magazine*, 14(6): 57-63 (2025). IF=4.1, JCR Q1
 
   <!-- DOI: 10.1109/MCE.2024.3493776 -->
   <!-- <br> -->
@@ -186,7 +186,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   Changcun Liu, Guisheng Zhang, **<font size=3>Siyou Guo</font>**, Qilei Li, Gwanggil Jeon, Mingliang Gao. 
 
-  IEEE *Transactions on Computational Social Systems*. IF=4.9, JCR Q1
+  IEEE *Transactions on Computational Social Systems*, 12(6): 5342-5349 (2025). IF=4.9, JCR Q1
 
   <a href="https://drive.google.com/file/d/1Was5Y0QmnLWLEDxEPVLc7ykWc4yEWtlK/view?usp=sharing" target="_blank">[PDF]</a>
 
