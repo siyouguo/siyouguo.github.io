@@ -27,6 +27,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 <!-- My resume in Chinese is [here](https://drive.google.com/file/d/1J0ZBaOqzJ2xnaAD3hU2tl_OAO-2xqwYa/view?usp=drive_link). -->
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 On the last day of 2025, a paper was accepted by IEEE *Transactions on Computational Social Systems*!.
 - *2025.09*: &nbsp;🎉🎉 Thrilled to share that our paper will appear in IEEE *Transactions on Consumer Electronics*.
 - *2025.05*: &nbsp;🎉🎉 One paper accepted to *Image and Vision Computing*.
 - *2024.03*: &nbsp;🎉🎉 A great start to my research journey! My debut paper has been accepted to IJCNN 2024.
@@ -143,6 +144,15 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon -->
 
+- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> Federated Learning-Driven Face Forgery Detection via Rich Feature Complementary Fusion 
+<!-- - **<font color=red>(CCF C)</font>** -->
+
+
+  **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
+
+  IEEE *Transactions on Computational Social Systems*, DOI: 10.1109/TCSS.2026.3651124
+  
+
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IJCNN</span> <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.6; padding: 0.1em 0.7em; margin: 0 0.2em; font-family: sans-serif; font-weight: 500; letter-spacing: 0.5px; color: #065f46; border-radius: 999px; background-color: #d1fae5;">Conference</span> [Deepfake Detection via a Progressive Attention Network](https://ieeexplore.ieee.org/document/10650463) **<font color=red>(CCF C)</font>**
 
   **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Gwanggil Jeon, David Camacho  
@@ -154,13 +164,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   <a href="https://drive.google.com/file/d/1ydqZHW2FmOr6uiEWd5zFEcFFPjiDJOsU/view?usp=sharing" target="_blank">[PDF]</a>
 
    
-- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> Federated Learning-Driven Face Forgery Detection via Rich Feature Complementary Fusion 
-<!-- - **<font color=red>(CCF C)</font>** -->
 
-
-  **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
-
-  IEEE *Transactions on Computational Social Systems*, Accept with Minor Revision
 
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IMAVIS</span> [Deepfake Detection via Feature Refinement and Enhancement Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625002513) 
