@@ -63,7 +63,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 <div>
 <div class="badge">IEEE TCSS
 </div>
-<img src='images/Siyou-TCSS.jpg' alt="sym" width="100%">
+<img src='images/Siyou-TCSS-1.jpg' alt="sym" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
