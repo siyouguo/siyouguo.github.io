@@ -57,6 +57,37 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 </div>
 </div>
 
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">IEEE TCSS
+</div>
+<img src='images/Siyou-TCSS.png' alt="sym" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[Federated Learning-Driven Face Forgery Detection via Rich Feature Complementary Fusion](https://ieeexplore.ieee.org/document/11355707) 
+<!-- **<font color=red>(CCF C)</font>** -->
+
+  **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida  
+
+  IEEE *Transactions on Computational Social Systems*, DOI: 10.1109/TCSS.2026.3651124. IF=4.9, JCR Q1
+  
+  <!-- <br> -->
+  <!-- <a href="https://drive.google.com/file/d/1yVNupTJw0b791QuFKCH0ASOULOIxMvjH/view?usp=sharing" target="_blank">[PDF]</a> -->
+</div>
+</div>
+
+
+<!-- - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> [Federated Learning-Driven Face Forgery Detection via Rich Feature Complementary Fusion](https://ieeexplore.ieee.org/document/11355707) 
+<!-- - **<font color=red>(CCF C)</font>** -->
+
+  <!-- **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
+
+  IEEE *Transactions on Computational Social Systems*, DOI: 10.1109/TCSS.2026.3651124 --> -->
+
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
@@ -144,13 +175,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon -->
 
-- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> Federated Learning-Driven Face Forgery Detection via Rich Feature Complementary Fusion 
-<!-- - **<font color=red>(CCF C)</font>** -->
 
-
-  **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon
-
-  IEEE *Transactions on Computational Social Systems*, DOI: 10.1109/TCSS.2026.3651124
   
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IJCNN</span> <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.6; padding: 0.1em 0.7em; margin: 0 0.2em; font-family: sans-serif; font-weight: 500; letter-spacing: 0.5px; color: #065f46; border-radius: 999px; background-color: #d1fae5;">Conference</span> [Deepfake Detection via a Progressive Attention Network](https://ieeexplore.ieee.org/document/10650463) **<font color=red>(CCF C)</font>**
