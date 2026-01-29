@@ -18,11 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am a final-year M.S. student at the [School of Electrical and Electronic Engineering](https://dz.sdut.edu.cn/), [Shandong University of Technology (SDUT)](https://www.sdut.edu.cn/). Advised by [Prof. Mingliang Gao (高明亮)](https://scholar.google.com/citations?user=IFEIrUgAAAAJ&hl=en), my research is centered on the critical challenges of misinformation and malicious content detection. 
 
-Specifically, I am passionate about developing robust techniques for **deepfake and fake news detection**, with a particular focus on the new complexities and threats emerging in the era of Large Language Models (LLMs). My goal is to contribute to a more secure and trustworthy information ecosystem.
+Specifically, I am passionate about developing robust techniques for **deepfake and fake news detection**, with a particular focus on the new complexities and threats emerging in the era of Large Language Models (LLMs).
+<!-- My goal is to contribute to a more secure and trustworthy information ecosystem. -->
 To date, I have completed more than 10 journal and conference papers, including **6 papers published as the first author** (5 SCI papers and 1 CCF-C conference paper).
+<a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>   
 Previously, I received my B.Eng degree from SDUT in 2023.
 
-<a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>   
+
  
 <!-- My resume in Chinese is [here](https://drive.google.com/file/d/1J0ZBaOqzJ2xnaAD3hU2tl_OAO-2xqwYa/view?usp=drive_link). -->
 
