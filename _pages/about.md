@@ -28,7 +28,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 <!-- My resume in Chinese is [here](https://drive.google.com/file/d/1J0ZBaOqzJ2xnaAD3hU2tl_OAO-2xqwYa/view?usp=drive_link). -->
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 On the last day of 2025, a paper was accepted by IEEE *Transactions on Computational Social Systems*!.
+- *2025.12*: &nbsp;🎉🎉 On the last day of 2025, a paper was accepted by IEEE *Transactions on Computational Social Systems*.
 - *2025.09*: &nbsp;🎉🎉 Thrilled to share that our paper will appear in IEEE *Transactions on Consumer Electronics*.
 - *2025.05*: &nbsp;🎉🎉 One paper accepted to *Image and Vision Computing*.
 - *2024.03*: &nbsp;🎉🎉 A great start to my research journey! My debut paper has been accepted to IJCNN 2024.
@@ -256,7 +256,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
-    <td style="text-align: left; border: none; padding: 8px 0;"><em>2023.06 - Now</em></td>
+    <td style="text-align: left; border: none; padding: 8px 0;"><em>2023.06 - 2026.06</em></td>
     <td style="text-align: left; border: none; padding: 8px 0;">M.S. in Control Engineering, SDUT, Zibo, China.</td>
   </tr>
   <tr style="border: none;">
