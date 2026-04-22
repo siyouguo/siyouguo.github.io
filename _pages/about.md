@@ -25,7 +25,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
 <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>  
  
-<!-- My resume in Chinese is [here](https://drive.google.com/file/d/1J0ZBaOqzJ2xnaAD3hU2tl_OAO-2xqwYa/view?usp=drive_link). -->
+<!-- My resume in Chinese is [here](assets/pdf/CV_Siyou_Guo_ZH.pdf). -->
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 On the last day of 2025, a paper was accepted by IEEE *Transactions on Computational Social Systems*.
@@ -54,7 +54,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   IEEE *Transactions on Consumer Electronics*, 71(4): 9832-9841 (2025). IF=10.9, JCR Q1
 
   <!-- <br> -->
-  <a href="https://drive.google.com/file/d/1drMRqG3hcB2uCo5HYwD_N0SBQl9HvyG-/view?usp=sharing" target="_blank">[PDF]</a>
+  <a href="assets/pdf/TCE_Siyou_Guo.pdf" target="_blank">[PDF]</a>
 </div>
 </div>
 
@@ -77,7 +77,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   IEEE *Transactions on Computational Social Systems*. IF=4.9, JCR Q1
   
   <!-- <br> -->
-  <!-- <a href="https://drive.google.com/file/d/1yVNupTJw0b791QuFKCH0ASOULOIxMvjH/view?usp=sharing" target="_blank">[PDF]</a> -->
+  <!-- <a href="assets/pdf/TCSS_Siyou_Guo.pdf" target="_blank">[PDF]</a> -->
 </div>
 </div>
 
@@ -100,7 +100,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   *Image and Vision Computing* 160: 105582 (2025). IF=4.2, JCR Q1
   
   <!-- <br> -->
-  <a href="https://drive.google.com/file/d/1yVNupTJw0b791QuFKCH0ASOULOIxMvjH/view?usp=sharing" target="_blank">[PDF]</a>
+  <a href="assets/pdf/IMAVIS_Siyou_Guo.pdf" target="_blank">[PDF]</a>
 </div>
 </div>
 
@@ -128,7 +128,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   IEEE *Consumer Electronics Magazine*, 14(3): 80-86 (2025). IF=4.1, JCR Q1
 
   <!-- <br> -->
-  <a href="https://drive.google.com/file/d/1nnzK0JQd1VKTw8Kk5CSfXrRUGHbE2iH8/view?usp=drive_link" target="_blank">[PDF]</a>
+  <a href="assets/pdf/CEM_Face_Forgery_Siyou_Guo.pdf" target="_blank">[PDF]</a>
 </div>
 </div> 
 
@@ -159,7 +159,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   <!-- DOI: 10.1109/MCE.2024.3493776 -->
   <!-- <br> -->
-  <a href="https://drive.google.com/file/d/1js52a-nIQVgn34uBZdPPRsgJnSlkBZGL/view?usp=sharing" target="_blank">[PDF]</a>
+  <a href="assets/pdf/CEM_Fake_News_Siyou_Guo.pdf" target="_blank">[PDF]</a>
 </div>
 </div>
 
@@ -180,7 +180,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   *Proceedings of International Joint Conference on Neural Networks (IJCNN)*, 2024
 
   <!-- DOI: 10.1109/IJCNN60899.2024.10650463 -->
-  <a href="https://drive.google.com/file/d/1ydqZHW2FmOr6uiEWd5zFEcFFPjiDJOsU/view?usp=sharing" target="_blank">[PDF]</a>
+  <a href="assets/pdf/IJCNN_Siyou_Guo.pdf" target="_blank">[PDF]</a>
 
    
 
@@ -193,7 +193,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   *Image and Vision Computing* 162: 105663 (2025). IF=4.2, JCR Q1
 
-  <a href="https://drive.google.com/file/d/1yoGUvj7Ohf4hb9zT3on8JxuGv_STpvQ4/view?usp=sharing" target="_blank">[PDF]</a>
+  <a href="assets/pdf/IMAVIS_Feature_Refinement.pdf" target="_blank">[PDF]</a>
 
   <!-- DOI: 10.1016/j.imavis.2025.105663 -->
 
@@ -211,7 +211,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   IEEE *Transactions on Computational Social Systems*, 12(6): 5342-5349 (2025). IF=4.9, JCR Q1
 
-  <a href="https://drive.google.com/file/d/1Was5Y0QmnLWLEDxEPVLc7ykWc4yEWtlK/view?usp=sharing" target="_blank">[PDF]</a>
+  <a href="assets/pdf/TCSS_Context_Aware.pdf" target="_blank">[PDF]</a>
 
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCE</span> [Detecting Sequential Deepfake Manipulation via Spectral Transformer With Pyramid Attention in Consumer IoT](https://ieeexplore.ieee.org/document/10556749)
@@ -221,7 +221,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   IEEE *Transactions on Consumer Electronics*, 71(2): 6371-6380 (2025). IF=10.9, JCR Q1
 
   <!-- DOI: 10.1109/TCE.2024.3414319 -->
-  <a href="https://drive.google.com/file/d/1qRv8oVBr0n_XZs41wd8qUwdbwbF7JwSf/view?usp=sharing" target="_blank">[PDF]</a>
+  <a href="assets/pdf/TCE_Detecting_Sequential.pdf" target="_blank">[PDF]</a>
 
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> [Space-Frequency and Global-Local Attentive Networks for Sequential Deepfake Detection](https://ieeexplore.ieee.org/document/10904029) 
@@ -231,7 +231,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   IEEE *Transactions on Computational Social Systems*, 12(5): 2940-2948 (2025). IF=4.9, JCR Q1
 
-  <a href="https://drive.google.com/file/d/1mB-xF8yhcSVt61hXHl4LThPl1pv7yuTg/view?usp=sharing" target="_blank">[PDF]</a>
+  <a href="assets/pdf/TCSS_Space_Frequency.pdf" target="_blank">[PDF]</a>
 
   <!-- DOI: 10.1109/TCSS.2025.3541346 -->
   
