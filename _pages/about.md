@@ -77,7 +77,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   IEEE *Transactions on Computational Social Systems*. IF=4.9, JCR Q1
   
   <!-- <br> -->
-  <!-- <a href="assets/pdf/TCSS_Siyou_Guo.pdf" target="_blank">[PDF]</a> -->
+  <a href="assets/pdf/TCSS_Siyou_Guo.pdf" target="_blank">[PDF]</a>
 </div>
 </div>
 
