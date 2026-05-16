@@ -172,6 +172,12 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
   
 
+<button id="toggle-publications" class="btn btn--primary collapse-btn">
+  Show More Publications ▼
+</button>
+
+<div id="collapsible-publications" style="display:none;" markdown="1">
+
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IJCNN</span> <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.6; padding: 0.1em 0.7em; margin: 0 0.2em; font-family: sans-serif; font-weight: 500; letter-spacing: 0.5px; color: #065f46; border-radius: 999px; background-color: #d1fae5;">Conference</span> [Deepfake Detection via a Progressive Attention Network](https://ieeexplore.ieee.org/document/10650463) **<font color=red>(CCF C)</font>**
 
   **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Gwanggil Jeon, David Camacho  
@@ -236,6 +242,8 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   <!-- DOI: 10.1109/TCSS.2025.3541346 -->
   
   
+</div>
+
 # 🎖 Honors and Awards
 - Graduate Student Academic Scholarship
 *2023.10* Third Class | *2024.10* Second Class | *2025.10* First Class

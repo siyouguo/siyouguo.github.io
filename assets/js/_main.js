@@ -57,6 +57,14 @@ $(document).ready(function(){
     $(".author__urls-wrapper button").toggleClass("open");
   });
 
+  // Toggle collapsible publications
+  $("#toggle-publications").on("click", function () {
+    $("#collapsible-publications").slideToggle(400, function () {
+      var isVisible = $("#collapsible-publications").is(":visible");
+      $("#toggle-publications").text(isVisible ? "Show Less ▲" : "Show More Publications ▼");
+    });
+  });
+
   // init smooth scroll
   $("a").smoothScroll({offset: -20});
 
