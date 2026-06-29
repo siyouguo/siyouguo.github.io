@@ -41,7 +41,7 @@ To date, I have completed more than 10 journal and conference papers, including 
 <div>
 <div class="badge">IEEE TCE
 </div>
-<img src='images/Siyou-TCE.png' alt="Paper thumbnail" width="100%">
+<img src='images/Siyou-TCE.png' alt="sym" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -63,7 +63,7 @@ To date, I have completed more than 10 journal and conference papers, including 
 <div>
 <div class="badge">IEEE TCSS
 </div>
-<img src='images/Siyou-TCSS-1.jpg' alt="Paper thumbnail" width="100%">
+<img src='images/Siyou-TCSS-1.jpg' alt="sym" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -86,7 +86,7 @@ To date, I have completed more than 10 journal and conference papers, including 
 <div>
 <div class="badge">IMAVIS
 </div>
-<img src='images/Siyou-IVC.png' alt="Paper thumbnail" width="100%">
+<img src='images/Siyou-IVC.png' alt="sym" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -115,7 +115,7 @@ To date, I have completed more than 10 journal and conference papers, including 
 <div>
 <div class="badge">IEEE CEM
 </div>
-<img src='images/Siyou-CEM1.png' alt="Paper thumbnail" width="100%">
+<img src='images/Siyou-CEM1.png' alt="sym" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -140,7 +140,7 @@ To date, I have completed more than 10 journal and conference papers, including 
 <div>
 <div class="badge">IEEE CEM
 </div>
-<img src='images/Siyou-CEM2.png' alt="Paper thumbnail" width="100%">
+<img src='images/Siyou-CEM2.png' alt="sym" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
