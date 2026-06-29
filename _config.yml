@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Siyou Guo (郭思友)"
   avatar           : "images/Siyou-Guo2.jpg"
-  bio              : "Hunan University"
+  bio              : "<a href='https://www.hnu.edu.cn/'>Hunan University</a>"
   location         : "Changsha, China"
   employer         :
   pubmed           : 
