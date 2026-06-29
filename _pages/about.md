@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a final-year M.S. student at the [School of Electrical and Electronic Engineering](https://dz.sdut.edu.cn/), [Shandong University of Technology (SDUT)](https://www.sdut.edu.cn/). Advised by [Prof. Mingliang Gao (高明亮)](https://scholar.google.com/citations?user=IFEIrUgAAAAJ&hl=en), my research is centered on the critical challenges of misinformation and malicious content detection. 
+I am a Ph.D. student at the [College of Cyber Science and Technology (网络空间安全学院)](http://cst.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/), located in Changsha, China. Previously, I received my M.S. degree from [Shandong University of Technology (SDUT)](https://www.sdut.edu.cn/) in 2026, where I was advised by [Prof. Mingliang Gao (高明亮)](https://scholar.google.com/citations?user=IFEIrUgAAAAJ&hl=en). My research is centered on the critical challenges of misinformation and malicious content detection. 
 
 Specifically, I am passionate about developing robust techniques for **deepfake and fake news detection**, with a particular focus on the new complexities and threats emerging in the era of Large Language Models (LLMs).
 <!-- My goal is to contribute to a more secure and trustworthy information ecosystem. -->
@@ -268,6 +268,10 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 - *2016.09 - 2019.06*, Fanxian No.1 High School, Puyang, China.  -->
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
+  <tr style="border: none;">
+    <td style="text-align: left; border: none; padding: 8px 0;"><em>2026.09 - Now</em></td>
+    <td style="text-align: left; border: none; padding: 8px 0;">Ph.D. in Electronic Information, Hunan University, Changsha, China.</td>
+  </tr>
   <tr style="border: none;">
     <td style="text-align: left; border: none; padding: 8px 0;"><em>2023.06 - 2026.06</em></td>
     <td style="text-align: left; border: none; padding: 8px 0;">M.S. in Control Engineering, SDUT, Zibo, China.</td>
