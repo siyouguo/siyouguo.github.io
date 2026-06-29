@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Siyou Guo (郭思友)"
-description              : "Master degree candidate"
+description              : "Ph.D. candidate"
 repository               : "siyouguo/siyouguo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Siyou Guo (郭思友)"
   avatar           : "images/Siyou-Guo2.jpg"
-  bio              : "Shandong University of Technology"
-  location         : "Shandong, China"
+  bio              : "Hunan University"
+  location         : "Changsha, China"
   employer         :
   pubmed           : 
   # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
