@@ -20,8 +20,7 @@ I am a Ph.D. student at the [College of Cyber Science and Technology (网络空�
 
 Specifically, I am passionate about developing robust techniques for **deepfake and fake news detection**, with a particular focus on the new complexities and threats emerging in the era of Large Language Models (LLMs).
 <!-- My goal is to contribute to a more secure and trustworthy information ecosystem. -->
-To date, I have completed more than 10 journal and conference papers, including **6 papers published as the first author** (5 SCI papers and 1 CCF-C conference paper). 
-Previously, I received my B.Eng degree from SDUT in 2023.
+To date, I have completed more than 10 journal and conference papers, including **6 papers published as the first author** (5 SCI papers and 1 CCF-C conference paper).
 
 <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>  
  
@@ -42,7 +41,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 <div>
 <div class="badge">IEEE TCE
 </div>
-<img src='images/Siyou-TCE.png' alt="sym" width="100%">
+<img src='images/Siyou-TCE.png' alt="Paper thumbnail" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -64,7 +63,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 <div>
 <div class="badge">IEEE TCSS
 </div>
-<img src='images/Siyou-TCSS-1.jpg' alt="sym" width="100%">
+<img src='images/Siyou-TCSS-1.jpg' alt="Paper thumbnail" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -87,7 +86,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 <div>
 <div class="badge">IMAVIS
 </div>
-<img src='images/Siyou-IVC.png' alt="sym" width="100%">
+<img src='images/Siyou-IVC.png' alt="Paper thumbnail" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -104,12 +103,6 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 </div>
 </div>
 
-<!-- - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IMAVIS</span> [Generalizable deepfake detection via Spatial Kernel Selection and Halo Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001702) **<font color=red>(CCF C)</font>**
-
-  *Image and Vision Computing* 160: 105582 (2025)
-  
-  **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida -->
-
 
 <button id="toggle-publications" class="btn btn--primary collapse-btn">
   Show More Publications ▼
@@ -122,7 +115,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 <div>
 <div class="badge">IEEE CEM
 </div>
-<img src='images/Siyou-CEM1.png' alt="sym" width="100%">
+<img src='images/Siyou-CEM1.png' alt="Paper thumbnail" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -138,11 +131,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 </div>
 </div> 
 
-<!-- - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">CEM</span> [Deep learning-based face forgery detection for facial payment systems](https://ieeexplore.ieee.org/document/10613498)
-  
-  *IEEE Consumer Electronics Magazine* 14(3): 80-86 (2025)
 
-  **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Jinfeng Pan, Gwanggil Jeon -->
 
 
 
@@ -151,7 +140,7 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 <div>
 <div class="badge">IEEE CEM
 </div>
-<img src='images/Siyou-CEM2.png' alt="sym" width="100%">
+<img src='images/Siyou-CEM2.png' alt="Paper thumbnail" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -168,12 +157,6 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   <a href="assets/pdf/CEM_Fake_News_Siyou_Guo.pdf" target="_blank">[PDF]</a>
 </div>
 </div>
-
-<!-- - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">CEM</span> [Smart City Security: Fake News Detection in Consumer Electronics](https://ieeexplore.ieee.org/document/10746610)
-
-  *IEEE Consumer Electronics Magazine* 
-  
-  **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon -->
 
 
   
@@ -206,11 +189,6 @@ Previously, I received my B.Eng degree from SDUT in 2023.
   <!-- DOI: 10.1016/j.imavis.2025.105663 -->
 
 
-<!-- - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IJIMAI</span> Demosaicking Algorithm Using Deep Residual Convolutional Network
-
-  Jin Wang, **<font size=3>Siyou Guo</font>**, Qilei Li, David Camacho, Gwanggil Jeon
-
-  *International Journal of Interactive Multimedia and Artificial Intelligence*, In Press -->
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> [Context-Aware Deepfake Detection for Securing AI-Driven Financial Transactions](https://ieeexplore.ieee.org/document/11073561) 
 <!-- - **<font color=red>(CCF C)</font>** -->
@@ -263,9 +241,6 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 
 
 # 📖 Educations
-<!-- - *2023.06 - Now*, M.S. in Control Engineering, SDUT, Zibo, China. 
-- *2019.09 - 2023.06*, B.Eng. in Automation, SDUT, Zibo, China. 
-- *2016.09 - 2019.06*, Fanxian No.1 High School, Puyang, China.  -->
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
@@ -287,13 +262,9 @@ Previously, I received my B.Eng degree from SDUT in 2023.
 </table>
 
 
-<!-- - <em>2023.06 - Now</em> &nbsp;&nbsp; M.S. in Control Engineering, SDUT, Zibo, China.
-- <em>2019.09 - 2023.06</em> &nbsp;&nbsp; B.Eng. in Automation, SDUT, Zibo, China.
-- <em>2016.09 - 2019.06</em> &nbsp;&nbsp; Fanxian No.1 High School, Puyang, China. -->
-
 
 # 🛠 Professional Skills
-- **Grant Writing**: Experienced with [NSFC](https://www.nsfc.gov.cn/), [provincial](https://cloud.kjt.shandong.gov.cn/), and overseas grant proposals.
+- **Grant Writing**: Experienced with [NSFC](https://www.nsfc.gov.cn/), provincial, and overseas grant proposals.
 - **Mentorship**: Skilled in guiding graduate students' research and thesis writing.
 - **System Admin**: Proficient with [Linux](https://www.runoob.com/linux/linux-tutorial.html), server setup, and maintenance.
 - **Web Admin**: Capable of building and maintaining [group websites](https://brighten.group/).
