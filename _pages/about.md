@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a Ph.D. student at the [College of Cyber Science and Technology (网络空间安全学院)](http://cst.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/), located in Changsha, China. Previously, I received my M.S. degree from [Shandong University of Technology (SDUT)](https://www.sdut.edu.cn/) in 2026, where I was advised by [Prof. Mingliang Gao (高明亮)](https://scholar.google.com/citations?user=IFEIrUgAAAAJ&hl=en). My research is centered on the critical challenges of misinformation and malicious content detection. 
+I am a Ph.D. student at the [College of Cyber Science and Technology](http://cst.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/), located in Changsha, China. Previously, I received my M.S. degree from [Shandong University of Technology (SDUT)](https://www.sdut.edu.cn/) in 2026, where I was advised by [Prof. Mingliang Gao](https://scholar.google.com/citations?user=IFEIrUgAAAAJ&hl=en). My research is centered on the critical challenges of misinformation and malicious content detection. 
 
-Specifically, I am passionate about developing robust techniques for **deepfake and fake news detection**, with a particular focus on the new complexities and threats emerging in the era of Large Language Models (LLMs).
+Specifically, I am passionate about developing robust techniques for **deepfake detection**, with a particular focus on the new complexities and threats emerging in the era of Large Language Models (LLMs).
 <!-- My goal is to contribute to a more secure and trustworthy information ecosystem. -->
 To date, I have completed more than 10 journal and conference papers, including **6 papers published as the first author** (5 SCI papers and 1 CCF-C conference paper).
 
