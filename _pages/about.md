@@ -26,6 +26,7 @@ To date, I have completed more than 10 journal and conference papers, including 
  
 <!-- My resume in Chinese is [here](assets/pdf/CV_Siyou_Guo_ZH.pdf). -->
 
+<span class='anchor' id='-news'></span>
 ### 🔥 News
 - *2025.12*: &nbsp;🎉🎉 On the last day of 2025, a paper was accepted by IEEE *Transactions on Computational Social Systems*.
 - *2025.09*: &nbsp;🎉🎉 Thrilled to share that our paper will appear in IEEE *Transactions on Consumer Electronics*.
@@ -33,6 +34,7 @@ To date, I have completed more than 10 journal and conference papers, including 
 - *2024.03*: &nbsp;🎉🎉 A great start to my research journey! My debut paper has been accepted to IJCNN 2024.
 
 
+<span class='anchor' id='-publications'></span>
 # 📝 Publications 
 
 
