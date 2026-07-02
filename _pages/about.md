@@ -28,11 +28,11 @@ To date, I have completed more than 10 journal and conference papers, including 
 
 <span class='anchor' id='-news'></span>
 ## News
-<span style="color: #375b97; font-size: 5em; font-weight: bold;">>></span> *2026.07*: &nbsp;🎉🎉 Google Scholar citations reached 100!<br>
-<span style="color: #375b97; font-size: 4em; font-weight: bold;">>></span> *2025.12*: &nbsp;🎉🎉 On the last day of 2025, a paper was accepted by IEEE *Transactions on Computational Social Systems*.<br>
-<span style="color: #375b97; font-size: 3em; font-weight: bold;">>></span> *2025.09*: &nbsp;🎉🎉 Thrilled to share that our paper will appear in IEEE *Transactions on Consumer Electronics*.<br>
+<span style="color: #375b97; font-size: 2em; font-weight: bold;">>></span> *2026.07*: &nbsp;🎉🎉 Google Scholar citations reached 100!<br>
+<span style="color: #375b97; font-size: 2em; font-weight: bold;">>></span> *2025.12*: &nbsp;🎉🎉 On the last day of 2025, a paper was accepted by IEEE *Transactions on Computational Social Systems*.<br>
+<span style="color: #375b97; font-size: 2em; font-weight: bold;">>></span> *2025.09*: &nbsp;🎉🎉 Thrilled to share that our paper will appear in IEEE *Transactions on Consumer Electronics*.<br>
 <span style="color: #375b97; font-size: 2em; font-weight: bold;">>></span> *2025.05*: &nbsp;🎉🎉 One paper accepted to *Image and Vision Computing*.<br>
-<span style="color: #375b97; font-size: 1.2em; font-weight: bold;">>></span> *2024.03*: &nbsp;🎉🎉 A great start to my research journey! My debut paper has been accepted to IJCNN 2024.
+<span style="color: #375b97; font-size: 2em; font-weight: bold;">>></span> *2024.03*: &nbsp;🎉🎉 A great start to my research journey! My debut paper has been accepted to IJCNN 2024.
 
 
 <span class='anchor' id='-publications'></span>
