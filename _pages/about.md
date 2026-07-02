@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Siyou Guo | About Me"
-excerpt: "Ph.D. student at Hunan University, focusing on deepfake and fake news detection."
+excerpt: "Ph.D. student at Hunan University, focusing on deepfake detection."
 author_profile: true
 redirect_from:
   - /about/
