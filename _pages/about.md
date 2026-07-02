@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a Ph.D. student at the [College of Cyber Science and Technology](http://cst.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/). Previously, I received my M.S. degree from [Shandong University of Technology (SDUT)](https://www.sdut.edu.cn/) in 2026, where I was advised by [Prof. Mingliang Gao](https://scholar.google.com/citations?user=IFEIrUgAAAAJ&hl=en). My research focuses on computer vision and deepfake video detection.
+I am a Ph.D. student at the [College of Cyber Science and Technology](http://cst.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/), advised by [Prof. Xin Liao](https://grzy.hnu.edu.cn/site/index/liaoxin). I received my M.S. degree from [Shandong University of Technology (SDUT)](https://www.sdut.edu.cn/) in 2026, advised by [Prof. Mingliang Gao](https://scholar.google.com/citations?user=IFEIrUgAAAAJ&hl=en), and my B.Eng. in Automation from SDUT in 2023. My research focuses on computer vision and deepfake video detection.
 To date, I have completed more than 10 journal and conference papers, including 6 papers published as the first author.
 
 <a href='https://scholar.google.com/citations?user=ZKXXk4IAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>  
@@ -215,28 +215,6 @@ To date, I have completed more than 10 journal and conference papers, including 
   <a href="assets/pdf/TCSS_Space_Frequency.pdf" target="_blank">[PDF]</a>
 
 -->
-# 📖 Educations
-
-<table style="border-collapse: collapse; width: 100%; border: none;">
-  <tr style="border: none;">
-    <td style="text-align: left; border: none; padding: 8px 0;"><em>2026.09 - Now</em></td>
-    <td style="text-align: left; border: none; padding: 8px 0;">Ph.D. in Electronic Information, Hunan University, Changsha, China.</td>
-  </tr>
-  <tr style="border: none;">
-    <td style="text-align: left; border: none; padding: 8px 0;"><em>2023.06 - 2026.06</em></td>
-    <td style="text-align: left; border: none; padding: 8px 0;">M.S. in Control Engineering, SDUT, Zibo, China.</td>
-  </tr>
-  <tr style="border: none;">
-    <td style="text-align: left; border: none; padding: 8px 0;"><em>2019.09 - 2023.06</em></td>
-    <td style="text-align: left; border: none; padding: 8px 0;">B.Eng. in Automation, SDUT, Zibo, China.</td>
-  </tr>
-  <tr style="border: none;">
-    <td style="text-align: left; border: none; padding: 8px 0;"><em>2016.09 - 2019.06</em></td>
-    <td style="text-align: left; border: none; padding: 8px 0;"><a href="http://www.fanxianyizhong.cn/">Fanxian No.1 High School</a>, Puyang, China.</td>
-  </tr>
-</table>
-
-
 
 <!-- Web page click count -->
  <p align="center">
