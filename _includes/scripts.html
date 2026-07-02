@@ -1,16 +1,5 @@
 <script src="assets/js/plugins/jquery.smooth-scroll.min.js"></script>
 <script src="assets/js/main.min.js"></script>
 
-<script>
-  $(document).ready(function () {
-    $("#toggle-publications").on("click", function () {
-      $("#collapsible-publications").slideToggle(400, function () {
-        var isVisible = $("#collapsible-publications").is(":visible");
-        $("#toggle-publications").text(isVisible ? "Show Less ▲" : "Show More Publications ▼");
-      });
-    });
-  });
-</script>
-
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}

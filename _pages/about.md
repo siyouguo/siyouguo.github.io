@@ -103,13 +103,6 @@ To date, I have completed more than 10 journal and conference papers, including 
 </div>
 </div>
 
-
-<button id="toggle-publications" class="btn btn--primary collapse-btn">
-  Show More Publications ▼
-</button>
-
-<div id="collapsible-publications" style="display:none;" markdown="1">
-
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
@@ -220,9 +213,6 @@ To date, I have completed more than 10 journal and conference papers, including 
   <a href="assets/pdf/TCSS_Space_Frequency.pdf" target="_blank">[PDF]</a>
 
   <!-- DOI: 10.1109/TCSS.2025.3541346 -->
-  
-  
-</div>
 
 # 🎖 Honors and Awards
 - Graduate Student Academic Scholarship

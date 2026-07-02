@@ -108,19 +108,3 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-.collapse-btn {
-    display: block;
-    width: 100%;
-    margin: 1.5em 0 1em 0;
-    padding: 0.6em 1.2em;
-    font-size: 0.95em;
-    background-color: #f0f4f8;
-    color: #375b97 !important;
-    border: 1px solid #d0d7de !important;
-    border-radius: 6px;
-    transition: background-color 0.2s ease;
-
-    &:hover {
-        background-color: #dbeafe;
-    }
-}
