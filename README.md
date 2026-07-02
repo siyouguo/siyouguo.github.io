@@ -1,4 +1,4 @@
-# Siyou Guo's Personal Website
+# Personal Website
 
 这是一个基于Jekyll构建的个人学术网站，托管在GitHub Pages上。
 
