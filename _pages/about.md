@@ -153,15 +153,25 @@ To date, I have completed more than 10 journal and conference papers, including 
 
 
 
-- <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IJCNN</span> <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.6; padding: 0.1em 0.7em; margin: 0 0.2em; font-family: sans-serif; font-weight: 500; letter-spacing: 0.5px; color: #065f46; border-radius: 999px; background-color: #d1fae5;">Conference</span> [Deepfake Detection via a Progressive Attention Network](https://ieeexplore.ieee.org/document/10650463) **<font color=red>(CCF C)</font>**
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">IJCNN
+</div>
+<img src='images/Siyou-IJCNN.png' alt="sym">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[Deepfake Detection via a Progressive Attention Network](https://ieeexplore.ieee.org/document/10650463) **<font color=red>(CCF C)</font>**
 
   **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Gwanggil Jeon, David Camacho  
 
-
   *Proceedings of International Joint Conference on Neural Networks (IJCNN)*, 2024
 
-  <!-- DOI: 10.1109/IJCNN60899.2024.10650463 -->
   <a href="assets/pdf/IJCNN_Siyou_Guo.pdf" target="_blank">[PDF]</a>
+</div>
+</div>
 
    
 
