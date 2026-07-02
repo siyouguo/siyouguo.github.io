@@ -167,8 +167,8 @@ To date, I have completed more than 10 journal and conference papers, including 
 
 
 
+<!--
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">IMAVIS</span> [Deepfake Detection via Feature Refinement and Enhancement Network](https://www.sciencedirect.com/science/article/abs/pii/S0262885625002513) 
-<!-- - **<font color=red>(CCF C)</font>** -->
 
   Weicheng Song, **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Xianxun Zhu, Imad Rida
 
@@ -176,12 +176,9 @@ To date, I have completed more than 10 journal and conference papers, including 
 
   <a href="assets/pdf/IMAVIS_Feature_Refinement.pdf" target="_blank">[PDF]</a>
 
-  <!-- DOI: 10.1016/j.imavis.2025.105663 -->
-
 
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> [Context-Aware Deepfake Detection for Securing AI-Driven Financial Transactions](https://ieeexplore.ieee.org/document/11073561) 
-<!-- - **<font color=red>(CCF C)</font>** -->
 
   Changcun Liu, Guisheng Zhang, **<font size=3>Siyou Guo</font>**, Qilei Li, Gwanggil Jeon, Mingliang Gao. 
 
@@ -196,12 +193,10 @@ To date, I have completed more than 10 journal and conference papers, including 
 
   IEEE *Transactions on Consumer Electronics*, 71(2): 6371-6380 (2025). IF=10.9, JCR Q1
 
-  <!-- DOI: 10.1109/TCE.2024.3414319 -->
   <a href="assets/pdf/TCE_Detecting_Sequential.pdf" target="_blank">[PDF]</a>
 
 
 - <span style="display: inline-block; vertical-align: middle; font-size: 0.8em; line-height: 1.4; padding: 0.2em 0.6em; margin: 0 0.2em; font-family: sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #375b97; background-color: #dbeafe; border-radius: 4px;">TCSS</span> [Space-Frequency and Global-Local Attentive Networks for Sequential Deepfake Detection](https://ieeexplore.ieee.org/document/10904029) 
-<!-- - **<font color=red>(CCF C)</font>**  -->
 
   Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=3>Siyou Guo</font>**, Gwanggil Jeon, Ahmed M. Abdelmoniem
 
@@ -209,8 +204,7 @@ To date, I have completed more than 10 journal and conference papers, including 
 
   <a href="assets/pdf/TCSS_Space_Frequency.pdf" target="_blank">[PDF]</a>
 
-  <!-- DOI: 10.1109/TCSS.2025.3541346 -->
-
+-->
 # 📖 Educations
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
