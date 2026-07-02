@@ -32,9 +32,7 @@ To date, I have completed more than 10 journal and conference papers, including 
 - *2025.05*: &nbsp;🎉🎉 One paper accepted to *Image and Vision Computing*.
 - *2025.03*: &nbsp;🏆 Graduate Student [Zhiyang](https://www.zhiyang.com.cn/) Scholarship.
 - *2024–2025*: &nbsp;🏆 Outstanding Graduate Student.
-- *2024.10*: &nbsp;🏆 Graduate Student Academic Scholarship (Second Class).
 - *2024.03*: &nbsp;🎉🎉 A great start to my research journey! My debut paper has been accepted to IJCNN 2024.
-- *2023.10*: &nbsp;🏆 Graduate Student Academic Scholarship (Third Class).
 
 
 # 📝 Publications 
