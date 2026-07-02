@@ -19,6 +19,8 @@ redirect_from:
 
 ## About Me
 
+<div style="line-height: 1.8;">
+
 I am a Ph.D. student at the [College of Cyber Science and Technology](http://cst.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/), advised by [Prof. Xin Liao](https://grzy.hnu.edu.cn/site/index/liaoxin). I received my M.S. degree from [Shandong University of Technology (SDUT)](https://www.sdut.edu.cn/) in 2026, advised by [Prof. Mingliang Gao](https://scholar.google.com/citations?user=IFEIrUgAAAAJ&hl=en), and my B.Eng. in Automation from SDUT in 2023. My research focuses on computer vision and deepfake video detection.
 To date, I have completed more than 10 journal and conference papers, including 6 papers published as the first author.
 
@@ -26,14 +28,17 @@ To date, I have completed more than 10 journal and conference papers, including 
  
 <!-- My resume in Chinese is [here](assets/pdf/CV_Siyou_Guo_ZH.pdf). -->
 
+</div>
+
 <span class='anchor' id='-news'></span>
 ## News
+<div style="line-height: 1.8;">
 <span style="color: #375b97;">▹</span>  *2026.07*: &nbsp;🎉🎉 Google Scholar citations reached 100!<br>
 <span style="color: #375b97;">▹</span>  *2025.12*: &nbsp;🎉🎉 On the last day of 2025, a paper was accepted by IEEE *Transactions on Computational Social Systems*.<br>
 <span style="color: #375b97;">▹</span>  *2025.09*: &nbsp;🎉🎉 Thrilled to share that our paper will appear in IEEE *Transactions on Consumer Electronics*.<br>
 <span style="color: #375b97;">▹</span>  *2025.05*: &nbsp;🎉🎉 One paper accepted to *Image and Vision Computing*.<br>
 <span style="color: #375b97;">▹</span>  *2024.03*: &nbsp;🎉🎉 A great start to my research journey! My debut paper has been accepted to IJCNN 2024.
-
+</div>
 
 <span class='anchor' id='-publications'></span>
 ## Publications 
