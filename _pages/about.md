@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<!-- ## About Me -->
+## About Me
 
 I am a Ph.D. student at the [College of Cyber Science and Technology](http://cst.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/), advised by [Prof. Xin Liao](https://grzy.hnu.edu.cn/site/index/liaoxin). I received my M.S. degree from [Shandong University of Technology (SDUT)](https://www.sdut.edu.cn/) in 2026, advised by [Prof. Mingliang Gao](https://scholar.google.com/citations?user=IFEIrUgAAAAJ&hl=en), and my B.Eng. in Automation from SDUT in 2023. My research focuses on computer vision and deepfake video detection.
 To date, I have completed more than 10 journal and conference papers, including 6 papers published as the first author.
@@ -223,7 +223,7 @@ To date, I have completed more than 10 journal and conference papers, including 
 -->
 
 <!-- Web page click count -->
- <p align="center">
+ <p align="center" style="margin-top: 2em;">
   <a href="https://mapmyvisitors.com/web/1byij"  title="Visit tracker">
     <img src="https://mapmyvisitors.com/map.png?d=3jXnIbzPiVi2cKTkkTzb8VgedbRgYKa5dV7t_hn0dew&cl=ffffff" />
   </a>
