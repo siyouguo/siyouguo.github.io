@@ -25,10 +25,16 @@ To date, I have completed more than 10 journal and conference papers, including 
 <!-- My resume in Chinese is [here](assets/pdf/CV_Siyou_Guo_ZH.pdf). -->
 
 # 🔥 News
+- *2025–2026*: &nbsp;🏆 Outstanding Graduate Student.
 - *2025.12*: &nbsp;🎉🎉 On the last day of 2025, a paper was accepted by IEEE *Transactions on Computational Social Systems*.
+- *2025.10*: &nbsp;🏆 Graduate Student Academic Scholarship (First Class).
 - *2025.09*: &nbsp;🎉🎉 Thrilled to share that our paper will appear in IEEE *Transactions on Consumer Electronics*.
 - *2025.05*: &nbsp;🎉🎉 One paper accepted to *Image and Vision Computing*.
+- *2025.03*: &nbsp;🏆 Graduate Student [Zhiyang](https://www.zhiyang.com.cn/) Scholarship.
+- *2024–2025*: &nbsp;🏆 Outstanding Graduate Student.
+- *2024.10*: &nbsp;🏆 Graduate Student Academic Scholarship (Second Class).
 - *2024.03*: &nbsp;🎉🎉 A great start to my research journey! My debut paper has been accepted to IJCNN 2024.
+- *2023.10*: &nbsp;🏆 Graduate Student Academic Scholarship (Third Class).
 
 
 # 📝 Publications 
@@ -211,22 +217,6 @@ To date, I have completed more than 10 journal and conference papers, including 
   <a href="assets/pdf/TCSS_Space_Frequency.pdf" target="_blank">[PDF]</a>
 
   <!-- DOI: 10.1109/TCSS.2025.3541346 -->
-
-# 🎖 Honors and Awards
-- Graduate Student Academic Scholarship
-*2023.10* Third Class | *2024.10* Second Class | *2025.10* First Class
-- *2025.03*, Graduate Student [Zhiyang](https://www.zhiyang.com.cn/) Scholarship.
-- *2022.06*, College English Test Band 6 (CET-6) Certificate
-- *2024–2025*, Outstanding Graduate Student
-- *2025–2026*, Outstanding Graduate Student
-<!-- - *2024.08*, "[CSEE Cup 2024](https://www.csee.org.cn/)" National University Students Electrical Math Modeling Competition, Third Prize. -->
-
-<!-- - *2024.06*, [May 1st Mathematical Contest in Modeling](https://51mcm.cumt.edu.cn/), Second Prize. -->
-<!-- - *2024.08*, The 5th "Huashu Cup" National College Student Mathematical Modeling Competition, Second Prize. -->
-<!-- - *2024.12*, The 5th MathorCup Mathematical Application Challenge – Big Data Competition, Second Prize. -->
-<!-- - *2025.03*, The 4th Higher Education Big Data Challenge, Third Prize. -->
-<!-- - *2025.07*, "[CSEE Cup 2025 ](https://www.csee.org.cn/)" National University Students Electrical Math Modeling Competition, Second Prize. -->
-
 
 # 📖 Educations
 
