@@ -251,17 +251,6 @@ To date, I have completed more than 10 journal and conference papers, including 
 
 
 
-# 🛠 Professional Skills
-- **Grant Writing**: Experienced with [NSFC](https://www.nsfc.gov.cn/), provincial, and overseas grant proposals.
-- **Mentorship**: Skilled in guiding graduate students' research and thesis writing.
-- **System Admin**: Proficient with [Linux](https://www.runoob.com/linux/linux-tutorial.html), server setup, and maintenance.
-- **Web Admin**: Capable of building and maintaining [group websites](https://brighten.group/).
-- **Programming**: Strong skills in Python and the PyTorch framework.
-- **Containerization**: Familiar with Docker and Apptainer.
-- **Development Tools**: Proficient with VS Code, Git, and [GitHub](https://github.com/siyouguo).
-- **Office Software**: Skilled in Microsoft Office Suite.
-
-
 <!-- Web page click count -->
  <p align="center">
   <a href="https://mapmyvisitors.com/web/1byij"  title="Visit tracker">
