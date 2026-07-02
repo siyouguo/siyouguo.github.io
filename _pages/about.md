@@ -23,6 +23,14 @@ To date, I have completed more than 10 journal and conference papers, including 
 
 <!-- My resume in Chinese is [here](assets/pdf/CV_Siyou_Guo_ZH.pdf). -->
 
+<span class='anchor' id='-news'></span>
+# 🔥 News
+{% include news.md %}
+
+<span class='anchor' id='-publications'></span>
+# 📝 Publications
+{% include publications.md %}
+
 <!-- Web page click count -->
 <p align="center">
   <a href="https://mapmyvisitors.com/web/1byij"  title="Visit tracker">
