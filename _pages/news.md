@@ -1,3 +1,10 @@
+---
+permalink: /news/
+title: "Siyou Guo | News"
+excerpt: "Latest news and updates."
+author_profile: true
+---
+
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 On the last day of 2025, a paper was accepted by IEEE *Transactions on Computational Social Systems*.
 - *2025.09*: &nbsp;🎉🎉 Thrilled to share that our paper will appear in IEEE *Transactions on Consumer Electronics*.

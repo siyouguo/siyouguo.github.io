@@ -1,3 +1,10 @@
+---
+permalink: /publications/
+title: "Siyou Guo | Publications"
+excerpt: "Research publications in deepfake detection and computer vision."
+author_profile: true
+---
+
 # 📝 Publications 
 
 
