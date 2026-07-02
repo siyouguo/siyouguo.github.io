@@ -33,11 +33,11 @@ To date, I have completed more than 10 journal and conference papers, including 
 <span class='anchor' id='-news'></span>
 ## News
 <div style="line-height: 1.8;" markdown="1">
-<span style="color: #375b97;">·</span>  *2026.07*: &nbsp;🎉🎉 Google Scholar citations reached 100!<br>
-<span style="color: #375b97;">·</span>  *2025.12*: &nbsp;🎉🎉 On the last day of 2025, a paper was accepted by IEEE *Transactions on Computational Social Systems*.<br>
-<span style="color: #375b97;">·</span>  *2025.09*: &nbsp;🎉🎉 Thrilled to share that our paper will appear in IEEE *Transactions on Consumer Electronics*.<br>
-<span style="color: #375b97;">·</span>  *2025.05*: &nbsp;🎉🎉 One paper accepted to *Image and Vision Computing*.<br>
-<span style="color: #375b97;">·</span>  *2024.03*: &nbsp;🎉🎉 A great start to my research journey! My debut paper has been accepted to IJCNN 2024.
+ *2026.07*: &nbsp;🎉🎉 Google Scholar citations reached 100!<br>
+ *2025.12*: &nbsp;🎉🎉 On the last day of 2025, a paper was accepted by IEEE *Transactions on Computational Social Systems*.<br>
+ *2025.09*: &nbsp;🎉🎉 Thrilled to share that our paper will appear in IEEE *Transactions on Consumer Electronics*.<br>
+ *2025.05*: &nbsp;🎉🎉 One paper accepted to *Image and Vision Computing*.<br>
+ *2024.03*: &nbsp;🎉🎉 A great start to my research journey! My debut paper has been accepted to IJCNN 2024.
 </div>
 
 <span class='anchor' id='-publications'></span>
