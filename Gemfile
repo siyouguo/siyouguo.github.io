@@ -21,7 +21,7 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
-  gem "jekyll-feed"
-  gem 'jekyll-sitemap'
-  gem 'hawkins'
+  # gem "jekyll-feed"      # already included in github-pages gem
+  # gem 'jekyll-sitemap'   # already included in github-pages gem
+  # gem 'hawkins'          # for local dev only, breaks GitHub Pages build
 end
