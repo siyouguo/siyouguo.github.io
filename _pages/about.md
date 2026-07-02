@@ -28,6 +28,7 @@ To date, I have completed more than 10 journal and conference papers, including 
 
 <span class='anchor' id='-news'></span>
 ## News
+- *2026.07*: &nbsp;🎉🎉 Google Scholar citations reached 100!
 - *2025.12*: &nbsp;🎉🎉 On the last day of 2025, a paper was accepted by IEEE *Transactions on Computational Social Systems*.
 - *2025.09*: &nbsp;🎉🎉 Thrilled to share that our paper will appear in IEEE *Transactions on Consumer Electronics*.
 - *2025.05*: &nbsp;🎉🎉 One paper accepted to *Image and Vision Computing*.
