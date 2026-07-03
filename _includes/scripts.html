@@ -1,5 +1,17 @@
 <script src="assets/js/plugins/jquery.smooth-scroll.min.js"></script>
 <script src="assets/js/main.min.js"></script>
 
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var host = window.location.host;
+    document.querySelectorAll('a[href^="http"]').forEach(function(link) {
+      if (link.host !== host) {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer');
+      }
+    });
+  });
+</script>
+
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
