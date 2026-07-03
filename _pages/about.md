@@ -33,11 +33,11 @@ To date, I have completed more than 10 journal and conference papers, including 
 <span class='anchor' id='-news'></span>
 ## News
 <div style="line-height: 1.8;" markdown="1">
-<span class="news-date">2026.07</span> &nbsp;🎉🎉 Google Scholar citations reached 100!<br>
-<span class="news-date">2025.12</span> &nbsp;🎉🎉 On the last day of 2025, a paper was accepted by IEEE *Transactions on Computational Social Systems*.<br>
-<span class="news-date">2025.09</span> &nbsp;🎉🎉 Thrilled to share that our paper will appear in IEEE *Transactions on Consumer Electronics*.<br>
-<span class="news-date">2025.05</span> &nbsp;🎉🎉 One paper accepted to *Image and Vision Computing*.<br>
-<span class="news-date">2024.03</span> &nbsp;🎉🎉 A great start to my research journey! My debut paper has been accepted to IJCNN 2024.
+ *2026.07*: &nbsp;🎉🎉 Google Scholar citations reached 100!<br>
+ *2025.12*: &nbsp;🎉🎉 On the last day of 2025, a paper was accepted by IEEE *Transactions on Computational Social Systems*.<br>
+ *2025.09*: &nbsp;🎉🎉 Thrilled to share that our paper will appear in IEEE *Transactions on Consumer Electronics*.<br>
+ *2025.05*: &nbsp;🎉🎉 One paper accepted to *Image and Vision Computing*.<br>
+ *2024.03*: &nbsp;🎉🎉 A great start to my research journey! My debut paper has been accepted to IJCNN 2024.
 </div>
 
 <span class='anchor' id='-publications'></span>
@@ -233,5 +233,3 @@ To date, I have completed more than 10 journal and conference papers, including 
     <img src="https://mapmyvisitors.com/map.png?d=3jXnIbzPiVi2cKTkkTzb8VgedbRgYKa5dV7t_hn0dew&cl=ffffff" />
   </a>
 </p>
-
-<button class="back-to-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" title="Back to top">▲</button>
