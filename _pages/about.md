@@ -71,7 +71,7 @@ To date, I have completed more than 10 journal and conference papers, including 
 <div>
 <div class="badge">IEEE TCSS
 </div>
-<img src='images/Siyou-TCSS-1.jpg' alt="sym">
+<img src='images/Siyou-TCSS.jpg' alt="sym">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
