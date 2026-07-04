@@ -28,6 +28,9 @@ jobs:
         git add *.json
         git commit -m "Updated Citation Data"
         git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env: 
+    - name: Purge jsDelivr Cache
+      run: |
+        curl -s "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@google-scholar-stats/gs_data_shieldsio.json"
+      env:
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
         SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }}
