@@ -16,6 +16,11 @@
   @include breakpoint($large) {
     @include span(2 of 12);
     opacity: 1;
+    background-color: #fff;
+    border: 1px solid $border-color;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    padding: 1.25em;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
 
