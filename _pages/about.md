@@ -56,7 +56,7 @@ I am a Ph.D. student at the [College of Cyber Science and Technology](http://cst
 
   **<font size=3>Siyou Guo</font>**, Mingliang Gao, Guisheng Zhang, Changcun Liu, Qilei Li
 
-  IEEE *Transactions on Consumer Electronics*, 71(4): 9832-9841 (2025). IF=10.9, JCR Q1
+  IEEE *Transactions on Consumer Electronics*, 71(4): 9832-9841 (2025).
 
   <!-- <br> -->
   <a href="assets/pdf/TCE_Siyou_Guo.pdf" target="_blank">[PDF]</a>
@@ -79,7 +79,7 @@ I am a Ph.D. student at the [College of Cyber Science and Technology](http://cst
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon  
 
-  IEEE *Transactions on Computational Social Systems*. IF=4.9, JCR Q1
+  IEEE *Transactions on Computational Social Systems*.
   
   <!-- <br> -->
   <a href="assets/pdf/TCSS_Siyou_Guo.pdf" target="_blank">[PDF]</a>
@@ -102,7 +102,7 @@ I am a Ph.D. student at the [College of Cyber Science and Technology](http://cst
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Xianxun Zhu, Imad Rida  
 
-  *Image and Vision Computing* 160: 105582 (2025). IF=4.2, JCR Q1
+  *Image and Vision Computing* 160: 105582 (2025).
   
   <!-- <br> -->
   <a href="assets/pdf/IMAVIS_Siyou_Guo.pdf" target="_blank">[PDF]</a>
@@ -123,7 +123,7 @@ I am a Ph.D. student at the [College of Cyber Science and Technology](http://cst
 
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Jinfeng Pan, Gwanggil Jeon  
 
-  IEEE *Consumer Electronics Magazine*, 14(3): 80-86 (2025). IF=4.1, JCR Q1
+  IEEE *Consumer Electronics Magazine*, 14(3): 80-86 (2025).
 
   <!-- <br> -->
   <a href="assets/pdf/CEM_Face_Forgery_Siyou_Guo.pdf" target="_blank">[PDF]</a>
@@ -149,7 +149,7 @@ I am a Ph.D. student at the [College of Cyber Science and Technology](http://cst
   **<font size=3>Siyou Guo</font>**, Qilei Li, Mingliang Gao, Guisheng Zhang, Gwanggil Jeon  
 
 
-  IEEE *Consumer Electronics Magazine*, 14(6): 57-63 (2025). IF=4.1, JCR Q1
+  IEEE *Consumer Electronics Magazine*, 14(6): 57-63 (2025).
 
   <!-- DOI: 10.1109/MCE.2024.3493776 -->
   <!-- <br> -->
@@ -191,7 +191,7 @@ I am a Ph.D. student at the [College of Cyber Science and Technology](http://cst
 
   Weicheng Song, **<font size=3>Siyou Guo</font>**, Mingliang Gao, Qilei Li, Xianxun Zhu, Imad Rida
 
-  *Image and Vision Computing* 162: 105663 (2025). IF=4.2, JCR Q1
+  *Image and Vision Computing* 162: 105663 (2025).
 
   <a href="assets/pdf/IMAVIS_Feature_Refinement.pdf" target="_blank">[PDF]</a>
 
@@ -201,7 +201,7 @@ I am a Ph.D. student at the [College of Cyber Science and Technology](http://cst
 
   Changcun Liu, Guisheng Zhang, **<font size=3>Siyou Guo</font>**, Qilei Li, Gwanggil Jeon, Mingliang Gao. 
 
-  IEEE *Transactions on Computational Social Systems*, 12(6): 5342-5349 (2025). IF=4.9, JCR Q1
+  IEEE *Transactions on Computational Social Systems*, 12(6): 5342-5349 (2025).
 
   <a href="assets/pdf/TCSS_Context_Aware.pdf" target="_blank">[PDF]</a>
 
@@ -210,7 +210,7 @@ I am a Ph.D. student at the [College of Cyber Science and Technology](http://cst
 
   Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=3>Siyou Guo</font>**, Gwanggil Jeon 
 
-  IEEE *Transactions on Consumer Electronics*, 71(2): 6371-6380 (2025). IF=10.9, JCR Q1
+  IEEE *Transactions on Consumer Electronics*, 71(2): 6371-6380 (2025).
 
   <a href="assets/pdf/TCE_Detecting_Sequential.pdf" target="_blank">[PDF]</a>
 
@@ -219,7 +219,7 @@ I am a Ph.D. student at the [College of Cyber Science and Technology](http://cst
 
   Guisheng Zhang, Mingliang Gao, Qilei Li, **<font size=3>Siyou Guo</font>**, Gwanggil Jeon, Ahmed M. Abdelmoniem
 
-  IEEE *Transactions on Computational Social Systems*, 12(5): 2940-2948 (2025). IF=4.9, JCR Q1
+  IEEE *Transactions on Computational Social Systems*, 12(5): 2940-2948 (2025).
 
   <a href="assets/pdf/TCSS_Space_Frequency.pdf" target="_blank">[PDF]</a>
 
