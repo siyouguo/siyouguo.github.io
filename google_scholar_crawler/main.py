@@ -10,11 +10,11 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-GOOGLE_SCHOLAR_ID = os.environ.get("GOOGLE_SCHOLAR_ID", "ZKXXk4IAAAAJ")
+GOOGLE_SCHOLAR_ID = os.environ.get("GOOGLE_SCHOLAR_ID", "-6apF3oAAAAJ")
 SCRAPER_API_KEY = os.environ.get("SCRAPER_API_KEY")
 REPO = "siyouguo/siyouguo.github.io"
 
-PROFILE_URL = f"https://scholar.google.com/citations?user={GOOGLE_SCHOLAR_ID}&hl=en"
+PROFILE_URL = f"https://scholar.google.com/citations?hl=zh-CN&user={GOOGLE_SCHOLAR_ID}"
 RAW_DATA_URL = (
     f"https://raw.githubusercontent.com/{REPO}/google-scholar-stats/gs_data.json"
 )
