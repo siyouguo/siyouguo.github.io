@@ -14,7 +14,7 @@ This is a **Jekyll static site** hosted on GitHub Pages at `siyouguo.github.io`.
 
 **Page structure**: The single page lives at `_pages/about.md` (permalink: `/`). It uses the `default` layout (`_layouts/default.html`) which composes: `head.html` → `masthead.html` → `sidebar.html` (with `author-profile.html`) → page content → `footer.html` → `scripts.html`. SCSS partials in `_sass/` are compiled into `assets/css/main.css` by Jekyll's Sass pipeline.
 
-**Google Scholar integration**: A Python script (`google_scholar_crawler/main.py`) uses the `scholarly` library to fetch citation counts from Google Scholar. A GitHub Actions workflow (`.github/workflows/google_scholar_crawler.yaml`) runs this daily at 8:00 UTC, committing the resulting JSON to the orphan `google-scholar-stats` branch. The site displays the citation badge via shields.io, pulling data from jsDelivr CDN (or raw GitHub) based on the `google_scholar_stats_use_cdn` config flag.
+**Google Scholar integration**: A Python script (`google_scholar_crawler/main.py`) directly scrapes the profile page (stdlib `urllib` + regex, no external deps) to fetch the citation count. A GitHub Actions workflow (`.github/workflows/google_scholar_crawler.yaml`) runs this daily at 8:00 UTC, committing the resulting JSON to the orphan `google-scholar-stats` branch. The site displays the citation badge via shields.io, pulling data from jsDelivr CDN (or raw GitHub) based on the `google_scholar_stats_use_cdn` config flag.
 
 **Navigation**: Defined in `_data/navigation.yml`. The masthead renders anchor links pointing to sections on the single about page (`/#about-me`, `/#-news`, `/#-publications`, etc.).
 

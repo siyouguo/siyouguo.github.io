@@ -13,16 +13,11 @@ jobs:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
     - uses: actions/checkout@v4
-    - name: Install Reqs
-      run: |
-        sudo apt-get install python3-setuptools
     - name: Run
       env:
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
-        SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }}
       run: |
         cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
         python3 main.py
         cd ./results
         git init
