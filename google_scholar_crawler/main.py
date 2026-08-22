@@ -1,5 +1,7 @@
-"""Fetch the Google Scholar total citation count by scraping the profile page directly.
+"""Fetch Google Scholar citation count via ScraperAPI proxy + regex parse.
 
+Google Scholar blocks requests from datacenter IPs (including GitHub Actions
+runners), so the profile page is fetched through ScraperAPI's residential proxy.
 Zero external dependencies — uses only the Python standard library (urllib + regex).
 """
 import json
@@ -7,9 +9,14 @@ import os
 import re
 import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 
-GOOGLE_SCHOLAR_ID = os.environ.get("GOOGLE_SCHOLAR_ID", "-6apF3oAAAAJ")
+# Hardcoded on purpose: the previous env-var lookup let a stale GitHub secret
+# (still pointing at the deleted profile) silently override this value. The ID is
+# already public in _config.yml and _pages/about.md, so it is not a secret.
+GOOGLE_SCHOLAR_ID = "-6apF3oAAAAJ"
+SCRAPER_API_KEY = os.environ.get("SCRAPER_API_KEY")
 REPO = "siyouguo/siyouguo.github.io"
 
 PROFILE_URL = f"https://scholar.google.com/citations?hl=en&user={GOOGLE_SCHOLAR_ID}"
@@ -17,7 +24,7 @@ RAW_DATA_URL = (
     f"https://raw.githubusercontent.com/{REPO}/google-scholar-stats/gs_data.json"
 )
 
-# A browser-like User-Agent makes Google Scholar less likely to reject the request.
+# Browser-like User-Agent — ScraperAPI forwards it to Google Scholar.
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -35,6 +42,16 @@ def http_get(url: str, timeout: int = 120) -> str:
         body = e.read().decode("utf-8", errors="replace")[:500]
         print(f"HTTP {e.code}: {body}", file=sys.stderr)
         raise
+
+
+def fetch_via_scraperapi(url: str, timeout: int = 120) -> str:
+    """Fetch a URL through the ScraperAPI proxy."""
+    api_url = (
+        "http://api.scraperapi.com"
+        f"?api_key={SCRAPER_API_KEY}"
+        f"&url={urllib.parse.quote(url, safe='')}"
+    )
+    return http_get(api_url, timeout=timeout)
 
 
 def parse_citation_count(html: str) -> int:
@@ -62,9 +79,13 @@ def fetch_existing_data() -> dict:
 
 
 def main() -> None:
+    if not SCRAPER_API_KEY:
+        print("ERROR: SCRAPER_API_KEY is not set", file=sys.stderr)
+        sys.exit(1)
+
     try:
-        print("Fetching Google Scholar profile...", file=sys.stderr)
-        html = http_get(PROFILE_URL)
+        print("Fetching Google Scholar profile via ScraperAPI...", file=sys.stderr)
+        html = fetch_via_scraperapi(PROFILE_URL)
 
         citedby = parse_citation_count(html)
         print(f"Total citations: {citedby}", file=sys.stderr)

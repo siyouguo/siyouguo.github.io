@@ -15,7 +15,7 @@ jobs:
     - uses: actions/checkout@v4
     - name: Run
       env:
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }}
       run: |
         cd ./google_scholar_crawler
         python3 main.py
