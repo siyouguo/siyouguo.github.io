@@ -21,11 +21,9 @@ redirect_from:
 
 <div style="line-height: 1.8;" markdown="1">
 
-I am a Ph.D. student at the [College of Cyber Science and Technology](http://cst.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/), advised by [Prof. Xin Liao](https://grzy.hnu.edu.cn/site/index/liaoxin). I received my M.S. degree from [Shandong University of Technology (SDUT)](https://www.sdut.edu.cn/), advised by [Prof. Mingliang Gao](https://scholar.google.com/citations?user=IFEIrUgAAAAJ&hl=en), and my B.Eng. in Automation from SDUT in 2023. My research focuses on computer vision and deepfake video detection.
+I am a Ph.D. student at the [College of Cyber Science and Technology](http://cst.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/) <img src="images/HNU-logo.png" alt="Hunan University" style="height: 2.7em; vertical-align: middle; margin: 0 0.2em;">, advised by [Prof. Xin Liao](https://grzy.hnu.edu.cn/site/index/liaoxin). I received my M.S. degree from [Shandong University of Technology (SDUT)](https://www.sdut.edu.cn/), advised by [Prof. Mingliang Gao](https://scholar.google.com/citations?user=IFEIrUgAAAAJ&hl=en), and my B.Eng. in Automation from SDUT in 2023. My research focuses on computer vision and deepfake video detection.
 
 <a href='https://scholar.google.com/citations?hl=zh-CN&user=-6apF3oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>  
-
-<p><img src="images/HNU-logo.png" alt="Hunan University" style="width: 360px; max-width: 100%; margin-top: 1em;"></p>
  
 <!-- My resume in Chinese is [here](assets/pdf/CV_Siyou_Guo_ZH.pdf). -->
 
