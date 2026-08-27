@@ -51,6 +51,23 @@
   display: none !important;
 }
 
+.masthead__logo-item {
+  a {
+    padding: 0;
+    margin-left: 0;
+
+    &:before {
+      display: none;
+    }
+  }
+
+  img {
+    display: block;
+    height: 32px;
+    width: auto;
+  }
+}
+
 .masthead__menu-item {
   display: block;
   list-style-type: none;

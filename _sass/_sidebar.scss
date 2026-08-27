@@ -145,6 +145,15 @@
   }
 }
 
+.author__logo {
+  img {
+    width: 150px;
+    max-width: 100%;
+    height: auto;
+    margin-top: 12px;
+  }
+}
+
 .author__urls-wrapper {
   position: relative;
   display: table-cell;
