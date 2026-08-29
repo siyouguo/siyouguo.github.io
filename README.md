@@ -18,13 +18,20 @@ Built on a customized version of the [Minimal Mistakes](https://github.com/mmist
 
 ```
 ├── _config.yml          # Site configuration
-├── _data/               # Navigation & data files
+├── _data/               # Navigation and structured content data
+│   ├── navigation.yml   # Main navigation links
+│   ├── news.yml         # Homepage news entries
+│   └── publications.yml # Publication metadata
 ├── _includes/           # Reusable HTML components
 ├── _layouts/            # Page layout templates
 ├── _pages/              # Main page content (about.md → /)
 ├── _sass/               # SCSS partials
 ├── assets/              # Static assets (CSS, JS, fonts)
-├── images/              # Image resources
+├── images/              # Organized image resources
+│   ├── profile/         # Personal profile images
+│   ├── affiliations/    # University and organization logos
+│   ├── publications/    # Paper thumbnails and figures
+│    └── icons/           # Favicon and web manifest
 └── google_scholar_crawler/  # Google Scholar citation scraper
 ```
 
@@ -32,7 +39,7 @@ Built on a customized version of the [Minimal Mistakes](https://github.com/mmist
 
 - **Responsive design** — mobile-friendly layout
 - **Auto-updating citations** — Google Scholar stats fetched daily via GitHub Actions
-- **Live reload** — Hawkins gem for instant dev feedback
+- **Structured content** — News and publication metadata are maintained in `_data/` and rendered through reusable includes
 - **Shields.io badges** — citation counts served via jsDelivr CDN
 
 ## Getting Started

@@ -1,0 +1,5 @@
+<div style="line-height: 1.8;" markdown="1">
+{% for item in site.data.news %}
+ *{{ item.date }}*: &nbsp;🎉🎉 {{ item.text }}{% unless forloop.last %}<br>{% endunless %}
+{% endfor %}
+</div>

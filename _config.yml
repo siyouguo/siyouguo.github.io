@@ -9,6 +9,8 @@
 title                    : "Siyou Guo"
 description              : "Ph.D. candidate"
 repository               : "siyouguo/siyouguo.github.io"
+baseurl                  : ""
+url                      : "https://siyouguo.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -22,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Siyou Guo"
-  avatar           : "images/Siyou-Guo.jpg"
+  avatar           : "images/profile/Siyou-Guo.jpg"
   bio              : "Hunan University"
   location         : "Changsha"
   employer         :
@@ -83,7 +85,6 @@ exclude:
   - README
   - Rakefile
   - assets/js/_main.js
-  - assets/js/plugins
   - assets/js/vendor
   - config
   - gulpfile.js

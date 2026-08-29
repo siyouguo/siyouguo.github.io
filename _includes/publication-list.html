@@ -1,0 +1,21 @@
+{% for publication in site.data.publications %}
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">{{ publication.badge }}
+</div>
+<img src='{{ publication.image | relative_url }}' alt="{{ publication.image_alt }}">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[{{ publication.title }}]({{ publication.url }}){% if publication.classification %} **<font color=red>({{ publication.classification }})</font>**{% endif %}
+
+  **<font size=3>Siyou Guo</font>**, {{ publication.authors }}
+
+  {{ publication.venue }}
+
+  <a href="{{ publication.pdf | relative_url }}" target="_blank">[PDF]</a>
+</div>
+</div>
+{% endfor %}
