@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Commands
 
-- **Start dev server**: `bundle exec jekyll liveserve` (or `./run_server.sh`) — uses the `hawkins` gem for live reload
+- **Start dev server**: `bundle exec jekyll serve --livereload` (or `./run_server.sh`)
 - **Install dependencies**: `bundle install`
 - **Fetch Google Scholar stats locally**: `cd google_scholar_crawler && pip3 install -r requirements.txt && python3 main.py`
 

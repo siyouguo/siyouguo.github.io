@@ -41,6 +41,7 @@ Built on a customized version of the [Minimal Mistakes](https://github.com/mmist
 - **Auto-updating citations** — Google Scholar stats fetched daily via GitHub Actions
 - **Structured content** — News and publication metadata are maintained in `_data/` and rendered through reusable includes
 - **Shields.io badges** — citation counts served via jsDelivr CDN
+- **Image performance** — publication figures use lazy loading; profile and affiliation images use descriptive alt text
 
 ## Getting Started
 
@@ -56,7 +57,7 @@ Built on a customized version of the [Minimal Mistakes](https://github.com/mmist
 bundle install
 
 # Start the dev server with live reload
-bundle exec jekyll liveserve
+bundle exec jekyll serve --livereload
 # or
 ./run_server.sh
 ```
