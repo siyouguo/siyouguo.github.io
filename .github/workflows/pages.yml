@@ -1,4 +1,4 @@
-name: Pages build and deployment
+name: pages build and deployment
 
 on:
   push:
@@ -25,6 +25,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
+          bundler: default
           bundler-cache: true
 
       - name: Setup Pages
