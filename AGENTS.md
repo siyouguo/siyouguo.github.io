@@ -4,7 +4,7 @@ This file provides guidance to Codex (Codex.ai/code) when working with code in t
 
 ## Commands
 
-- **Start dev server**: `bundle exec jekyll liveserve` (or `./run_server.sh`) — uses the `hawkins` gem for live reload
+- **Start dev server**: `./run_server.sh` (runs `bundle exec jekyll serve`; Jekyll 3.9 has no `--livereload` and the `hawkins`/`liveserve` gem is no longer in the Gemfile)
 - **Install dependencies**: `bundle install`
 - **Fetch Google Scholar stats locally**: `cd google_scholar_crawler && pip3 install -r requirements.txt && python3 main.py`
 

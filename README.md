@@ -53,12 +53,12 @@ Built on a customized version of the [Minimal Mistakes](https://github.com/mmist
 ### Local Development
 
 ```bash
-# Install Ruby dependencies
-bundle install
+# Install Ruby dependencies. On macOS with the system Ruby, a project-local
+# path avoids sudo (run_server.sh picks it up automatically):
+BUNDLE_PATH=.bundle/vendor bundle install
 
-# Start the dev server with live reload
-bundle exec jekyll serve --livereload
-# or
+# Start the dev server. Jekyll 3.9 has no live reload: the server rebuilds on
+# file changes, refresh the browser to see them.
 ./run_server.sh
 ```
 
