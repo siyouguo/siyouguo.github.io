@@ -1,9 +1,12 @@
-"""Fetch Google Scholar citation count via ScraperAPI proxy + regex parse.
+"""Fetch Google Scholar citation count and write shields.io/JSON payloads.
 
-Google Scholar blocks requests from datacenter IPs (including GitHub Actions
-runners), so the profile page is fetched through ScraperAPI's residential proxy.
+Runs from a local machine: residential IPs can reach Google Scholar directly,
+so no proxy is needed. Set SCRAPER_API_KEY to route through ScraperAPI instead
+(its free tier can no longer scrape Scholar's protected domain — premium plan
+required), which is why CI is not used for this job.
 Zero external dependencies — uses only the Python standard library (urllib + regex).
 """
+import datetime
 import json
 import os
 import re
@@ -12,19 +15,14 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-# Hardcoded on purpose: the previous env-var lookup let a stale GitHub secret
-# (still pointing at the deleted profile) silently override this value. The ID is
-# already public in _config.yml and _pages/about.md, so it is not a secret.
+# Hardcoded on purpose: the value is already public in _config.yml and
+# _pages/about.md, and a stale GitHub secret once silently overrode it.
 GOOGLE_SCHOLAR_ID = "-6apF3oAAAAJ"
 SCRAPER_API_KEY = os.environ.get("SCRAPER_API_KEY")
-REPO = "siyouguo/siyouguo.github.io"
 
 PROFILE_URL = f"https://scholar.google.com/citations?hl=en&user={GOOGLE_SCHOLAR_ID}"
-RAW_DATA_URL = (
-    f"https://raw.githubusercontent.com/{REPO}/google-scholar-stats/gs_data.json"
-)
 
-# Browser-like User-Agent — ScraperAPI forwards it to Google Scholar.
+# Browser-like User-Agent — Google Scholar serves the profile to it.
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -69,32 +67,26 @@ def parse_citation_count(html: str) -> int:
     return int(matches[0])
 
 
-def fetch_existing_data() -> dict:
-    """Download the existing gs_data.json to preserve per-publication data."""
-    try:
-        return json.loads(http_get(RAW_DATA_URL, timeout=30))
-    except Exception as e:
-        print(f"Note: Could not fetch existing gs_data.json: {e}", file=sys.stderr)
-        return {}
-
-
 def main() -> None:
-    if not SCRAPER_API_KEY:
-        print("ERROR: SCRAPER_API_KEY is not set", file=sys.stderr)
-        sys.exit(1)
-
     try:
-        print("Fetching Google Scholar profile via ScraperAPI...", file=sys.stderr)
-        html = fetch_via_scraperapi(PROFILE_URL)
+        if SCRAPER_API_KEY:
+            print("Fetching Google Scholar profile via ScraperAPI...", file=sys.stderr)
+            html = fetch_via_scraperapi(PROFILE_URL)
+        else:
+            print("Fetching Google Scholar profile directly...", file=sys.stderr)
+            html = http_get(PROFILE_URL)
 
         citedby = parse_citation_count(html)
         print(f"Total citations: {citedby}", file=sys.stderr)
 
-        data = fetch_existing_data()
-        data["citedby"] = citedby
-
         os.makedirs("results", exist_ok=True)
 
+        data = {
+            "scholar_id": GOOGLE_SCHOLAR_ID,
+            "citedby": citedby,
+            "publications": {},
+            "updated": datetime.datetime.now().isoformat(timespec="seconds"),
+        }
         with open("results/gs_data.json", "w") as f:
             json.dump(data, f, ensure_ascii=False)
 

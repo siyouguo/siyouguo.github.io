@@ -38,9 +38,9 @@ Built on a customized version of the [Minimal Mistakes](https://github.com/mmist
 ## Features
 
 - **Responsive design** — mobile-friendly layout
-- **Auto-updating citations** — Google Scholar stats fetched daily via GitHub Actions
+- **Citation badge** — Google Scholar stats refreshed by running the local crawler script (see below)
 - **Structured content** — News and publication metadata are maintained in `_data/` and rendered through reusable includes
-- **Shields.io badges** — citation counts served via jsDelivr CDN
+- **Shields.io badges** — citation counts served from the `google-scholar-stats` branch
 - **Image performance** — publication figures use lazy loading; profile and affiliation images use descriptive alt text
 
 ## Getting Started
@@ -62,15 +62,20 @@ BUNDLE_PATH=.bundle/vendor bundle install
 ./run_server.sh
 ```
 
-### Google Scholar Crawler
+### Google Scholar Stats
+
+Google Scholar blocks datacenter IPs, so stats are refreshed manually from a
+local machine (no CI job, no third-party proxy needed):
 
 ```bash
 cd google_scholar_crawler
-pip3 install -r requirements.txt
-python3 main.py
-```
+python3 main.py   # stdlib only; writes results/*.json with the citation count
 
-A GitHub Actions workflow runs the crawler daily at 8:00 UTC and commits results to the `google-scholar-stats` branch.
+# Publish to the orphan branch the shields.io badge reads from:
+tmp=$(mktemp -d) && cp results/*.json "$tmp/" && cd "$tmp"
+git init && git add *.json && git commit -m "Updated Citation Data"
+git push git@github.com:siyouguo/siyouguo.github.io.git HEAD:google-scholar-stats --force
+```
 
 ## Deployment
 
