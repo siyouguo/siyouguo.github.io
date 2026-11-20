@@ -6,3 +6,11 @@ push.sh
 .jekyll-cache/
 .sass-cache/
 serve.js
+
+# Local agent/tooling files — not part of the site or repository
+AGENTS.md
+CLAUDE.md
+.claude/
+.superpowers/
+docs/superpowers/
+.workbuddy-ai/
