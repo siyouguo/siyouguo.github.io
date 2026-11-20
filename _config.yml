@@ -64,9 +64,7 @@ author:
 
 # Reading Files
 include:
-  - .htaccess
   - _pages
-  - files
 exclude:
   - docs
   - google_scholar_crawler
@@ -83,9 +81,10 @@ exclude:
   - Gruntfile.js
   - LICENSE
   - README
+  - AGENTS.md
+  - CLAUDE.md
   - Rakefile
   - assets/js/_main.js
-  - assets/js/vendor
   - config
   - gulpfile.js
   - log
@@ -143,23 +142,11 @@ timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_
 
 # Plugins
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
-  - jemoji
-
-
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
+  - jekyll-redirect-from

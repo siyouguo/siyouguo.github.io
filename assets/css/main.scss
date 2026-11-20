@@ -91,7 +91,7 @@
 }
 
 $scroll_offset : 2em;
-h1:before, .anchor:before { 
+h1:before, h2:before {
     content: ''; 
     display: block; 
     position: relative; 

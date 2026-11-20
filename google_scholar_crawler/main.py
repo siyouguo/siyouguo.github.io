@@ -45,7 +45,7 @@ def http_get(url: str, timeout: int = 120) -> str:
 def fetch_via_scraperapi(url: str, timeout: int = 120) -> str:
     """Fetch a URL through the ScraperAPI proxy."""
     api_url = (
-        "http://api.scraperapi.com"
+        "https://api.scraperapi.com"
         f"?api_key={SCRAPER_API_KEY}"
         f"&url={urllib.parse.quote(url, safe='')}"
     )

@@ -6,11 +6,9 @@ A personal academic website built with **Jekyll** and hosted on **GitHub Pages**
 
 This site serves as my academic homepage — a single-page profile featuring:
 
+- **About** with a bilingual profile (Chinese / English)
 - **Publications** with citation counts
 - **News & updates**
-- **Education** timeline
-- **Honors & awards**
-- **Bilingual profile** (Chinese / English)
 
 Built on a customized version of the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) Jekyll theme, with custom research paper box components, badge styling, and responsive design.
 
@@ -42,22 +40,23 @@ Built on a customized version of the [Minimal Mistakes](https://github.com/mmist
 - **Structured content** — News and publication metadata are maintained in `_data/` and rendered through reusable includes
 - **Shields.io badges** — citation counts served from the `google-scholar-stats` branch
 - **Image performance** — publication figures use lazy loading; profile and affiliation images use descriptive alt text
+- **Minimal runtime** — `assets/js/main.min.js` is the only deployed script bundle; `assets/js/_main.js` and `assets/js/plugins/` are reference sources excluded from the build
 
 ## Getting Started
 
 ### Prerequisites
 
-- Ruby (with Bundler)
+- Ruby 3.3+ (with Bundler); the dev script prefers Homebrew `ruby@3.3` on macOS
 - Python 3 (for the Google Scholar crawler)
 
 ### Local Development
 
 ```bash
-# Install Ruby dependencies. On macOS with the system Ruby, a project-local
-# path avoids sudo (run_server.sh picks it up automatically):
+# Install Ruby dependencies. A project-local path avoids sudo and keeps gems
+# aligned with the Ruby version used by run_server.sh:
 BUNDLE_PATH=.bundle/vendor bundle install
 
-# Start the dev server. Jekyll 3.9 has no live reload: the server rebuilds on
+# Start the dev server. Jekyll 3.x has no live reload: the server rebuilds on
 # file changes, refresh the browser to see them.
 ./run_server.sh
 ```

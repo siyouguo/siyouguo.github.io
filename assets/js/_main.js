@@ -1,5 +1,9 @@
 /* ==========================================================================
    jQuery plugin settings and other scripts
+
+   NOTE: This is a reference source only. The deployed script is
+   assets/js/main.min.js, which is not regenerated from this file.
+   Editing this file does not change the live site.
    ========================================================================== */
 
 $(document).ready(function(){
