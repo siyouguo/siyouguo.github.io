@@ -33,7 +33,7 @@ BUNDLE_PATH=.bundle/vendor bundle install
 - Profile and links: `_config.yml`, `_pages/about.md`
 - News: `_data/news.yml`
 - Publications: `_data/publications.yml`
-- Citation count: run `cd google_scholar_crawler && python3 main.py`, then push the generated JSON to the orphan `google-scholar-stats` branch
+- Citation count: run `cd google_scholar_crawler && python3 main.py`, then push only `results/gs_data_shieldsio.json` to the orphan `google-scholar-stats` branch
 - Deployment: push to `main`; GitHub Pages builds automatically
 
 MIT license. See [LICENSE](LICENSE).

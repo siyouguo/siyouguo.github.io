@@ -1,4 +1,4 @@
-"""Fetch Google Scholar citation count and write shields.io/JSON payloads.
+"""Fetch Google Scholar citation count and write the shields.io badge payload.
 
 Runs from a local machine: residential IPs can reach Google Scholar directly,
 so no proxy is needed. Set SCRAPER_API_KEY to route through ScraperAPI instead
@@ -6,7 +6,6 @@ so no proxy is needed. Set SCRAPER_API_KEY to route through ScraperAPI instead
 required), which is why CI is not used for this job.
 Zero external dependencies — uses only the Python standard library (urllib + regex).
 """
-import datetime
 import json
 import os
 import re
@@ -81,25 +80,13 @@ def main() -> None:
 
         os.makedirs("results", exist_ok=True)
 
-        data = {
-            "scholar_id": GOOGLE_SCHOLAR_ID,
-            "citedby": citedby,
-            "publications": {},
-            "updated": datetime.datetime.now().isoformat(timespec="seconds"),
-        }
-        with open("results/gs_data.json", "w") as f:
-            json.dump(data, f, ensure_ascii=False)
-
         with open("results/gs_data_shieldsio.json", "w") as f:
             json.dump(
                 {"schemaVersion": 1, "label": "citations", "message": str(citedby)},
                 f,
             )
 
-        print(
-            f"Done: gs_data.json, gs_data_shieldsio.json (citedby={citedby})",
-            file=sys.stderr,
-        )
+        print(f"Done: gs_data_shieldsio.json (citedby={citedby})", file=sys.stderr)
 
     except Exception as e:
         print(f"FATAL: {type(e).__name__}: {e}", file=sys.stderr)
