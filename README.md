@@ -6,18 +6,6 @@
 
 A single-page academic profile at [siyouguo.github.io](https://siyouguo.github.io), built with Jekyll and hosted on GitHub Pages.
 
-## Architecture
-
-```mermaid
-flowchart LR
-    D[_data] --> I[_includes]
-    P[_pages] --> L[_layouts]
-    I --> L
-    S[assets + _sass] --> O[_site]
-    L --> O
-    O --> GH[GitHub Pages]
-```
-
 ## Layout
 
 | Path | Purpose |
